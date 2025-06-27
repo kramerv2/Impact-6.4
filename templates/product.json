@@ -32,7 +32,7 @@
             "selector_style": "block",
             "swatch_selector_style": "swatch",
             "variant_image_options": "",
-            "size_chart_page": ""
+            "size_chart_page": "{{ product.metafields.custom.tableau_des_tailles.value }}"
           }
         },
         "buy_buttons_DBxqnr": {
