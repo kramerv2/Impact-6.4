@@ -38,8 +38,8 @@
         "buy_buttons_DBxqnr": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
@@ -99,7 +99,7 @@
             "hour": "00",
             "minute": "00",
             "hide_timer_on_completed": false,
-            "color": "#FFFFFF",
+            "color": "#ffffff",
             "font_size_number": 20,
             "font_size_text": 10
           }
