@@ -1,1 +1,62 @@
-{"type":"footer","name":"Footer group","sections":{"footer":{"type":"footer","blocks":{"newsletter":{"type":"newsletter","settings":{"image":"shopify:\/\/shop_images\/Sans_titre-4.png","image_width":150,"heading_size":"h3","title":"","content":""}},"links_L4R9qx":{"type":"links","settings":{"menu":"main-menu","show_menu_title":true,"menu_title":""}},"links":{"type":"links","settings":{"menu":"footer","show_menu_title":true,"menu_title":""}}},"block_order":["newsletter","links_L4R9qx","links"],"settings":{"show_social_media":true,"show_payment_icons":true,"show_country_selector":true,"show_country_flag":true,"show_country_name":true,"show_locale_selector":true}}},"order":["footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "newsletter": {
+          "type": "newsletter",
+          "disabled": true,
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "",
+            "content": ""
+          }
+        },
+        "links_L4R9qx": {
+          "type": "links",
+          "settings": {
+            "menu": "main-menu",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "newsletter",
+        "links_L4R9qx",
+        "links"
+      ],
+      "settings": {
+        "show_social_media": true,
+        "show_payment_icons": true,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": true,
+        "show_locale_selector": true
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
