@@ -19,14 +19,22 @@
         "heading_cYdGX4": {
           "type": "heading",
           "settings": {
-            "text": "Video",
+            "text": "Wielka zimowa wyprzedaż",
+            "heading_tag": "h2"
+          }
+        },
+        "heading_ymgmXK": {
+          "type": "heading",
+          "settings": {
+            "text": "Do -70%",
             "heading_tag": "h1"
           }
         }
       },
       "block_order": [
         "play_emmDHe",
-        "heading_cYdGX4"
+        "heading_cYdGX4",
+        "heading_ymgmXK"
       ],
       "name": "Video",
       "settings": {
@@ -38,7 +46,7 @@
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 51
       }
     },
     "featured_collection_kEMRtM": {
