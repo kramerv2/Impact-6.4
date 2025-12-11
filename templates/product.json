@@ -109,6 +109,7 @@
         "text_QUhNMq",
         "timer_kNTirK"
       ],
+      "disabled": true,
       "name": "SS - Countdown Timer Bar",
       "settings": {
         "target_selector": ".header, .pageheader, .section-header, #announcement, .toolbar, .header__wrapper, .onboarding-header",
