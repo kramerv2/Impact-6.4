@@ -17,21 +17,29 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "LIVRAISON OFFERTE JUSQU'A NOEL",
+            "text": "30 DNI GWARANCJI ZWROTU PIENIĘDZY",
             "url": ""
           }
         },
         "message_hjBBBN": {
           "type": "message",
           "settings": {
-            "text": "JUSQU'AU 30/12 ECONOMISEZ 33%",
+            "text": "4,7/5 NA PODSTAWIE (1100+ OPINII)",
+            "url": ""
+          }
+        },
+        "message_aMAeLe": {
+          "type": "message",
+          "settings": {
+            "text": "10% RABATU PRZY ZAKUPIE 2 SZTUK",
             "url": ""
           }
         }
       },
       "block_order": [
         "message",
-        "message_hjBBBN"
+        "message_hjBBBN",
+        "message_aMAeLe"
       ],
       "settings": {
         "enable_sticky": false,
