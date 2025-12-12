@@ -591,6 +591,7 @@ height-observer, visibility-progress, scroll-area, video-media, model-media, med
   padding-block-end: var(--spacing-4);
   padding-inline-start: var(--spacing-8);
   padding-inline-end: var(--spacing-8);
+  border-radius:0;
 }
 
 .button--secondary {
