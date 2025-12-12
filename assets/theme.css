@@ -9079,6 +9079,7 @@ split-lines {
 
 .text-on-sale {
   color: rgb(var(--on-sale-text));
+  font-weight:600;
 }
 
 .text-stroke {
