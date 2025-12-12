@@ -14,16 +14,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "disabled": true,
-          "settings": {
-            "image_width": 150,
-            "heading_size": "h3",
-            "title": "",
-            "content": ""
-          }
-        },
         "links_L4R9qx": {
           "type": "links",
           "settings": {
@@ -39,12 +29,20 @@
             "show_menu_title": true,
             "menu_title": ""
           }
+        },
+        "text_nhchfD": {
+          "type": "text",
+          "settings": {
+            "title": "Obsługa klienta",
+            "content": "<p>Możesz na nas liczyć — oferujemy wsparcie dla klientów każdego dnia.<br/><br/>Nasz zespół obsługi klienta jest gotowy pomóc Ci we wszystkich sprawach.</p><p>🕒 <strong>Godziny pracy:</strong></p><ul><li>Poniedziałek – Piątek: 09:00 – 18:00 (CET/CEST)</li><li>Sobota: 09:00 – 17:00 (CET/CEST)</li><li>Niedziela: 10:00 – 16:00 (CET/CEST)</li></ul><p>✉️ <strong>Kontakt:</strong> <a>contact@trendova.pl</a><br/>📍 <strong>Lokalizacja:</strong> Warszawa, 🇵🇱</p>",
+            "enable_follow_on_shop": true
+          }
         }
       },
       "block_order": [
-        "newsletter",
         "links_L4R9qx",
-        "links"
+        "links",
+        "text_nhchfD"
       ],
       "settings": {
         "show_social_media": true,
