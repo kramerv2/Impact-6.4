@@ -443,6 +443,9 @@
     "checkout": {
       "order_summary": {
         "enter_shipping_address": "Darmowa"
+      },
+      "shipping_errors": {
+        "empty_state": "Zamówienia złożone przed 23:00 wysyłamy następnego dnia"
       }
     }
   }
