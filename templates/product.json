@@ -259,8 +259,8 @@
         "scrolling_velocity_mobile": 40,
         "scrolling_gap": 24,
         "scrolling_gap_mobile": 24,
-        "scrolling_in_row": false,
-        "reverse_direction": true,
+        "scrolling_in_row": true,
+        "reverse_direction": false,
         "slide_width": 360,
         "slide_width_mobile": 340,
         "slide_padding_vertical": 20,
@@ -336,7 +336,7 @@
         "padding_horizontal": 0,
         "padding_horizontal_mobile": 0,
         "full_width": true,
-        "content_width": 120,
+        "content_width": 130,
         "border_thickness": 0,
         "lazy": true
       }
