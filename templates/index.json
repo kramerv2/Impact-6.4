@@ -20,14 +20,14 @@
           "type": "heading",
           "settings": {
             "text": "Wielka zimowa wyprzedaż",
-            "heading_tag": "h2"
+            "heading_tag": "h4"
           }
         },
         "heading_ymgmXK": {
           "type": "heading",
           "settings": {
             "text": "Do -70%",
-            "heading_tag": "h1"
+            "heading_tag": "h2"
           }
         }
       },
