@@ -340,12 +340,160 @@
         "border_thickness": 0,
         "lazy": true
       }
+    },
+    "ss_scrolling_images_pgDAnm": {
+      "type": "ss-scrolling-images",
+      "blocks": {
+        "image_9WkhAM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/I_Moved_to_Paris_and_Learned_5_Very_Valuable_Fashion_Lessons.webp",
+            "url": ""
+          }
+        },
+        "image_AV9qtA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/b15df486a502ac840974e8884542f66a.webp",
+            "url": ""
+          }
+        },
+        "image_bxjWRH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/08b7127d961d0089dfd9c666bec25534.webp",
+            "url": ""
+          }
+        },
+        "image_dqzJge": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/trendova_shopify_optimized.jpg",
+            "url": ""
+          }
+        },
+        "image_dptATn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/476003105_17845948758407902_8357618397879265247_n.jpg",
+            "url": ""
+          }
+        },
+        "image_FDRFfF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/9741e50e0fa61a32327c4c42c840495d_74ef8fba-d332-460d-8505-1982870864f4.webp",
+            "url": ""
+          }
+        },
+        "image_8kQGyi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/trendova_shopify_optimized_box.jpg",
+            "url": ""
+          }
+        },
+        "image_nMnT4B": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/a439902d3673bffafd527b1b865339ad.webp",
+            "url": ""
+          }
+        },
+        "image_A8qkiA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4a96d0fcaa7f9a10611e585dd7cd7b35.webp",
+            "url": ""
+          }
+        },
+        "image_zDt9Hx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/694ea3ea5f6aef1900f790c8b3338a1d.webp",
+            "url": ""
+          }
+        },
+        "image_7VFLVG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/475944174_17845949172407902_3817677168902999382_n.jpg",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_9WkhAM",
+        "image_AV9qtA",
+        "image_bxjWRH",
+        "image_dqzJge",
+        "image_dptATn",
+        "image_FDRFfF",
+        "image_8kQGyi",
+        "image_nMnT4B",
+        "image_A8qkiA",
+        "image_zDt9Hx",
+        "image_7VFLVG"
+      ],
+      "name": "SS - Scrolling images",
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_height": 130,
+        "heading_align": "center",
+        "slider_speed": 21,
+        "slider_gap": 10,
+        "slider_gap_mobile": 10,
+        "slider_mt": 50,
+        "slider_direction": "left",
+        "pause_hover": false,
+        "image_width_desktop": 300,
+        "image_width_mobile": 120,
+        "image_height_desktop": 400,
+        "image_height_mobile": 200,
+        "image_radius": 10,
+        "use_content": true,
+        "content_position": "center",
+        "content_max_width": 340,
+        "content_max_width_mobile": 340,
+        "content_padding_vertical": 30,
+        "content_padding_horizontal": 30,
+        "content_distance": 60,
+        "content_radius": 10,
+        "content_border_thickness": 0,
+        "use_shadow": true,
+        "text": "<p>Z ponad <strong>9 000+</strong> klientami na całym świecie, społeczność <strong>Trendova</strong> jest większa niż kiedykolwiek wcześniej.</p>",
+        "text_custom": false,
+        "text_font": "assistant_n4",
+        "text_size": 18,
+        "text_height": 130,
+        "heading_color": "#000000",
+        "content_bg": "#FFFFFF",
+        "content_border_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
     "main",
     "53_Rb3MJd",
     "related_products_VLHTa6",
-    "37_e6aRrP"
+    "37_e6aRrP",
+    "ss_scrolling_images_pgDAnm"
   ]
 }
