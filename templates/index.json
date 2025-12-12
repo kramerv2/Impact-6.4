@@ -73,10 +73,66 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "collection_list_QRck8W": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_qHjmLB": {
+          "type": "collection",
+          "settings": {
+            "collection": "meskie-bestsellery",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_9G8Y47": {
+          "type": "collection",
+          "settings": {
+            "collection": "damskie-bestsellery",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_qHjmLB",
+        "collection_9G8Y47"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": false,
+        "collections_per_row_mobile": "1",
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
     "video_HGRQBG",
-    "featured_collection_kEMRtM"
+    "featured_collection_kEMRtM",
+    "collection_list_QRck8W"
   ]
 }
