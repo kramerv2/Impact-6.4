@@ -221,6 +221,13 @@
             "url": ""
           }
         },
+        "image_JVyUez": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/trendova_shopify_optimized.jpg",
+            "url": ""
+          }
+        },
         "image_ydGqCq": {
           "type": "image",
           "settings": {
@@ -262,6 +269,7 @@
         "image_pHcYAQ",
         "image_RqKyzi",
         "image_GiV8Ni",
+        "image_JVyUez",
         "image_ydGqCq",
         "image_k9MtRj",
         "image_CJwP9y",
