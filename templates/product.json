@@ -487,6 +487,94 @@
         "border_thickness": 0,
         "lazy": true
       }
+    },
+    "slideshow_79VL8M": {
+      "type": "slideshow",
+      "blocks": {
+        "image_gAcEez": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3ac473028c2ac7fdca72bd311ea99dad_1.webp",
+            "mobile_image": "shopify://shop_images/3ac473028c2ac7fdca72bd311ea99dad_1.webp",
+            "content_max_width": 800,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Każdy wymiar jest precyzyjnie przemyślany, każdy detal perfekcyjnie dopracowany. Wybierz doskonałość.",
+            "title": "SKROJONE DLA DOSKONAŁOŚCI",
+            "heading_tag": "h3",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_fQNCGW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/6b5807fd903e61629355833e616513ca_1.webp",
+            "mobile_image": "shopify://shop_images/6b5807fd903e61629355833e616513ca_1.webp",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_PkJDR6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3b9e16fe059170bf750a89d2d372383c_1.webp",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_gAcEez",
+        "image_fQNCGW",
+        "image_PkJDR6"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "sm",
+        "controls_type": "filled_arrows",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
     }
   },
   "order": [
@@ -494,6 +582,7 @@
     "53_Rb3MJd",
     "related_products_VLHTa6",
     "37_e6aRrP",
-    "ss_scrolling_images_pgDAnm"
+    "ss_scrolling_images_pgDAnm",
+    "slideshow_79VL8M"
   ]
 }
