@@ -154,12 +154,48 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "media_with_text_4DxUBb": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_NMb3Kr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/modified_background_F0F0F0.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "O Trendova",
+            "content": "<p>W Trendova wierzymy, że moda to coś więcej niż tylko to, co nosisz — to sposób wyrażania indywidualności, pewności siebie i stylu. Nasza pasja do wysokiej jakości ubrań oraz dbałość o wyjątkową obsługę klienta stanowią fundament wszystkiego, co robimy.</p><p>Każdy element naszej kolekcji jest starannie zaprojektowany, aby inspirować i podkreślać Twój charakter, łącząc ponadczasową elegancję z nowoczesnym wyrafinowaniem. Chcemy, abyś czuła się i wyglądała najlepiej — niezależnie od tego, czy wybierasz codzienny komfort, styl na wyjątkową okazję, czy coś pomiędzy.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_NMb3Kr"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
     "video_HGRQBG",
     "featured_collection_kEMRtM",
     "collection_list_QRck8W",
-    "featured_collection_3efJjq"
+    "featured_collection_3efJjq",
+    "media_with_text_4DxUBb"
   ]
 }
