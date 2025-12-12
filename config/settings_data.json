@@ -62,6 +62,7 @@
     "cart_show_free_shipping_threshold": true,
     "cart_free_shipping_threshold": "20",
     "social_facebook": "https://www.facebook.com/profile.php?id=61585192883705",
+    "favicon": "shopify://shop_images/cropped_circle_image_15.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": []
