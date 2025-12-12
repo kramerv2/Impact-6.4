@@ -182,8 +182,8 @@
           "settings": {
             "image": "shopify://shop_images/e90ddd20-87ae-4d47-9ae5-60d0ed1aa31e.avif",
             "stars_count": 5,
-            "heading": "<h3>Jake A</h3>",
-            "text": "<p>“Showcase stellar reviews from your valued clients to highlight the best of customer feedback and satisfaction.”</p>"
+            "heading": "<p>Anna K.</p>",
+            "text": "<p>Na początku miałam wątpliwości co do rozmiaru, więc zamówiłam tylko jedną parę butów. Okazały się idealne! Po pierwszej dostawie od razu zamówiłam kolejne. Wysyłka szybka, wszystko bez problemu.</p>"
           }
         },
         "slide_cQwWCJ": {
@@ -191,8 +191,8 @@
           "settings": {
             "image": "shopify://shop_images/sectie_4.webp",
             "stars_count": 5,
-            "heading": "<h3>Steven F</h3>",
-            "text": "<p>“Showcase stellar reviews from your valued clients to highlight the best of customer feedback and satisfaction.”</p>"
+            "heading": "<p>Michał P.</p>",
+            "text": "<p>Obsługa klienta na wysokim poziomie — szybko odpowiedzieli na moje pytania przed zakupem. Dostawa bez opóźnień. Na pewno jeszcze tu wrócę.</p>"
           }
         },
         "slide_zRAHDY": {
@@ -237,7 +237,7 @@
         "scrolling_gap": 24,
         "scrolling_gap_mobile": 24,
         "scrolling_in_row": false,
-        "reverse_direction": false,
+        "reverse_direction": true,
         "slide_width": 360,
         "slide_width_mobile": 340,
         "slide_padding_vertical": 20,
@@ -279,7 +279,7 @@
         "tag_align_mobile": "left",
         "tag_width": 20,
         "tag_width_mobile": 20,
-        "tag_text": "Verified buyer",
+        "tag_text": "Zweryfikowany kupujący",
         "tag_text_custom": false,
         "tag_text_font": "josefin_sans_n4",
         "tag_text_size": 12,
