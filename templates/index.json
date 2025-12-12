@@ -193,6 +193,13 @@
     "ss_scrolling_images_hQeRkh": {
       "type": "ss-scrolling-images",
       "blocks": {
+        "image_FmEJXx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/trendova_shopify_optimized_box.jpg",
+            "url": ""
+          }
+        },
         "image_b8TFzT": {
           "type": "image",
           "settings": {
@@ -265,6 +272,7 @@
         }
       },
       "block_order": [
+        "image_FmEJXx",
         "image_b8TFzT",
         "image_pHcYAQ",
         "image_RqKyzi",
