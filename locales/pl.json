@@ -446,6 +446,9 @@
       },
       "shipping_errors": {
         "empty_state": "Zamówienia złożone przed 23:00 wysyłamy następnego dnia"
+      },
+      "general": {
+        "pay_now_button_label": "Złóż zamówienie"
       }
     }
   }
