@@ -31,6 +31,7 @@
     },
     "main": {
       "type": "main-collection",
+      "disabled": true,
       "custom_css": [
         ".product-list img {background-color: #f7f7f7; /* Remplacez #f0f0f0 par la couleur de fond souhaitée */}"
       ],
@@ -45,10 +46,81 @@
         "show_filter_values_count": false,
         "open_first_filter_group": false
       }
+    },
+    "collection_list_mrxRJn": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_epN4am": {
+          "type": "collection",
+          "settings": {
+            "collection": "buty-i-sandaly-damskie",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_P4fefR": {
+          "type": "collection",
+          "settings": {
+            "collection": "buty-meskie",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_Yqcj9V": {
+          "type": "collection",
+          "settings": {
+            "collection": "damskie-bestsellery",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_epN4am",
+        "collection_P4fefR",
+        "collection_Yqcj9V"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": true,
+        "collections_per_row_mobile": "1",
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
     "banner",
-    "main"
+    "main",
+    "collection_list_mrxRJn"
   ]
 }
