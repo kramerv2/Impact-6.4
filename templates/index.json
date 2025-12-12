@@ -128,11 +128,38 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "featured_collection_3efJjq": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "meskie-bestsellery",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Męskie bestsellery",
+        "content": "",
+        "link_url": "",
+        "link_text": "Zobacz wszystko",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
     "video_HGRQBG",
     "featured_collection_kEMRtM",
-    "collection_list_QRck8W"
+    "collection_list_QRck8W",
+    "featured_collection_3efJjq"
   ]
 }
