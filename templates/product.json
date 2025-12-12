@@ -75,6 +75,22 @@
           "settings": {
             "collapse_content": false
           }
+        },
+        "collapsible_text_cG3RKH": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Darmowa dostawa",
+            "content": "<p>Oferujemy darmową wysyłkę na terenie Polski we współpracy z naszym zaufanym partnerem logistycznym <strong>InPost</strong>.<br/><br/>Swoją przesyłkę możesz łatwo śledzić za pomocą numeru śledzenia, który otrzymasz po wysyłce zamówienia.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_Mwitjx": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "30 dni na łatwy zwrot",
+            "content": "<p>Nie jesteś w pełni zadowolony? Bez obaw! Możesz szybko i bezproblemowo zwrócić swoje zamówienie w ciągu <strong>30 dni</strong> od jego otrzymania. Dbamy o to, aby cały proces był prosty i wygodny, tak abyś nie musiał się niczym martwić.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -86,7 +102,9 @@
         "buy_buttons_DBxqnr",
         "liquid_Q4UrJd",
         "liquid_gVUyNB",
-        "description_WVjdL8"
+        "description_WVjdL8",
+        "collapsible_text_cG3RKH",
+        "collapsible_text_Mwitjx"
       ],
       "custom_css": [],
       "settings": {
