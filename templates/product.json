@@ -86,7 +86,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Darmowa dostawa",
-            "content": "<p>Oferujemy darmową wysyłkę na terenie Polski we współpracy z naszym zaufanym partnerem logistycznym <strong>InPost</strong>.<br/><br/>Swoją przesyłkę możesz łatwo śledzić za pomocą numeru śledzenia, który otrzymasz po wysyłce zamówienia.</p>",
+            "content": "<p>Oferujemy darmową wysyłkę na terenie Polski we współpracy z naszym zaufanym partnerem logistycznym InPost.</p><p>Standardowy czas dostawy wynosi <strong>6–9 dni roboczych</strong>.</p><p>Swoją przesyłkę możesz łatwo śledzić za pomocą numeru śledzenia, który otrzymasz po wysyłce zamówienia.</p>",
             "page": ""
           }
         },
