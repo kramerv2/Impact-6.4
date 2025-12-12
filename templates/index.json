@@ -196,7 +196,8 @@
         "image_WeHaVn": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Screenshot_2025-12-12_122907.png",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -211,15 +212,16 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 20
           }
         },
         "image_fCPRg3": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/christin-hume-hBuwVLcYTnA-unsplash.webp",
+            "title": "",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://pages/kariera",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -238,9 +240,10 @@
         "image_EqxVa6": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/rer.avif",
+            "title": "",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://pages/o-nas",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -259,9 +262,10 @@
         "image_cXUPyp": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/iStock-1306620421_1.webp",
+            "title": "",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://pages/polityka-wysylki",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -274,7 +278,7 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 17
           }
         }
       },
