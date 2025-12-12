@@ -9854,7 +9854,7 @@ split-lines {
 }
 
 .text-lg {
-  font-size: var(--text-lg)+1px;
+  font-size: var(--text-lg) +5px;
   line-height: 1.6;
   font-weight:600;
 }
