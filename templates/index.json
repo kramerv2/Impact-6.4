@@ -43,10 +43,10 @@
         "autoplay": true,
         "video_size": "sm",
         "video": "shopify://files/videos/9d23dbb92c95417fb5e33e933e637b77.HD-1080p-2.5Mbps-46228302.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 51
+        "overlay_opacity": 53
       }
     },
     "featured_collection_kEMRtM": {
