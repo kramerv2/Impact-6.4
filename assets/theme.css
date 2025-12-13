@@ -10011,7 +10011,7 @@ split-lines {
 /* Cart icon: follow header color (black normally, white on transparent overlay) */
 .header__icon-list a[href*="/cart"] svg,
 .header__icon-list a[href*="/cart"] svg * {
-  stroke: 1.4 !important;
+  stroke: currentColor !important;
   fill: none !important;
 }
 
