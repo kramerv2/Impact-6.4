@@ -10008,6 +10008,11 @@ split-lines {
 .product-gallery__media.snap-center.is-selected {
   position: relative;
 }
-
+/* Make the cart icon inherit header color (black normally, white on transparent overlay) */
+.header__icon-list a[href*="/cart"] svg,
+.header__icon-list a[href*="/cart"] svg * {
+  stroke: currentColor !important;
+  fill: none !important; /* prevents the “bold/filled” look */
+}
 
 
