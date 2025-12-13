@@ -10008,14 +10008,17 @@ split-lines {
 .product-gallery__media.snap-center.is-selected {
   position: relative;
 }
-/* Normalize cart icon stroke so it matches other header icons */
-.header__icon-list a[href*="/cart"] svg {
-  stroke-width: 1.6 !important;   /* lighter, matches Impact icons */
-  vector-effect: non-scaling-stroke;
+/* Cart icon: inherit header color + keep outline clean (no bold) */
+.header__icon-list a[href*="/cart"]{
+  color: inherit !important; /* follows header (white on transparent, black otherwise) */
 }
 
-.header__icon-list a[href*="/cart"] svg * {
-  stroke-width: 1.6 !important;
+.header__icon-list a[href*="/cart"] svg,
+.header__icon-list a[href*="/cart"] svg *{
+  stroke: currentColor !important;
+  fill: none !important;
+  stroke-width: 1.6 !important;          /* try 1.5 if you want thinner */
+  vector-effect: non-scaling-stroke;
 }
 
 
