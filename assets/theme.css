@@ -10008,5 +10008,12 @@ split-lines {
 .product-gallery__media.snap-center.is-selected {
   position: relative;
 }
+/* Fix cart icon color when header overlays image (transparent header) */
+.header--transparent .header__icon svg,
+.header--transparent .header__icon path,
+.header--transparent .header__icon use {
+  stroke: currentColor !important;
+  fill: currentColor !important;
+}
 
 
