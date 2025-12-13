@@ -10009,19 +10009,17 @@ split-lines {
   position: relative;
 }
 
-/* Cart icon color in transparent/overlay header */
-.header a[aria-controls*="cart"],
-.header button[aria-controls*="cart"],
-.header a[href*="/cart"]{
-  color: rgb(var(--header-transparent-text-color)) !important;
-}
-
-.header a[aria-controls*="cart"] svg,
-.header a[aria-controls*="cart"] svg *,
-.header button[aria-controls*="cart"] svg,
-.header button[aria-controls*="cart"] svg *{
-  fill: currentColor !important;
-  stroke: currentColor !important;
+/* Cart icon: match the other icons ONLY when header is in overlay/transparent mode */
+.header--transparent a[aria-controls*="cart"] svg,
+.header--transparent a[aria-controls*="cart"] svg *,
+.header--transparent button[aria-controls*="cart"] svg,
+.header--transparent button[aria-controls*="cart"] svg *,
+.header--overlay a[aria-controls*="cart"] svg,
+.header--overlay a[aria-controls*="cart"] svg *,
+.header--overlay button[aria-controls*="cart"] svg,
+.header--overlay button[aria-controls*="cart"] svg *{
+  fill: none !important;              /* prevents the “bold/filled” look */
+  stroke: currentColor !important;    /* matches icon color (white on overlay) */
 }
 
 
