@@ -10008,11 +10008,15 @@ split-lines {
 .product-gallery__media.snap-center.is-selected {
   position: relative;
 }
-/* Make the cart icon inherit header color (black normally, white on transparent overlay) */
-.header__icon-list a[href*="/cart"] svg,
-.header__icon-list a[href*="/cart"] svg * {
-  stroke: currentColor !important;
-  fill: none !important; /* prevents the “bold/filled” look */
+/* Normalize cart icon stroke so it matches other header icons */
+.header__icon-list a[href*="/cart"] svg {
+  stroke-width: 1.6 !important;   /* lighter, matches Impact icons */
+  vector-effect: non-scaling-stroke;
 }
+
+.header__icon-list a[href*="/cart"] svg * {
+  stroke-width: 1.6 !important;
+}
+
 
 
