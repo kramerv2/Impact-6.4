@@ -10009,37 +10009,5 @@ split-lines {
   position: relative;
 }
 
-/* Impact: make cart icon follow the same color as other header icons ONLY in overlay/transparent mode */
-.header--transparent a[aria-controls*="cart"],
-.header--overlay a[aria-controls*="cart"],
-.header.is-transparent a[aria-controls*="cart"],
-.header.is-overlay a[aria-controls*="cart"],
-store-header[transparent] a[aria-controls*="cart"],
-store-header[overlay] a[aria-controls*="cart"],
-store-header[transparent] button[aria-controls*="cart"],
-store-header[overlay] button[aria-controls*="cart"]{
-  color: rgb(var(--header-transparent-text-color)) !important;
-}
-
-.header--transparent a[aria-controls*="cart"] svg,
-.header--transparent a[aria-controls*="cart"] svg *,
-.header--overlay a[aria-controls*="cart"] svg,
-.header--overlay a[aria-controls*="cart"] svg *,
-.header.is-transparent a[aria-controls*="cart"] svg,
-.header.is-transparent a[aria-controls*="cart"] svg *,
-.header.is-overlay a[aria-controls*="cart"] svg,
-.header.is-overlay a[aria-controls*="cart"] svg *,
-store-header[transparent] a[aria-controls*="cart"] svg,
-store-header[transparent] a[aria-controls*="cart"] svg *,
-store-header[overlay] a[aria-controls*="cart"] svg,
-store-header[overlay] a[aria-controls*="cart"] svg *,
-store-header[transparent] button[aria-controls*="cart"] svg,
-store-header[transparent] button[aria-controls*="cart"] svg *,
-store-header[overlay] button[aria-controls*="cart"] svg,
-store-header[overlay] button[aria-controls*="cart"] svg *{
-  fill: none !important;            /* prevents “bold/filled” look */
-  stroke: currentColor !important;  /* matches white when overlay is active */
-}
-
 
 
