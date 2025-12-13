@@ -10009,4 +10009,20 @@ split-lines {
   position: relative;
 }
 
+/* Cart icon color in transparent/overlay header */
+.header a[aria-controls*="cart"],
+.header button[aria-controls*="cart"],
+.header a[href*="/cart"]{
+  color: rgb(var(--header-transparent-text-color)) !important;
+}
+
+.header a[aria-controls*="cart"] svg,
+.header a[aria-controls*="cart"] svg *,
+.header button[aria-controls*="cart"] svg,
+.header button[aria-controls*="cart"] svg *{
+  fill: currentColor !important;
+  stroke: currentColor !important;
+}
+
+
 
