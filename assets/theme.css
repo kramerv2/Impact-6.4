@@ -10008,4 +10008,13 @@ split-lines {
 .product-gallery__media.snap-center.is-selected {
   position: relative;
 }
+@media (max-width: 989px){
+  .header__icon--search,
+  .header__search,
+  a[href*="/search"].header__icon {
+    display: inline-flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+}
 
