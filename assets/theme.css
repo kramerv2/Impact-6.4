@@ -10017,7 +10017,7 @@ split-lines {
 .header__icon-list a[href*="/cart"] svg *{
   stroke: currentColor !important;
   fill: none !important;
-  stroke-width: 1.2 !important;          /* try 1.5 if you want thinner */
+  stroke-width: 1.1 !important;          /* try 1.5 if you want thinner */
   vector-effect: non-scaling-stroke;
 }
 
