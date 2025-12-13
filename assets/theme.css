@@ -10008,12 +10008,19 @@ split-lines {
 .product-gallery__media.snap-center.is-selected {
   position: relative;
 }
-/* Cart icon: follow header color (black normally, white on transparent overlay) */
+/* Cart icon: inherit header color + keep outline clean (no bold) */
+.header__icon-list a[href*="/cart"]{
+  color: inherit !important; /* follows header (white on transparent, black otherwise) */
+}
+
 .header__icon-list a[href*="/cart"] svg,
-.header__icon-list a[href*="/cart"] svg * {
+.header__icon-list a[href*="/cart"] svg *{
   stroke: currentColor !important;
   fill: none !important;
+  stroke-width: 1.2 !important;          /* try 1.5 if you want thinner */
+  vector-effect: non-scaling-stroke;
 }
+
 
 
 
