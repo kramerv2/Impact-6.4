@@ -10008,7 +10008,5 @@ split-lines {
 .product-gallery__media.snap-center.is-selected {
   position: relative;
 }
-@media (max-width: 989px){
-  .header__icon--search{ display:inline-flex !important; }
-}
+
 
