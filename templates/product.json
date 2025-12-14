@@ -516,7 +516,7 @@
       "settings": {
         "heading": "<p><strong>SPOŁECZNOŚĆ TRENDOVA</strong></p>",
         "heading_custom": true,
-        "heading_font": "josefin_sans_n4",
+        "heading_font": "inter_n4",
         "heading_size": 28,
         "heading_height": 130,
         "heading_align": "center",
