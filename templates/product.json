@@ -197,6 +197,81 @@
         "product_card_text_color": ""
       }
     },
+    "testimonials_keBKgy": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_Vh6ALa": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/4.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Anna K.",
+            "title": "Idealna na wesele!",
+            "content": "<p>Zamówiłam sukienkę na wesele i dotarła nawet wcześniej, niż się spodziewałam. Pasowała idealnie już przy pierwszym przymierzeniu i zapewniała dobre podtrzymanie biustu — dokładnie tego szukałam!</p>"
+          }
+        },
+        "testimonial_eRmK6D": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/602e9a46-02f2-4f99-a1a9-93b73f500047.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Anders V.",
+            "title": "Wątpliwości co do rozmiaru, ale pełna satysfakcja!",
+            "content": "<p>Na początku nie byłam pewna rozmiaru, więc zamówiłam dwie koszulki polo. Okazało się, że pasują idealnie! Tabela rozmiarów jest całkowicie dokładna.</p>"
+          }
+        },
+        "testimonial_qhW3rC": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/e90ddd20-87ae-4d47-9ae5-60d0ed1aa31e.avif",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Alma O.",
+            "title": "Fantastyczna obsługa po mojej pomyłce",
+            "content": "<p>Przez pomyłkę zamówiłam te same sandały dwa razy. Obsługa klienta odpowiedziała bardzo szybko i od razu zorganizowała zwrot pieniędzy.</p>"
+          }
+        },
+        "testimonial_Xh4Vyf": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_Vh6ALa",
+        "testimonial_eRmK6D",
+        "testimonial_qhW3rC",
+        "testimonial_Xh4Vyf"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "37_e6aRrP": {
       "type": "37",
       "blocks": {
@@ -656,6 +731,7 @@
     "main",
     "53_Rb3MJd",
     "related_products_VLHTa6",
+    "testimonials_keBKgy",
     "37_e6aRrP",
     "ss_scrolling_images_pgDAnm",
     "slideshow_79VL8M",
