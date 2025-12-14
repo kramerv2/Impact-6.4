@@ -260,7 +260,7 @@
         "full_width": true,
         "stack_testimonials": false,
         "subheading": "",
-        "title": "Testimonials",
+        "title": "Opinie naszych klientów",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -329,6 +329,7 @@
         "slide_dt4N4p",
         "slide_jPJg9q"
       ],
+      "disabled": true,
       "name": "SS - Testimonials #13",
       "settings": {
         "scrolling_velocity": 56,
