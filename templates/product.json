@@ -231,7 +231,7 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Alma O.",
+            "author": "Katarzyna L",
             "title": "Fantastyczna obsługa po mojej pomyłce",
             "content": "<p>Przez pomyłkę zamówiłam te same sandały dwa razy. Obsługa klienta odpowiedziała bardzo szybko i od razu zorganizowała zwrot pieniędzy.</p>"
           }
@@ -239,12 +239,13 @@
         "testimonial_Xh4Vyf": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/8cbe35b171657d9740a38a7a1505c47a_1.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
             "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Piękna jakość, ale nieco bardziej dopasowana niż się spodziewałam",
+            "content": "<p>Materiał jest wysokiej jakości, a kolor dokładnie odpowiada temu ze zdjęcia. Była jednak trochę bardziej obcisła w ramionach, niż przypuszczałam. Mimo to jestem bardzo zadowolona z zakupu.</p>"
           }
         }
       },
