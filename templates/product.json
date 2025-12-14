@@ -514,8 +514,8 @@
       ],
       "name": "SS - Scrolling images",
       "settings": {
-        "heading": "<p><strong>Społeczność Trendova</strong></p>",
-        "heading_custom": false,
+        "heading": "<p><strong>SPOŁECZNOŚĆ TRENDOVA</strong></p>",
+        "heading_custom": true,
         "heading_font": "josefin_sans_n4",
         "heading_size": 28,
         "heading_height": 130,
