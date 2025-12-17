@@ -424,5 +424,12 @@
         "other": "Es hat {{ count }} Bewertungen erhalten."
       }
     }
+  },
+  "shopify": {
+    "checkout": {
+      "order_summary": {
+        "enter_shipping_address": "Gratis"
+      }
+    }
   }
 }
