@@ -27,7 +27,7 @@
     "label": {
       "color": "Farbe",
       "white": "Weiß",
-      "size": "Größe"
+      "size": "Grösse"
     },
     "social": {
       "follow_on": "Auf {{ social_media }} folgen",
@@ -94,7 +94,7 @@
       "taxes_included": "inkl. MwSt.",
       "taxes_excluded": "zzgl. MwSt.",
       "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link\">Versandkosten</a> werden an der Kasse berechnet",
-      "size_chart": "Größentabelle",
+      "size_chart": "Grössentabelle (cm)",
       "available_colors_count": {
         "one": "{{ count }} Farbe verfügbar",
         "other": "{{ count }} Farben verfügbar"
