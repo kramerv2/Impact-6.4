@@ -429,6 +429,9 @@
     "checkout": {
       "order_summary": {
         "enter_shipping_address": "Gratis"
+      },
+      "shipping_errors": {
+        "empty_state": "Bestellen Sie bis 23:00 Uhr – Versand morgen"
       }
     }
   }
