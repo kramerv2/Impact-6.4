@@ -567,8 +567,8 @@
             "content_max_width": 800,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Każdy wymiar jest precyzyjnie przemyślany, każdy detal perfekcyjnie dopracowany. Wybierz doskonałość.",
-            "title": "SKROJONE DLA DOSKONAŁOŚCI",
+            "subheading": "Jedes Mass ist präzise durchdacht, jedes Detail perfekt ausgearbeitet. Wählen Sie Perfektion.",
+            "title": "FÜR PERFEKTION GESCHNEIDERT",
             "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
@@ -589,8 +589,8 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Naturalne włókna, autentyczny komfort. Luksus w najczystszej formie.",
-            "title": "MATERIAŁY NAJWYŻSZEJ JAKOŚCI",
+            "subheading": "Natürliche Fasern, authentischer Komfort. Luxus in seiner reinsten Form.",
+            "title": "MATERIALIEN HÖCHSTER QUALITÄT",
             "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
@@ -610,8 +610,8 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Każdy szew nosi ślad rzemieślniczego kunsztu. Stworzone, by służyć latami — zaprojektowane z myślą o Tobie.",
-            "title": "WYKONANE RĘCZNIE",
+            "subheading": "Jede Naht trägt die Handschrift meisterhafter Handwerkskunst. Geschaffen für jahrelange Nutzung – entworfen mit Blick auf Sie.",
+            "title": "HANDGEFERTIGT",
             "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
@@ -656,7 +656,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Zwrot w ciągu 30 dni",
+            "title": "Rückgabe innerhalb von 30 Tagen",
             "content": ""
           }
         },
@@ -669,7 +669,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Darmowa dostawa ekspresowa",
+            "title": "Kostenloser Expressversand",
             "content": ""
           }
         },
@@ -682,7 +682,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Bezpieczne płatności",
+            "title": "Sichere Zahlungen",
             "content": ""
           }
         },
@@ -695,7 +695,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Obsługa klienta 24/7",
+            "title": "Kundenservice 24/7",
             "content": ""
           }
         }
