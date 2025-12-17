@@ -532,7 +532,7 @@
         "content_radius": 10,
         "content_border_thickness": 0,
         "use_shadow": true,
-        "text": "<p>Z ponad <strong>9 000+</strong> klientami na całym świecie, społeczność <strong>Trendova</strong> jest większa niż kiedykolwiek wcześniej.</p>",
+        "text": "<p>Med over <strong>9.000+</strong> kunder verden over er fællesskabet omkring <strong>Vistero</strong> større end nogensinde.</p>",
         "text_custom": false,
         "text_font": "assistant_n4",
         "text_size": 16,
@@ -669,7 +669,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Kostenloser Expressversand",
+            "title": "Gratis Expressversand",
             "content": ""
           }
         },
