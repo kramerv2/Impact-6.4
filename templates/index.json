@@ -80,7 +80,7 @@
         "collection_qHjmLB": {
           "type": "collection",
           "settings": {
-            "collection": "meskie-bestsellery",
+            "collection": "damen-bestseller-1",
             "subheading": "",
             "title": "",
             "url": "",
@@ -94,7 +94,7 @@
         "collection_9G8Y47": {
           "type": "collection",
           "settings": {
-            "collection": "damskie-bestsellery",
+            "collection": "herren-bestseller",
             "subheading": "",
             "title": "",
             "url": "",
@@ -133,7 +133,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "meskie-bestsellery",
+        "collection": "herren-bestseller",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -168,8 +168,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "O Trendova",
-            "content": "<p>W Trendova wierzymy, że moda to coś więcej niż tylko to, co nosisz — to sposób wyrażania indywidualności, pewności siebie i stylu. Nasza pasja do wysokiej jakości ubrań oraz dbałość o wyjątkową obsługę klienta stanowią fundament wszystkiego, co robimy.</p><p>Każdy element naszej kolekcji jest starannie zaprojektowany, aby inspirować i podkreślać Twój charakter, łącząc ponadczasową elegancję z nowoczesnym wyrafinowaniem. Chcemy, abyś czuła się i wyglądała najlepiej — niezależnie od tego, czy wybierasz codzienny komfort, styl na wyjątkową okazję, czy coś pomiędzy.</p>",
+            "title": "Über Vistero",
+            "content": "<p>Bei Vistero glauben wir, dass Mode mehr ist als Kleidung – sie ist Ausdruck von Persönlichkeit, Selbstbewusstsein und Stil. Unsere Kollektionen verbinden zeitlose Eleganz mit modernem Design und höchster Qualität.</p><p>Ob für den Alltag, besondere Anlässe oder alles dazwischen – Vistero steht für Mode, die dich inspiriert und dein Auftreten veredelt.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -196,6 +196,7 @@
         "image_FmEJXx": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Vistero_2.webp",
             "url": ""
           }
         },
@@ -209,6 +210,7 @@
         "image_pHcYAQ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Vistero_1.webp",
             "url": ""
           }
         },
@@ -223,12 +225,6 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/476003105_17845948758407902_8357618397879265247_n.jpg",
-            "url": ""
-          }
-        },
-        "image_JVyUez": {
-          "type": "image",
-          "settings": {
             "url": ""
           }
         },
@@ -274,7 +270,6 @@
         "image_pHcYAQ",
         "image_RqKyzi",
         "image_GiV8Ni",
-        "image_JVyUez",
         "image_ydGqCq",
         "image_k9MtRj",
         "image_CJwP9y",
@@ -310,7 +305,7 @@
         "content_radius": 10,
         "content_border_thickness": 0,
         "use_shadow": true,
-        "text": "<p>Z ponad <strong>9 000+</strong> klientami na całym świecie, społeczność <strong>Trendova</strong> jest większa niż kiedykolwiek wcześniej.</p>",
+        "text": "<p>Med over <strong>9.000+</strong> kunder verden over er fællesskabet omkring <strong>Vistero</strong> større end nogensinde.</p>",
         "text_custom": false,
         "text_font": "assistant_n4",
         "text_size": 14,
@@ -340,7 +335,8 @@
         "image_WeHaVn": {
           "type": "image",
           "settings": {
-            "title": "",
+            "image": "shopify://shop_images/Vistero_3.webp",
+            "title": "Grosser Winter-Sale",
             "heading_tag": "h4",
             "link_url": "shopify://collections",
             "link_text": "",
@@ -362,9 +358,9 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/christin-hume-hBuwVLcYTnA-unsplash.webp",
-            "title": "",
+            "title": "Arbeite bi üs",
             "heading_tag": "h4",
-            "link_url": "shopify://pages/kariera",
+            "link_url": "shopify://pages/arbeite-bi-us",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -377,16 +373,16 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 31
           }
         },
         "image_EqxVa6": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/rer.avif",
-            "title": "",
+            "title": "Contact",
             "heading_tag": "h4",
-            "link_url": "shopify://pages/o-nas",
+            "link_url": "shopify://pages/contact",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -399,16 +395,16 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 30
           }
         },
         "image_cXUPyp": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/iStock-1306620421_1.webp",
-            "title": "",
+            "title": "Versandpolitik",
             "heading_tag": "h4",
-            "link_url": "shopify://pages/polityka-wysylki",
+            "link_url": "shopify://pages/versandpolitik",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -421,7 +417,7 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 17
+            "overlay_opacity": 30
           }
         }
       },

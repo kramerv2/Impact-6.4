@@ -34,8 +34,8 @@
         "text_nhchfD": {
           "type": "text",
           "settings": {
-            "title": "Obsługa klienta",
-            "content": "<p>Możesz na nas liczyć — oferujemy wsparcie dla klientów każdego dnia.<br/><br/>Nasz zespół obsługi klienta jest gotowy pomóc Ci we wszystkich sprawach.</p><p>🕒 <strong>Godziny pracy:</strong></p><ul><li>Poniedziałek – Piątek: 09:00 – 18:00 (CET/CEST)</li><li>Sobota: 09:00 – 17:00 (CET/CEST)</li><li>Niedziela: 10:00 – 16:00 (CET/CEST)</li></ul><p>✉️ <strong>Kontakt:</strong> <a>kontakt@trendova.pl</a><br/>📍 <strong>Lokalizacja:</strong> Warszawa, 🇵🇱</p>",
+            "title": "Kundeservice",
+            "content": "<p><strong>Zählen Sie auf uns für 24/7 Support.</strong><br/>Unser Kundendienst steht bereit, Ihnen bei allem zu helfen.</p><p>🕒 <strong>Öffnungszeiten:</strong><br/><strong>Montag – Freitag: </strong>09:00 – 18:00 CET<br/><strong>Samstag:</strong> 09:00 – 17:00 CET<br/><strong>Sonntag:</strong> 10:00 – 16:00 CET</p><p>✉️ <strong>Kontakt:</strong> <a>contact@vistero.ch</a><br/>📍 <strong>Standort:</strong> Zürich, 🇨🇭</p>",
             "enable_follow_on_shop": false
           }
         }
