@@ -19,14 +19,14 @@
         "heading_cYdGX4": {
           "type": "heading",
           "settings": {
-            "text": "Wielka zimowa wyprzedaż",
+            "text": "Grosser Winter-Sale",
             "heading_tag": "h4"
           }
         },
         "heading_ymgmXK": {
           "type": "heading",
           "settings": {
-            "text": "Do -70%",
+            "text": "Bis zu 70% Rabatt",
             "heading_tag": "h2"
           }
         }
@@ -52,7 +52,7 @@
     "featured_collection_kEMRtM": {
       "type": "featured-collection",
       "settings": {
-        "collection": "damskie-bestsellery",
+        "collection": "jacken-mantel",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -61,10 +61,10 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Damskie bestsellery",
+        "title": "Winter-Highlights",
         "content": "",
         "link_url": "",
-        "link_text": "Zobacz wszystko",
+        "link_text": "Alle ansehen",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -196,7 +196,6 @@
         "image_FmEJXx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/trendova_shopify_optimized_box.jpg",
             "url": ""
           }
         },
@@ -210,7 +209,6 @@
         "image_pHcYAQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/I_Moved_to_Paris_and_Learned_5_Very_Valuable_Fashion_Lessons.webp",
             "url": ""
           }
         },
@@ -231,7 +229,6 @@
         "image_JVyUez": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/trendova_shopify_optimized.jpg",
             "url": ""
           }
         },
@@ -343,7 +340,6 @@
         "image_WeHaVn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-12-12_122907.png",
             "title": "",
             "heading_tag": "h4",
             "link_url": "shopify://collections",
