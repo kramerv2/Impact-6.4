@@ -10021,6 +10021,9 @@ split-lines {
   vector-effect: non-scaling-stroke;
 }
 
+@media (min-width: 700px){
+  .hide-on-desktop { display: none !important; }
+}
 
 
 
