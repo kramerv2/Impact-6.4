@@ -8,6 +8,44 @@
  * ------------------------------------------------------------
  */
 {
-  "sections": {},
-  "order": []
+  "sections": {
+    "video_VDdnEr": {
+      "type": "video",
+      "blocks": {
+        "heading_HAAPbV": {
+          "type": "heading",
+          "settings": {
+            "text": "Vinter Sale",
+            "heading_tag": "h1"
+          }
+        },
+        "heading_xRBrDG": {
+          "type": "heading",
+          "settings": {
+            "text": "Op til 70% rabat",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HAAPbV",
+        "heading_xRBrDG"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/9d23dbb92c95417fb5e33e933e637b77.HD-1080p-2.5Mbps-46228302.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    }
+  },
+  "order": [
+    "video_VDdnEr"
+  ]
 }
