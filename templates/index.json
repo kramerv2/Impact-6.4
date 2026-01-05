@@ -117,18 +117,45 @@
         "title": "2026 Bestsellers",
         "content": "",
         "link_url": "",
-        "link_text": "Se alle",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "featured_collection_E3xPHh": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "maend-bestsellere",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Mænds Bestsellere",
+        "content": "",
+        "link_url": "",
+        "link_text": "Se alle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
     "video_VDdnEr",
     "featured_collection_aLyPzw",
-    "collection_list_ATAfwX"
+    "collection_list_ATAfwX",
+    "featured_collection_E3xPHh"
   ]
 }
