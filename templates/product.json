@@ -50,7 +50,7 @@
         "liquid_mzimMA": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"pl\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Sale Point 1 - Pulsating Dot</title>\n  <style>\n    /* POINT 1 – Pulsating Dot */\n    .pm-salepoint1 {\n      display: flex;\n      align-items: center;\n      font-size: 15px;\n      font-weight: 600;\n      margin-bottom: 8px;\n      margin-top: 10px;\n      width: fit-content;\n    }\n\n    .pm-icon1 {\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #F5AF29; /* UPDATED */\n      margin-right: 16px;\n      position: relative;\n      margin-left: 7px;\n      flex-shrink: 0;\n      animation: pm-pulse 2s ease-in-out infinite;\n    }\n\n    .pm-icon1::before {\n      content: '';\n      position: absolute !important;\n      top: -2px !important;\n      left: -2px !important;\n      width: 16px !important;\n      height: 16px !important;\n      background-color: rgba(245, 175, 41, 0.4) !* UPDATED *!;\n      border-radius: 50% !important;\n      animation: pm-pulse-ring 2s ease-out infinite !important;\n    }\n\n    .pm-text1 {\n      color: #F5AF29; /* UPDATED */\n      font-weight: 600;\n    }\n\n    @keyframes pm-pulse {\n      0% {\n        transform: scale(1);\n        opacity: 1;\n      }\n      50% {\n        transform: scale(1.1);\n        opacity: 0.8;\n      }\n      100% {\n        transform: scale(1);\n        opacity: 1;\n      }\n    }\n\n    @keyframes pm-pulse-ring {\n      0% {\n        transform: scale(0.8);\n        opacity: 1;\n      }\n      80% {\n        transform: scale(1.4);\n        opacity: 0;\n      }\n      100% {\n        transform: scale(1.4);\n        opacity: 0;\n      }\n    }\n  </style>\n</head>\n<body>\n\n  <!-- POINT 1 -->\n  <div class=\"pm-salepoint1\">\n    <div class=\"pm-icon1\"></div>\n    <span class=\"pm-text1\">Fast ausverkauft!</span>\n  </div>\n\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html lang=\"pl\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Sale Point 1 - Pulsating Dot</title>\n  <style>\n    /* POINT 1 – Pulsating Dot */\n    .pm-salepoint1 {\n      display: flex;\n      align-items: center;\n      font-size: 15px;\n      font-weight: 600;\n      margin-bottom: 8px;\n      margin-top: 10px;\n      width: fit-content;\n    }\n\n    .pm-icon1 {\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #F5AF29; /* UPDATED */\n      margin-right: 16px;\n      position: relative;\n      margin-left: 7px;\n      flex-shrink: 0;\n      animation: pm-pulse 2s ease-in-out infinite;\n    }\n\n    .pm-icon1::before {\n      content: '';\n      position: absolute !important;\n      top: -2px !important;\n      left: -2px !important;\n      width: 16px !important;\n      height: 16px !important;\n      background-color: rgba(245, 175, 41, 0.4) !* UPDATED *!;\n      border-radius: 50% !important;\n      animation: pm-pulse-ring 2s ease-out infinite !important;\n    }\n\n    .pm-text1 {\n      color: #F5AF29; /* UPDATED */\n      font-weight: 600;\n    }\n\n    @keyframes pm-pulse {\n      0% {\n        transform: scale(1);\n        opacity: 1;\n      }\n      50% {\n        transform: scale(1.1);\n        opacity: 0.8;\n      }\n      100% {\n        transform: scale(1);\n        opacity: 1;\n      }\n    }\n\n    @keyframes pm-pulse-ring {\n      0% {\n        transform: scale(0.8);\n        opacity: 1;\n      }\n      80% {\n        transform: scale(1.4);\n        opacity: 0;\n      }\n      100% {\n        transform: scale(1.4);\n        opacity: 0;\n      }\n    }\n  </style>\n</head>\n<body>\n\n  <!-- POINT 1 -->\n  <div class=\"pm-salepoint1\">\n    <div class=\"pm-icon1\"></div>\n    <span class=\"pm-text1\">Næsten udsolgt!</span>\n  </div>\n\n</body>\n</html>"
           }
         },
         "buy_buttons_DBxqnr": {
@@ -423,7 +423,6 @@
         "image_9WkhAM": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Vistero_1.webp",
             "url": ""
           }
         },
@@ -444,7 +443,6 @@
         "image_dqzJge": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Vistero_2.webp",
             "url": ""
           }
         },
@@ -562,8 +560,6 @@
         "image_gAcEez": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/3ac473028c2ac7fdca72bd311ea99dad_1.webp",
-            "mobile_image": "shopify://shop_images/3ac473028c2ac7fdca72bd311ea99dad_1.webp",
             "content_max_width": 800,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -584,8 +580,6 @@
         "image_fQNCGW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/6b5807fd903e61629355833e616513ca_1.webp",
-            "mobile_image": "shopify://shop_images/6b5807fd903e61629355833e616513ca_1.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -606,7 +600,6 @@
         "image_PkJDR6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/3b9e16fe059170bf750a89d2d372383c_1.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
