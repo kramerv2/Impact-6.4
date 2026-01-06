@@ -503,7 +503,7 @@
       ],
       "name": "SS - Scrolling images",
       "settings": {
-        "heading": "<p><strong>VALDRIN GEMEINSCHAFT</strong></p>",
+        "heading": "<h4><strong>VALDRIN FÆLLESSKAB</strong></h4>",
         "heading_custom": true,
         "heading_font": "inter_n4",
         "heading_size": 28,
