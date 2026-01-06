@@ -654,7 +654,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Rückgabe innerhalb von 30 Tagen",
+            "title": "30 dages returret",
             "content": ""
           }
         },
@@ -667,7 +667,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Gratis Expressversand",
+            "title": "Gratis ekspreslevering",
             "content": ""
           }
         },
@@ -680,7 +680,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Sichere Zahlungen",
+            "title": "Sikre betalinger",
             "content": ""
           }
         },
@@ -693,7 +693,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Kundenservice 24/7",
+            "title": "Kundeservice 24/7",
             "content": ""
           }
         }
