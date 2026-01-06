@@ -262,53 +262,90 @@
     "ss_scrolling_images_C9jE6F": {
       "type": "ss-scrolling-images",
       "blocks": {
+        "image_ncknAm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/mirror_selfie_dp_for_fb_girl.webp",
+            "url": ""
+          }
+        },
         "image_x4cG7V": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/back_ground_2_1_37da7e7a-f56c-42f7-96b1-7b60eb44c241.webp",
+            "url": ""
+          }
+        },
+        "image_tQ4tgb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/VALDRIN_shopify_optimized.jpg",
             "url": ""
           }
         },
         "image_pAT8Cd": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/back_ground_3_1_1cb608dc-baeb-4917-947d-ba3d6efe350b.webp",
             "url": ""
           }
         },
         "image_DnAafD": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/a286a0e65c368543f0e6e7958297dc9f_1_d0a01aa1-f1f4-4975-bd75-1edd17c8bc52.webp",
             "url": ""
           }
         },
         "image_igp4iR": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/50baa3387ac93a5f2fe1a052e6caad15_1_7b05cb9e-f388-4db2-85d9-eac687e5c246.webp",
             "url": ""
           }
         },
         "image_KbJXXX": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/pexels-sara-kazemi-2148049458-30676586.webp",
+            "url": ""
+          }
+        },
+        "image_cxR7Tg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pexels-njeromin-21656902_17855670-c94c-41f6-9997-c8db2cad43cb.webp",
+            "url": ""
+          }
+        },
+        "image_TbELgy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pexels-tima-miroshnichenko-6169012.webp",
             "url": ""
           }
         }
       },
       "block_order": [
+        "image_ncknAm",
         "image_x4cG7V",
+        "image_tQ4tgb",
         "image_pAT8Cd",
         "image_DnAafD",
         "image_igp4iR",
-        "image_KbJXXX"
+        "image_KbJXXX",
+        "image_cxR7Tg",
+        "image_TbELgy"
       ],
       "name": "SS - Scrolling images",
       "settings": {
-        "heading": "<h2>Heading</h2>",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
+        "heading": "<h4><strong>VALDRIN FÆLLESSKAB</strong></h4>",
+        "heading_custom": true,
+        "heading_font": "inter_n4",
         "heading_size": 40,
         "heading_height": 130,
         "heading_align": "center",
-        "slider_speed": 13,
+        "slider_speed": 19,
         "slider_gap": 10,
         "slider_gap_mobile": 10,
         "slider_mt": 50,
@@ -329,10 +366,10 @@
         "content_radius": 10,
         "content_border_thickness": 0,
         "use_shadow": true,
-        "text": "<p>+29.000 people love our product</p>",
+        "text": "<p>Med over <strong>9.000+</strong> kunder verden over er fællesskabet omkring <strong>Valdrin</strong> større end nogensinde.</p>",
         "text_custom": false,
         "text_font": "assistant_n4",
-        "text_size": 24,
+        "text_size": 16,
         "text_height": 130,
         "heading_color": "#000000",
         "content_bg": "#FFFFFF",
