@@ -503,7 +503,7 @@
       ],
       "name": "SS - Scrolling images",
       "settings": {
-        "heading": "<p><strong>VISTERO GEMEINSCHAFT</strong></p>",
+        "heading": "<p><strong>VALDRIN GEMEINSCHAFT</strong></p>",
         "heading_custom": true,
         "heading_font": "inter_n4",
         "heading_size": 28,
@@ -530,7 +530,7 @@
         "content_radius": 10,
         "content_border_thickness": 0,
         "use_shadow": true,
-        "text": "<p>Med over <strong>9.000+</strong> kunder verden over er fællesskabet omkring <strong>Vistero</strong> større end nogensinde.</p>",
+        "text": "<p>Med over <strong>9.000+</strong> kunder verden over er fællesskabet omkring <strong>Valdrin</strong> større end nogensinde.</p>",
         "text_custom": false,
         "text_font": "assistant_n4",
         "text_size": 16,
