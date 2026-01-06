@@ -85,16 +85,16 @@
         "collapsible_text_cG3RKH": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Gratis Lieferung",
-            "content": "<p>Wir bieten in der <strong>Schweiz</strong> kostenlosen Versand mit unseren zuverlässigen Partnern <strong>DHL</strong> und <strong>Swiss Post.</strong><br/><br/>Du kannst dein Paket ganz einfach mit der erhaltenen Sendungsnummer verfolgen.</p>",
+            "title": "Gratis Levering",
+            "content": "<p>Vi tilbyder gratis levering i Danmark med vores betroede partnere <strong>DAO</strong>. Du kan nemt spore din pakke via det trackingnummer, du modtager.</p>",
             "page": ""
           }
         },
         "collapsible_text_Mwitjx": {
           "type": "collapsible_text",
           "settings": {
-            "title": "30 Tage einfache Rückgabe",
-            "content": "<p>Nicht ganz zufrieden? Kein Grund zur Sorge! Du kannst deine Bestellung innerhalb von <strong>30 Tagen nach Erhalt</strong> einfach und schnell zurücksenden. Wir sorgen dafür, dass der Rückgabeprozess unkompliziert ist, damit du dich um nichts kümmern musst.</p>",
+            "title": "30 dage til nem returnering",
+            "content": "<p>Ikke helt tilfreds? Ingen grund til bekymring! Du kan nemt og hurtigt returnere din ordre inden for <strong>30 dage</strong> efter modtagelsen. Vi sørger for, at processen forløber problemfrit, så du ikke behøver at bekymre dig om noget.</p>",
             "page": ""
           }
         }
