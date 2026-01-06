@@ -258,6 +258,100 @@
         "background": "",
         "background_gradient": ""
       }
+    },
+    "ss_scrolling_images_C9jE6F": {
+      "type": "ss-scrolling-images",
+      "blocks": {
+        "image_x4cG7V": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_pAT8Cd": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_DnAafD": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_igp4iR": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_KbJXXX": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_x4cG7V",
+        "image_pAT8Cd",
+        "image_DnAafD",
+        "image_igp4iR",
+        "image_KbJXXX"
+      ],
+      "name": "SS - Scrolling images",
+      "settings": {
+        "heading": "<h2>Heading</h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_height": 130,
+        "heading_align": "center",
+        "slider_speed": 13,
+        "slider_gap": 10,
+        "slider_gap_mobile": 10,
+        "slider_mt": 50,
+        "slider_direction": "left",
+        "pause_hover": false,
+        "image_width_desktop": 300,
+        "image_width_mobile": 120,
+        "image_height_desktop": 400,
+        "image_height_mobile": 200,
+        "image_radius": 10,
+        "use_content": true,
+        "content_position": "center",
+        "content_max_width": 340,
+        "content_max_width_mobile": 340,
+        "content_padding_vertical": 30,
+        "content_padding_horizontal": 30,
+        "content_distance": 60,
+        "content_radius": 10,
+        "content_border_thickness": 0,
+        "use_shadow": true,
+        "text": "<p>+29.000 people love our product</p>",
+        "text_custom": false,
+        "text_font": "assistant_n4",
+        "text_size": 24,
+        "text_height": 130,
+        "heading_color": "#000000",
+        "content_bg": "#FFFFFF",
+        "content_border_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
@@ -265,6 +359,7 @@
     "featured_collection_aLyPzw",
     "collection_list_ATAfwX",
     "featured_collection_E3xPHh",
-    "media_grid_tHfVDi"
+    "media_grid_tHfVDi",
+    "ss_scrolling_images_C9jE6F"
   ]
 }
