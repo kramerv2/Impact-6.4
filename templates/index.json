@@ -173,15 +173,16 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 24
           }
         },
         "image_MHMppM": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/pexels-tima-miroshnichenko-6169012_a68f1c31-4d83-4a0d-914f-aa6d840fa3ff.webp",
+            "title": "Spor din ordre",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "https://vestiri.dk/apps/track123",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -194,15 +195,16 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 23
           }
         },
         "image_LAbawi": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Untitled_design_42.webp",
+            "title": "Om Os",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://pages/om-os",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -221,9 +223,10 @@
         "image_BYBxtF": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Untitled_design_40.webp",
+            "title": "Contact",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://pages/contact",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
