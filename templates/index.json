@@ -15,7 +15,7 @@
         "heading_HAAPbV": {
           "type": "heading",
           "settings": {
-            "text": "Vinter Sale",
+            "text": "Vinterudsalg",
             "heading_tag": "h1"
           }
         },
@@ -41,7 +41,7 @@
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 44
       }
     },
     "featured_collection_aLyPzw": {
