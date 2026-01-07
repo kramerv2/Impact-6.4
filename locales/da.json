@@ -424,5 +424,12 @@
         "other": "Den har fået {{ count }} anmeldelser."
       }
     }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "all_rights_reserved": "Alle rettigheder forbeholdes {{ shop_name }}"
+      }
+    }
   }
 }
