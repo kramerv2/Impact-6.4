@@ -22,7 +22,7 @@
         "heading_BdFD8f": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Haben Sie Fragen?</p>",
+            "heading": "<p>Har du spørgsmål?</p>",
             "heading_custom": false,
             "heading_font": "josefin_sans_n4",
             "heading_size": 48,
@@ -38,7 +38,7 @@
         "text_QN8MCh": {
           "type": "text",
           "settings": {
-            "text": "<p> Schauen Sie zuerst in unsere häufig gestellten Fragen!</p>",
+            "text": "<p>Se først vores ofte stillede spørgsmål!</p>",
             "text_custom": false,
             "text_font": "josefin_sans_n4",
             "text_size": 18,
@@ -54,8 +54,8 @@
         "item_BcajqX": {
           "type": "item",
           "settings": {
-            "question": "Wie lange dauert der Versand meiner Bestellung?",
-            "answer": "<p>Vistero verpflichtet sich, alle Bestellungen innerhalb von <strong>24 bis 48 Stunden</strong> nach Bestätigung des Kaufs zu versenden. Nach dem Versand trifft die Bestellung in der Regel innerhalb von <strong>6 bis 9 Werktagen</strong> ein (abh</p>"
+            "question": "Hvor lang tid tager leveringen af min bestilling?",
+            "answer": "<p>Valdrin forpligter sig til at afsende alle ordrer inden for 24–48 timer efter købsbekræftelse. Efter afsendelse leveres ordren som regel inden for <strong>6–9 hverdage</strong> (afhængigt af leveringsdestination).</p>"
           }
         },
         "item_yhFRxz": {
