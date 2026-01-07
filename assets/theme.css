@@ -1398,7 +1398,7 @@ scroll-carousel {
 
 .badge {
   --badge-background: var(--text-color) / .05;
-  --badge-color: var(--text-color);
+  --badge-color: #2A555A;
   align-items: center;
   gap: var(--spacing-1-5);
   padding: 3px var(--spacing-2);
