@@ -61,29 +61,29 @@
         "item_yhFRxz": {
           "type": "item",
           "settings": {
-            "question": "Wie kann ich meine Bestellung verfolgen?",
-            "answer": "<p>Nach dem Versand erhalten Sie eine E-Mail mit der Sendungsnummer. Damit können Sie den Status Ihrer Bestellung jederzeit über unsere Website auf der Seite <strong>„BESTELLUNG VERFOLGEN“</strong> einsehen.</p>"
+            "question": "Hvordan kan jeg spore min bestilling?",
+            "answer": "<p>Når din ordre er afsendt, modtager du en e-mail med et sporingsnummer. Med dette nummer kan du til enhver tid følge status på din ordre via vores hjemmeside under <strong>“SPOR DIN ORDRE”</strong>.</p>"
           }
         },
         "item_rYMctt": {
           "type": "item",
           "settings": {
-            "question": "Kann ich meine Bestellung stornieren oder ändern?",
-            "answer": "<p>Eine Stornierung oder Änderung ist am selben Tag bis <strong>23:59 Uhr</strong> möglich. Bitte kontaktieren Sie dazu unseren Kundenservice per E-Mail unter <strong>contact@vistero.ch</strong>. Nach Ablauf dieser Frist können wir eine Stornierung oder Änderung leider nicht garantieren.</p>"
+            "question": "Kan jeg annullere eller ændre min bestilling?",
+            "answer": "<p>Annullering eller ændring er mulig samme dag indtil kl. <strong>23:59</strong>. Kontakt venligst vores kundeservice via e-mail på <a><strong>contact@valdrin.dk</strong></a>. Efter denne frist kan vi desværre ikke garantere annullering eller ændring af din bestilling.</p>"
           }
         },
         "item_NiYG3b": {
           "type": "item",
           "settings": {
-            "question": "Welche Rückgabebedingungen gelten bei uns?",
-            "answer": "<p>Nicht gewünschte Artikel können innerhalb von <strong>30 Tagen nach Erhalt</strong> für eine vollständige Rückerstattung oder einen Umtausch zurückgesendet werden. Die Artikel müssen unbenutzt und in der Originalverpackung sein. Die Rücksendekosten trägt der Kunde. Für weitere Informationen empfehlen wir, auch unsere Rückgaberichtlinien zu lesen.</p>"
+            "question": "Hvilke returvilkår gælder hos os?",
+            "answer": "<p>Uønskede varer kan returneres inden for <strong>30 dage</strong> efter modtagelse for fuld refusion eller ombytning. Varerne skal være ubrugte og i original emballage. Returomkostningerne afholdes af kunden. For yderligere information anbefaler vi, at du læser vores returpolitik.</p>"
           }
         },
         "item_Hz8Pzb": {
           "type": "item",
           "settings": {
-            "question": "Was tun, wenn meine Bestellung beschädigt oder fehlerhaft ankommt?",
-            "answer": "<p>Sollte Ihre Bestellung beschädigt oder fehlerhaft ankommen, kontaktieren Sie uns bitte umgehend. Wir organisieren für Sie <strong>gratis</strong> eine neue Lieferung und kümmern uns vollständig um alles Weitere.</p>"
+            "question": "Hvad skal jeg gøre, hvis min bestilling ankommer beskadiget eller defekt?",
+            "answer": "<p>Hvis din bestilling ankommer beskadiget eller med fejl, bedes du kontakte os hurtigst muligt. Vi sørger for en <strong>gratis erstatningslevering</strong> og håndterer resten for dig.</p>"
           }
         }
       },
