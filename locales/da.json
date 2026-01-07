@@ -429,6 +429,9 @@
     "checkout": {
       "general": {
         "all_rights_reserved": "Alle rettigheder forbeholdes {{ shop_name }}"
+      },
+      "order_summary": {
+        "enter_shipping_address": "Gratis"
       }
     }
   }
