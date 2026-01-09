@@ -30,6 +30,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_hFfzgi": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"da\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Sale Points 1-4</title>\n  <style>\n    body {\n      margin: 0;\n      padding: 0;\n    }\n    /* General Sale Points */\n    .salepoint {\n      display: flex;\n      align-items: flex-start;\n      font-size: 15px;\n      font-weight: 600;\n      margin-bottom: 8px;\n    }\n    /* POINT 1 – Pulsating Dot */\n    .pm-salepoint1 {\n      display: flex;\n      align-items: center;\n      font-size: 15px;\n      font-weight: 600;\n      margin-bottom: 8px;\n      margin-top: 10px;\n      width: fit-content;\n    }\n\n    .pm-icon1 {\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #F5AF29;\n      margin-right: 16px;\n      position: relative;\n      margin-left: 7px;\n      flex-shrink: 0;\n      animation: pm-pulse 2s ease-in-out infinite;\n    }\n\n    .pm-icon1::before {\n      content: '';\n      position: absolute !important;\n      top: -2px !important;\n      left: -2px !important;\n      width: 16px !important;\n      height: 16px !important;\n      background-color: rgba(245, 175, 41, 0.4);\n      border-radius: 50% !important;\n      animation: pm-pulse-ring 2s ease-out infinite !important;\n    }\n\n    .pm-text1 {\n      color: #F5AF29;\n      font-weight: 600;\n    }\n\n    @keyframes pm-pulse {\n      0% {\n        transform: scale(1);\n        opacity: 1;\n      }\n      50% {\n        transform: scale(1.1);\n        opacity: 0.8;\n      }\n      100% {\n        transform: scale(1);\n        opacity: 1;\n      }\n    }\n\n    @keyframes pm-pulse-ring {\n      0% {\n        transform: scale(0.8);\n        opacity: 1;\n      }\n      80% {\n        transform: scale(1.4);\n        opacity: 0;\n      }\n      100% {\n        transform: scale(1.4);\n        opacity: 0;\n      }\n    }\n    /* POINT 2 – DAO Shipping Icon */\n    .icon2 {\n      width: 26px;\n      height: 26px;\n      margin-top: 0px;\n      margin-right: 6px;\n      margin-left: 0px;\n    }\n    .text2 {\n      margin-top: -1px;\n      margin-left: 5px;\n    }\n    /* POINT 3 – Return Icon */\n    .icon3 {\n      width: 24px;\n      height: 24px;\n      margin-top: 3px;\n      margin-right: 13px;\n    }\n    .text3 {\n      margin-top: 2px;\n    }\n    /* POINT 4 – Danish Flag */\n    .icon4 {\n      width: 26px;\n      height: 26px;\n      margin-top: 3px;\n      margin-right: 13px;\n    }\n    .text4 {\n      margin-top: 3px;\n    }\n  </style>\n</head>\n<body>\n  <!-- POINT 1 -->\n  <div class=\"pm-salepoint1\">\n    <div class=\"pm-icon1\"></div>\n    <span class=\"pm-text1\">Næsten udsolgt!</span>\n  </div>\n  <!-- POINT 2 -->\n  <div class=\"salepoint\">\n    <img class=\"icon2\" src=\"https://cdn.shopify.com/s/files/1/0939/5434/3260/files/Screenshot_2026-01-06_173300-modified.png?v=1767717209\" alt=\"DAO Icon\">\n    <span class=\"text2\">Gratis levering med DAO</span>\n  </div>\n  <!-- POINT 3 -->\n  <div class=\"salepoint\">\n    <img class=\"icon3\" src=\"https://cdn.shopify.com/s/files/1/0971/6908/0667/files/return-svgrepo-com.svg?v=1765731866\" alt=\"Return Icon\">\n    <span class=\"text3\">30 dages returret</span>\n  </div>\n  <!-- POINT 4 -->\n  <div class=\"salepoint\">\n    <img class=\"icon4\" src=\"https://cdn.shopify.com/s/files/1/0939/5434/3260/files/denmark-flag-round-circle-icon.svg?v=1767717301\" alt=\"Danish Flag\">\n    <span class=\"text4\">Dansk familievirksomhed</span>\n  </div>\n</body>\n</html>"
+          }
+        },
         "liquid_L8tDnq": {
           "type": "liquid",
           "disabled": true,
@@ -105,6 +111,7 @@
         "liquid_CAnMwp",
         "title_fjYh7d",
         "price_VDj6mT",
+        "liquid_hFfzgi",
         "liquid_L8tDnq",
         "variant_picker_dFMqic",
         "liquid_mzimMA",
