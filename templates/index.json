@@ -19,7 +19,7 @@
         "heading_cYdGX4": {
           "type": "heading",
           "settings": {
-            "text": "Großer Frühlings-Sale",
+            "text": "Grosser Frühlings-Sale",
             "heading_tag": "h4"
           }
         },
@@ -336,7 +336,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Vistero_3.webp",
-            "title": "Grosser Winter-Sale",
+            "title": "Grosser Frühlings-Sale",
             "heading_tag": "h4",
             "link_url": "shopify://collections",
             "link_text": "",
