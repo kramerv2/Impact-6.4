@@ -437,7 +437,7 @@
         "empty_state": "Ordrer afgivet før kl. 22.00 afsendes næste hverdag"
       },
       "alternative_payment_method_banner": {
-        "or": "ℹ️ Lav lagerstatus! Gennemfør din ordre før det er udsolgt."
+        "or": "ⓘ Kun få tilbage! Gennemfør din ordre nu."
       }
     }
   }
