@@ -155,12 +155,121 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "media_grid_eghGJF": {
+      "type": "media-grid",
+      "blocks": {
+        "image_i3AqRi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_38.webp",
+            "title": "Fino al 70% di sconto",
+            "heading_tag": "h4",
+            "link_url": "shopify://collections",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_XgQTVR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pexels-tima-miroshnichenko-6169012.webp",
+            "title": "Traccia il tuo ordine",
+            "heading_tag": "h4",
+            "link_url": "https://vestiri.it/apps/track123",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_gHgfBJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_42.webp",
+            "title": "Chi siamo",
+            "heading_tag": "h4",
+            "link_url": "shopify://pages/chi-siamo",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_LyAQR4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_40.webp",
+            "title": "Contatto",
+            "heading_tag": "h4",
+            "link_url": "shopify://pages/contact",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_i3AqRi",
+        "image_XgQTVR",
+        "image_gHgfBJ",
+        "image_LyAQR4"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
     }
   },
   "order": [
     "video_PHgjTx",
     "featured_collection_zNny37",
     "collection_list_GDNR4f",
-    "featured_collection_h9kDBd"
+    "featured_collection_h9kDBd",
+    "media_grid_eghGJF"
   ]
 }
