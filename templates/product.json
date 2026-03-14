@@ -432,6 +432,7 @@
         "image_9WkhAM": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/123_2_568f5068-0583-4ee7-895e-8dc55fc49f54.webp",
             "url": ""
           }
         },
@@ -452,6 +453,7 @@
         "image_dqzJge": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/pexels-tima-miroshnichenko-6169012_6b10ff85-8c48-4461-a818-9cb99e07a68c.webp",
             "url": ""
           }
         },
