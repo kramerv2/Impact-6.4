@@ -665,7 +665,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Rückgabe innerhalb von 30 Tagen",
+            "title": "Reso entro 30 giorni",
             "content": ""
           }
         },
@@ -678,7 +678,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Gratis Expressversand",
+            "title": "Spedizione express gratuita",
             "content": ""
           }
         },
@@ -691,7 +691,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Sichere Zahlungen",
+            "title": "Pagamenti sicuri",
             "content": ""
           }
         },
@@ -704,7 +704,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Kundenservice 24/7",
+            "title": "Servizio clienti 24/7",
             "content": ""
           }
         }
