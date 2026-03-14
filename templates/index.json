@@ -8,6 +8,76 @@
  * ------------------------------------------------------------
  */
 {
-  "sections": {},
-  "order": []
+  "sections": {
+    "video_PHgjTx": {
+      "type": "video",
+      "blocks": {
+        "heading_KrjTjb": {
+          "type": "heading",
+          "settings": {
+            "text": "SALDI DI PRIMAVERA",
+            "heading_tag": "h1"
+          }
+        },
+        "heading_gUEwBm": {
+          "type": "heading",
+          "settings": {
+            "text": "Fino al 70% di sconto",
+            "heading_tag": "h1"
+          }
+        },
+        "play_JeFMVX": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_KrjTjb",
+        "heading_gUEwBm",
+        "play_JeFMVX"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "md",
+        "video": "shopify://files/videos/9d23dbb92c95417fb5e33e933e637b77.HD-1080p-2.5Mbps-46228302.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "featured_collection_zNny37": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "top",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "I PUNTI SALIENTI DELLA PRIMAVERA",
+        "content": "",
+        "link_url": "",
+        "link_text": "Vedi tutto",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "video_PHgjTx",
+    "featured_collection_zNny37"
+  ]
 }
