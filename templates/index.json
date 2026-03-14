@@ -267,43 +267,120 @@
     "ss_scrolling_images_WRErKz": {
       "type": "ss-scrolling-images",
       "blocks": {
+        "image_H9HJEM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/50baa3387ac93a5f2fe1a052e6caad15_1_7b05cb9e-f388-4db2-85d9-eac687e5c246.webp",
+            "url": ""
+          }
+        },
         "image_GbUeer": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/123_2_568f5068-0583-4ee7-895e-8dc55fc49f54.webp",
             "url": ""
           }
         },
         "image_dXYGim": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/694ea3ea5f6aef1900f790c8b3338a1d_5ac20fec-9089-4585-9dd4-812550051e9f.webp",
             "url": ""
           }
         },
         "image_JKFCtV": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/475944174_17845949172407902_3817677168902999382_n_45fcaa45-1847-48f7-94ad-09d14b5bd260.jpg",
             "url": ""
           }
         },
         "image_CzJ6Tt": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/476003105_17845948758407902_8357618397879265247_n_f028299f-b732-4bed-91c2-a0facae2f8c2.jpg",
             "url": ""
           }
         },
         "image_rrcgke": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/a439902d3673bffafd527b1b865339ad_fc778184-aab4-4d2b-917f-f02e1697008a.webp",
+            "url": ""
+          }
+        },
+        "image_KKKaeF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/back_ground_2_1_37da7e7a-f56c-42f7-96b1-7b60eb44c241.webp",
+            "url": ""
+          }
+        },
+        "image_YdcHLm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/back_ground_3_1_1cb608dc-baeb-4917-947d-ba3d6efe350b.webp",
+            "url": ""
+          }
+        },
+        "image_cLNLqQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/a286a0e65c368543f0e6e7958297dc9f_1_d0a01aa1-f1f4-4975-bd75-1edd17c8bc52.webp",
+            "url": ""
+          }
+        },
+        "image_az3kAf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pexels-sara-kazemi-2148049458-30676586.webp",
+            "url": ""
+          }
+        },
+        "image_dFyjpr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/mirror_selfie_dp_for_fb_girl.webp",
+            "url": ""
+          }
+        },
+        "image_KUR7aj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pexels-tima-miroshnichenko-6169012_6b10ff85-8c48-4461-a818-9cb99e07a68c.webp",
+            "url": ""
+          }
+        },
+        "image_3QeQpV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pexels-njeromin-21656902_17855670-c94c-41f6-9997-c8db2cad43cb.jpg",
+            "url": ""
+          }
+        },
+        "image_8HqDiN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/123_1_488d56f7-70ba-4702-97f8-d0bda0beff27.webp",
             "url": ""
           }
         }
       },
       "block_order": [
+        "image_H9HJEM",
         "image_GbUeer",
         "image_dXYGim",
         "image_JKFCtV",
         "image_CzJ6Tt",
-        "image_rrcgke"
+        "image_rrcgke",
+        "image_KKKaeF",
+        "image_YdcHLm",
+        "image_cLNLqQ",
+        "image_az3kAf",
+        "image_dFyjpr",
+        "image_KUR7aj",
+        "image_3QeQpV",
+        "image_8HqDiN"
       ],
       "name": "SS - Scrolling images",
       "settings": {
@@ -313,7 +390,7 @@
         "heading_size": 40,
         "heading_height": 130,
         "heading_align": "center",
-        "slider_speed": 13,
+        "slider_speed": 20,
         "slider_gap": 10,
         "slider_gap_mobile": 10,
         "slider_mt": 50,
