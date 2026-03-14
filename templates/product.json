@@ -514,7 +514,7 @@
       ],
       "name": "SS - Scrolling images",
       "settings": {
-        "heading": "<p><strong>VISTERO GEMEINSCHAFT</strong></p>",
+        "heading": "<p><strong>COMUNITÀ VESTIRI</strong></p>",
         "heading_custom": true,
         "heading_font": "inter_n4",
         "heading_size": 28,
@@ -541,7 +541,7 @@
         "content_radius": 10,
         "content_border_thickness": 0,
         "use_shadow": true,
-        "text": "<p>Mit über <strong>9’000+</strong> Kundinnen und Kunden weltweit ist die <strong>Vistero-Community</strong> grösser denn je.</p>",
+        "text": "<p>Con oltre <strong>9.000 clienti in tutto il mondo</strong>, la comunità <strong>Vestiri </strong>è più grande che mai.</p>",
         "text_custom": false,
         "text_font": "assistant_n4",
         "text_size": 16,
