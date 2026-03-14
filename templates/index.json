@@ -74,10 +74,66 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "collection_list_GDNR4f": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_6kBUrr": {
+          "type": "collection",
+          "settings": {
+            "collection": "best-seller-donna",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_b8VFMy": {
+          "type": "collection",
+          "settings": {
+            "collection": "best-seller-uomo",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_6kBUrr",
+        "collection_b8VFMy"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": false,
+        "collections_per_row_mobile": "1",
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "I nostri modelli più amati – ora a prezzi speciali!",
+        "title": "I più venduti del 2026",
+        "content": "",
+        "link_url": "",
+        "link_text": "Vedi tutto",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
     "video_PHgjTx",
-    "featured_collection_zNny37"
+    "featured_collection_zNny37",
+    "collection_list_GDNR4f"
   ]
 }
