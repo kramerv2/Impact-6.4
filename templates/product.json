@@ -767,43 +767,43 @@
         "item_AqWBwn": {
           "type": "item",
           "settings": {
-            "question": "Lorem ipsum dolor sit amet?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+            "question": "Qual è il tempo di consegna?",
+            "answer": "<p>Di solito consegniamo gli articoli disponibili in magazzino entro <strong>6–9 </strong>giorni.</p><p></p>"
           }
         },
         "item_DB43eU": {
           "type": "item",
           "settings": {
-            "question": "Lorem ipsum dolor sit amet?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+            "question": "Come posso tracciare il mio ordine?",
+            "answer": "<p>Per verificare lo stato di consegna del tuo ordine, consulta l’e-mail di conferma della spedizione che hai ricevuto. Per ogni pacco spedito riceverai un’e-mail di conferma contenente un link di tracciamento. Questa e-mail viene inviata non appena il tuo ordine è stato elaborato e spedito. Utilizza il link di tracciamento per seguire il tuo pacco in tempo reale.</p>"
           }
         },
         "item_DwzRyU": {
           "type": "item",
           "settings": {
-            "question": "Lorem ipsum dolor sit amet?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+            "question": "Come posso richiedere un reso?",
+            "answer": "<p><strong>Se il tuo ordine è idoneo al reso, segui questi passaggi per avviare la procedura:</strong></p><ul><li>Invia un’e-mail tramite la sezione <strong>\"Contatto\"</strong> sul nostro sito web.</li><li>Nell’e-mail devi includere le seguenti informazioni:</li><li>Numero dell’ordine</li><li>Motivo del reso</li><li>Foto del prodotto (se è danneggiato)</li><li>Nome e cognome del cliente</li><li>Indirizzo del cliente<br/></li></ul><p><strong>Ti contatteremo successivamente per fornirti l’indirizzo di reso.</strong></p>"
           }
         },
         "item_bQtVLc": {
           "type": "item",
           "settings": {
-            "question": "Lorem ipsum dolor sit amet?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+            "question": "Come ricevo il mio rimborso?",
+            "answer": "<p>Il rimborso viene sempre effettuato tramite il metodo di pagamento utilizzato. Se hai pagato con carta di credito, l’importo degli articoli restituiti verrà accreditato direttamente sulla tua carta di credito.</p>"
           }
         },
         "item_FpUCzg": {
           "type": "item",
           "settings": {
-            "question": "Lorem ipsum dolor sit amet?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+            "question": "Quali metodi di pagamento sono accettati?",
+            "answer": "<p>Puoi scegliere tra i seguenti metodi di pagamento: carta di credito (Visa, Mastercard, AMEX), Google Pay, Apple Pay.</p>"
           }
         },
         "item_nPenrf": {
           "type": "item",
           "settings": {
-            "question": "Lorem ipsum dolor sit amet?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+            "question": "Perché il pagamento con la mia carta di credito è stato rifiutato?",
+            "answer": "<p>Ci possono essere diverse ragioni per cui il pagamento con carta di credito non è andato a buon fine. Potrebbe essere dovuto a problemi tecnici generali, errori di digitazione, una carta scaduta o bloccata, oppure a fondi insufficienti. Ti consigliamo di controllare i dati della tua carta o di provare un altro metodo di pagamento.</p>"
           }
         }
       },
