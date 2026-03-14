@@ -93,16 +93,16 @@
         "collapsible_text_cG3RKH": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Gratis Lieferung",
-            "content": "<p>Wir bieten in der <strong>Schweiz</strong> kostenlosen Versand mit unseren zuverlässigen Partnern <strong>DHL</strong> und <strong>Swiss Post.</strong><br/><br/>Du kannst dein Paket ganz einfach mit der erhaltenen Sendungsnummer verfolgen.</p>",
+            "title": "Spedizione gratuita",
+            "content": "<p>Offriamo spedizione gratuita in Italia con il nostro partner affidabile <strong>Poste Italiane</strong>. Puoi facilmente tracciare il tuo pacco utilizzando il numero di spedizione ricevuto.</p>",
             "page": ""
           }
         },
         "collapsible_text_Mwitjx": {
           "type": "collapsible_text",
           "settings": {
-            "title": "30 Tage einfache Rückgabe",
-            "content": "<p>Nicht ganz zufrieden? Kein Grund zur Sorge! Du kannst deine Bestellung innerhalb von <strong>30 Tagen nach Erhalt</strong> einfach und schnell zurücksenden. Wir sorgen dafür, dass der Rückgabeprozess unkompliziert ist, damit du dich um nichts kümmern musst.</p>",
+            "title": "Reso facile entro 30 giorni",
+            "content": "<p>Non sei completamente soddisfatto? Nessun problema! Puoi restituire facilmente e rapidamente il tuo ordine entro 30 giorni dalla ricezione. Ci assicuriamo che il processo di reso sia semplice, così non dovrai preoccuparti di nulla.</p>",
             "page": ""
           }
         }
