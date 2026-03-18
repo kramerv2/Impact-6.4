@@ -744,7 +744,7 @@
             "heading_mt_mobile": 0,
             "heading_align": "left",
             "heading_align_mobile": "center",
-            "heading_color": "#005C53"
+            "heading_color": "#005c53"
           }
         },
         "text_HF6VUz": {
@@ -822,7 +822,7 @@
         "body_gap": 30,
         "body_gap_mobile": 20,
         "body_radius": 40,
-        "faq_position": "top",
+        "faq_position": "bottom",
         "faq_position_mobile": "bottom",
         "item_padding_vertical": 20,
         "item_padding_vertical_mobile": 20,
@@ -846,13 +846,13 @@
         "answer_size_mobile": 12,
         "answer_height": 170,
         "answer_padding_top": 16,
-        "item_bg_color": "#FFFFFF",
+        "item_bg_color": "#ffffff",
         "item_border_color": "#000000",
-        "question_color": "#005C53",
+        "question_color": "#005c53",
         "arrow_color": "#757575",
         "arrow_border_color": "#6c584c",
         "answer_color": "#757575",
-        "background_color": "#F0F3F4",
+        "background_color": "#f0f3f4",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 16,
