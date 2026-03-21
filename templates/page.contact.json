@@ -82,8 +82,8 @@
         "item_Hz8Pzb": {
           "type": "item",
           "settings": {
-            "question": "Was tun, wenn meine Bestellung beschädigt oder fehlerhaft ankommt?",
-            "answer": "<p>Sollte Ihre Bestellung beschädigt oder fehlerhaft ankommen, kontaktieren Sie uns bitte umgehend. Wir organisieren für Sie <strong>gratis</strong> eine neue Lieferung und kümmern uns vollständig um alles Weitere.</p>"
+            "question": "Wat moet ik doen als mijn bestelling beschadigd of defect aankomt?",
+            "answer": "<p>Als je bestelling beschadigd of defect aankomt, neem dan direct contact met ons op. Wij zorgen kosteloos voor een nieuwe levering en regelen alles verder voor je.</p>"
           }
         }
       },
