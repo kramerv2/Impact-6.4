@@ -85,8 +85,8 @@
         "collapsible_text_cG3RKH": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Gratis Lieferung",
-            "content": "<p>Wir bieten in der <strong>Schweiz</strong> kostenlosen Versand mit unseren zuverlässigen Partnern <strong>DHL</strong> und <strong>Swiss Post.</strong><br/><br/>Du kannst dein Paket ganz einfach mit der erhaltenen Sendungsnummer verfolgen.</p>",
+            "title": "Gratis verzending",
+            "content": "<p>Wij bieden in <strong>Nederland en België</strong> <strong>gratis verzending</strong> aan met onze betrouwbare partners <strong>PostNL</strong> en <strong>bpost</strong>. </p><p>Je kunt je pakket <strong>eenvoudig volgen</strong> met de ontvangen <strong>track & trace-code</strong>.</p>",
             "page": ""
           }
         },
