@@ -187,7 +187,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h4>Kombinieren & sparen – 10%</h4>",
+        "content": "<h4>Combineren & besparen – 10%</h4>",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -207,9 +207,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Anna K.",
-            "title": "Fantastischer Service nach meinem Fehler",
-            "content": "<p>Ich habe versehentlich dieselben Sandalen zweimal bestellt. Der Kundenservice hat schnell reagiert und umgehend eine Rückerstattung organisiert.</p>"
+            "author": "Sanne de Vries",
+            "title": "Fantastische service na mijn fout",
+            "content": "<p>Ik had per ongeluk dezelfde sandalen twee keer besteld. De klantenservice reageerde snel en heeft direct een terugbetaling geregeld.</p>"
           }
         },
         "testimonial_eRmK6D": {
@@ -219,9 +219,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Anders V.",
-            "title": "Unsicher bei der Grösse, aber sehr zufrieden!",
-            "content": "<p>Am Anfang war ich mir wegen der Grösse nicht sicher und habe deshalb zwei Poloshirts bestellt. Es hat sich herausgestellt, dass sie perfekt passen! Die Grössentabelle stimmt vollkommen.</p>"
+            "author": "Daan Jansen",
+            "title": "Twijfelde over de maat, maar zeer tevreden!",
+            "content": "<p>In het begin was ik niet zeker over de maat en heb daarom twee poloshirts besteld. Uiteindelijk bleken ze perfect te passen! De maattabel klopt helemaal.</p>"
           }
         },
         "testimonial_qhW3rC": {
@@ -231,9 +231,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Freja H.",
-            "title": "Perfekt für die Hochzeit!",
-            "content": "<p>Ich habe ein Kleid für eine Hochzeit bestellt, und es ist sogar früher als erwartet angekommen. Bei der ersten Anprobe war es perfekt und bot einen hervorragenden Halt im Brustbereich – genau das, wonach ich gesucht habe!</p>"
+            "author": "Lotte Bakker",
+            "title": "Perfect voor een bruiloft!",
+            "content": "<p>Ik heb een jurk besteld voor een bruiloft en deze kwam zelfs eerder aan dan verwacht. Bij het passen zat hij meteen perfect en bood hij uitstekende ondersteuning bij de borst – precies wat ik zocht!</p>"
           }
         },
         "testimonial_Xh4Vyf": {
@@ -243,9 +243,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Frederik P.",
-            "title": "Schöne Qualität, aber etwas enger als erwartet",
-            "content": "<p>Der Stoff ist von höchster Qualität, und die Farbe entspricht genau dem Bild. Sie war lediglich etwas enger an den Schultern, als ich erwartet hatte. Insgesamt bin ich jedoch sehr zufrieden mit meinem Kauf.</p>"
+            "author": "Thijs van Dijk",
+            "title": "Mooie kwaliteit, maar iets strakker dan verwacht",
+            "content": "<p>De stof is van hoge kwaliteit en de kleur komt precies overeen met de afbeelding. Het zat alleen iets strakker bij de schouders dan ik had verwacht. Over het algemeen ben ik echter zeer tevreden met mijn aankoop.</p>"
           }
         }
       },
@@ -260,7 +260,7 @@
         "full_width": true,
         "stack_testimonials": false,
         "subheading": "",
-        "title": "Kundenbewertungen",
+        "title": "Klantbeoordelingen",
         "content": "",
         "link_url": "",
         "link_text": "",
