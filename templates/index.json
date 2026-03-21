@@ -536,7 +536,7 @@
             "image": "shopify://shop_images/iStock-1306620421_1.webp",
             "title": "Versandpolitik",
             "heading_tag": "h4",
-            "link_url": "shopify://pages/versandpolitik",
+            "link_url": "shopify://pages/verzending-levering",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
