@@ -606,8 +606,8 @@
         "item_T6mUJM": {
           "type": "item",
           "settings": {
-            "question": "Lorem ipsum dolor sit amet?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+            "question": "Hoe vraag ik een retour aan?",
+            "answer": "<p>Als je bestelling in aanmerking komt voor retournering, volg dan deze stappen om het proces te starten:</p><ul><li>Stuur een e-mail via de sectie \"Contact\" op onze website.</li><li>Vermeld in deze e-mail de volgende gegevens:</li><li>Bestelnummer</li><li>Reden van retour</li><li>Foto van het product (indien beschadigd)</li><li>Voor- en achternaam van de klant</li><li>Adres van de klant<br/></li></ul><p>Wij nemen daarna contact met je op om je het retouradres te geven.</p>"
           }
         },
         "item_AQbkPV": {
