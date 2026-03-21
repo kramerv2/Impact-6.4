@@ -22,7 +22,7 @@
         "heading_BdFD8f": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Haben Sie Fragen?</p>",
+            "heading": "<p><strong>Heb je vragen?</strong></p>",
             "heading_custom": true,
             "heading_font": "inter_n7",
             "heading_size": 48,
@@ -38,7 +38,7 @@
         "text_QN8MCh": {
           "type": "text",
           "settings": {
-            "text": "<p> Schauen Sie zuerst in unsere häufig gestellten Fragen!</p>",
+            "text": "<p>Bekijk eerst onze veelgestelde vragen!</p>",
             "text_custom": false,
             "text_font": "josefin_sans_n4",
             "text_size": 18,
