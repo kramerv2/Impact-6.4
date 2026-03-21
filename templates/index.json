@@ -411,7 +411,7 @@
       ],
       "name": "SS - Scrolling images",
       "settings": {
-        "heading": "<p>Met meer dan <strong>9.000+</strong> klanten wereldwijd is de community rond Vestiri groter dan ooit.</p>",
+        "heading": "",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 40,
@@ -438,7 +438,7 @@
         "content_radius": 10,
         "content_border_thickness": 0,
         "use_shadow": true,
-        "text": "<p>Mit über<strong> 9.000+</strong> Kundinnen und Kunden weltweit ist die Gemeinschaft rund um <strong>Vistero</strong> grösser denn je.</p>",
+        "text": "<p>Met meer dan <strong>9.000+</strong> klanten wereldwijd is de community rond Vestiri groter dan ooit.</p>",
         "text_custom": false,
         "text_font": "assistant_n4",
         "text_size": 14,
@@ -569,6 +569,128 @@
         "background": "",
         "background_gradient": ""
       }
+    },
+    "26_ED9tL3": {
+      "type": "26",
+      "blocks": {
+        "heading_jiA73n": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2><strong>Veelgestelde vragen</strong></h2>",
+            "heading_custom": false,
+            "heading_font": "josefin_sans_n4",
+            "heading_size": 44,
+            "heading_size_mobile": 26,
+            "heading_height": 130,
+            "heading_mt": 0,
+            "heading_mt_mobile": 0,
+            "heading_align": "left",
+            "heading_align_mobile": "center",
+            "heading_color": "#005C53"
+          }
+        },
+        "item_eGiJ6A": {
+          "type": "item",
+          "settings": {
+            "question": "Wat is de levertijd?",
+            "answer": "<p>Wij leveren de artikelen die op voorraad zijn doorgaans binnen 6-9 dagen.</p>"
+          }
+        },
+        "item_RpKRLM": {
+          "type": "item",
+          "settings": {
+            "question": "Hoe kan ik mijn bestelling volgen?",
+            "answer": "<p>Om de leveringsstatus van je bestelling te controleren, kun je de verzendbevestiging bekijken die je per e-mail hebt ontvangen.</p><p>Voor elk pakket dat wordt verzonden, ontvang je een e-mail met een bevestiging die een trackinglink bevat.</p><p>Deze e-mail wordt verzonden zodra je bestelling is verwerkt en verzonden. Gebruik de trackinglink om je pakket in realtime te volgen.</p>"
+          }
+        },
+        "item_T6mUJM": {
+          "type": "item",
+          "settings": {
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+          }
+        },
+        "item_AQbkPV": {
+          "type": "item",
+          "settings": {
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+          }
+        },
+        "item_kpfUgh": {
+          "type": "item",
+          "settings": {
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+          }
+        },
+        "item_apWW9D": {
+          "type": "item",
+          "settings": {
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jiA73n",
+        "item_eGiJ6A",
+        "item_RpKRLM",
+        "item_T6mUJM",
+        "item_AQbkPV",
+        "item_kpfUgh",
+        "item_apWW9D"
+      ],
+      "name": "SS - FAQ #9",
+      "settings": {
+        "body_gap": 30,
+        "body_gap_mobile": 20,
+        "body_radius": 40,
+        "faq_position": "bottom",
+        "faq_position_mobile": "bottom",
+        "item_padding_vertical": 20,
+        "item_padding_vertical_mobile": 20,
+        "item_padding_horizontal": 20,
+        "item_padding_horizontal_mobile": 20,
+        "item_mt": 10,
+        "item_radius": 10,
+        "item_border_thickness": 0,
+        "item_shadow": true,
+        "question_custom": false,
+        "question_font": "josefin_sans_n4",
+        "question_size": 18,
+        "question_size_mobile": 14,
+        "question_height": 130,
+        "arrow_size": 24,
+        "arrow_size_mobile": 24,
+        "arrow_border_thickness": 0,
+        "answer_custom": false,
+        "answer_font": "josefin_sans_n4",
+        "answer_size": 16,
+        "answer_size_mobile": 12,
+        "answer_height": 170,
+        "answer_padding_top": 16,
+        "item_bg_color": "#FFFFFF",
+        "item_border_color": "#000000",
+        "question_color": "#005C53",
+        "arrow_color": "#757575",
+        "arrow_border_color": "#6c584c",
+        "answer_color": "#757575",
+        "background_color": "#F0F3F4",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 16,
+        "margin_bottom": 16,
+        "margin_horizontal": 4,
+        "margin_horizontal_mobile": 1.5,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_horizontal": 6,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0
+      }
     }
   },
   "order": [
@@ -579,6 +701,7 @@
     "media_with_text_4DxUBb",
     "media_grid_CP7cQ3",
     "ss_scrolling_images_hQeRkh",
-    "media_grid_L7f4DH"
+    "media_grid_L7f4DH",
+    "26_ED9tL3"
   ]
 }
