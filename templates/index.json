@@ -664,7 +664,7 @@
         "arrow_size": 24,
         "arrow_size_mobile": 24,
         "arrow_border_thickness": 0,
-        "answer_custom": false,
+        "answer_custom": true,
         "answer_font": "inter_n4",
         "answer_size": 16,
         "answer_size_mobile": 12,
