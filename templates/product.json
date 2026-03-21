@@ -423,6 +423,7 @@
         "image_9WkhAM": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/pexels-sara-kazemi-2148049458-30676586.webp",
             "url": ""
           }
         },
@@ -433,6 +434,13 @@
             "url": ""
           }
         },
+        "image_r8EVhm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/back_ground_2_1_37da7e7a-f56c-42f7-96b1-7b60eb44c241.webp",
+            "url": ""
+          }
+        },
         "image_bxjWRH": {
           "type": "image",
           "settings": {
@@ -440,9 +448,17 @@
             "url": ""
           }
         },
+        "image_8nm6Y3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pexels-tima-miroshnichenko-6169012_07b36b1a-d97b-4a82-bfc5-0db0e547de47.webp",
+            "url": ""
+          }
+        },
         "image_dqzJge": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/pexels-njeromin-21656902_17855670-c94c-41f6-9997-c8db2cad43cb.jpg",
             "url": ""
           }
         },
@@ -492,7 +508,9 @@
       "block_order": [
         "image_9WkhAM",
         "image_AV9qtA",
+        "image_r8EVhm",
         "image_bxjWRH",
+        "image_8nm6Y3",
         "image_dqzJge",
         "image_dptATn",
         "image_FDRFfF",
