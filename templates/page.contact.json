@@ -75,8 +75,8 @@
         "item_NiYG3b": {
           "type": "item",
           "settings": {
-            "question": "Welche Rückgabebedingungen gelten bei uns?",
-            "answer": "<p>Nicht gewünschte Artikel können innerhalb von <strong>30 Tagen nach Erhalt</strong> für eine vollständige Rückerstattung oder einen Umtausch zurückgesendet werden. Die Artikel müssen unbenutzt und in der Originalverpackung sein. Die Rücksendekosten trägt der Kunde. Für weitere Informationen empfehlen wir, auch unsere Rückgaberichtlinien zu lesen.</p>"
+            "question": "Welke retourvoorwaarden gelden bij ons?",
+            "answer": "<p>Niet gewenste artikelen kunnen binnen 30 dagen na ontvangst worden geretourneerd voor een volledige terugbetaling of omruiling. De artikelen moeten ongebruikt zijn en in de originele verpakking zitten.</p><p>De retourkosten zijn voor rekening van de klant. Voor meer informatie raden wij aan om ook ons retourbeleid te bekijken.</p>"
           }
         },
         "item_Hz8Pzb": {
