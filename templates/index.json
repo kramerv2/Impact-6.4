@@ -184,10 +184,119 @@
       "block_order": [
         "image_NMb3Kr"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
         "spacing": "small"
+      }
+    },
+    "media_grid_CP7cQ3": {
+      "type": "media-grid",
+      "blocks": {
+        "image_78frJJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_38.webp",
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_YtTY88": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pexels-tima-miroshnichenko-6169012.webp",
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_nPPQRr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_42.webp",
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_abFpBQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_40.webp",
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_78frJJ",
+        "image_YtTY88",
+        "image_nPPQRr",
+        "image_abFpBQ"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
       }
     },
     "ss_scrolling_images_hQeRkh": {
@@ -424,6 +533,7 @@
         "image_EqxVa6",
         "image_cXUPyp"
       ],
+      "disabled": true,
       "name": "Media grid",
       "settings": {
         "full_width": true,
@@ -441,6 +551,7 @@
     "collection_list_QRck8W",
     "featured_collection_3efJjq",
     "media_with_text_4DxUBb",
+    "media_grid_CP7cQ3",
     "ss_scrolling_images_hQeRkh",
     "media_grid_L7f4DH"
   ]
