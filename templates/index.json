@@ -19,14 +19,14 @@
         "heading_cYdGX4": {
           "type": "heading",
           "settings": {
-            "text": "Grosser Frühlings-Sale",
+            "text": "GROTE LENTE SALE",
             "heading_tag": "h4"
           }
         },
         "heading_ymgmXK": {
           "type": "heading",
           "settings": {
-            "text": "Bis zu 70% Rabatt",
+            "text": "TOT WEL 70% KORTING",
             "heading_tag": "h2"
           }
         }
@@ -196,7 +196,6 @@
         "image_FmEJXx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Vistero_2.webp",
             "url": ""
           }
         },
@@ -210,7 +209,6 @@
         "image_pHcYAQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Vistero_1.webp",
             "url": ""
           }
         },
@@ -335,7 +333,6 @@
         "image_WeHaVn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Vistero_3.webp",
             "title": "Grosser Frühlings-Sale",
             "heading_tag": "h4",
             "link_url": "shopify://collections",
