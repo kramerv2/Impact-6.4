@@ -17,21 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "30 TAGE GELD-ZURÜCK-GARANTIE",
+            "text": "30 DAGEN GELD-TERUG-GARANTIE",
             "url": ""
           }
         },
         "message_hjBBBN": {
           "type": "message",
           "settings": {
-            "text": "4,7/5 BASIEREND AUF 1100+ BEWERTUNGEN",
+            "text": "4,7/5 GEBASEERD OP 1100+ BEOORDELINGEN",
             "url": ""
           }
         },
         "message_aMAeLe": {
           "type": "message",
           "settings": {
-            "text": "10% RABATT BEIM KAUF VON 2 STÜCK",
+            "text": "10% KORTING BIJ AANKOOP VAN 2 STUKS",
             "url": ""
           }
         }
@@ -58,7 +58,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Screenshot_2025-12-17_151502.png",
         "logo_max_width": 160,
         "logo_mobile_max_width": 135,
         "menu": "main-menu",
@@ -73,7 +72,6 @@
         "show_country_flag": false,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/Screenshot_2025-12-03_201547.png",
         "reduce_padding": true,
         "background_opacity": 40,
         "background_blur_radius": 10
