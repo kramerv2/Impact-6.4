@@ -34,8 +34,8 @@
         "text_nhchfD": {
           "type": "text",
           "settings": {
-            "title": "Kundeservice",
-            "content": "<p><strong>Zählen Sie auf uns für 24/7 Support.</strong><br/>Unser Kundendienst steht bereit, Ihnen bei allem zu helfen.</p><p>🕒 <strong>Öffnungszeiten:</strong><br/><strong>Montag – Freitag: </strong>09:00 – 18:00 CET<br/><strong>Samstag:</strong> 09:00 – 17:00 CET<br/><strong>Sonntag:</strong> 10:00 – 16:00 CET</p><p>✉️ <strong>Kontakt:</strong> <a>contact@vistero.ch</a><br/>📍 <strong>Standort:</strong> Zürich, 🇨🇭</p>",
+            "title": "Klantenservice",
+            "content": "<p>Reken op ons voor 24/7 ondersteuning.<br/><br/>Onze klantenservice staat klaar om u overal mee te helpen.</p><p>🕒 <strong>Openingstijden:</strong><br/><br/>Maandag – vrijdag: 09:00 – 18:00 CET<br/>Zaterdag: 09:00 – 17:00 CET<br/>Zondag: 10:00 – 16:00 CET</p><p>✉️ <strong>Contact:</strong> <a>contact@vestiri.nl</a><br/>📍 <strong>Locatie:</strong> Amsterdam, 🇳🇱</p>",
             "enable_follow_on_shop": false
           }
         }
