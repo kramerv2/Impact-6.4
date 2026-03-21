@@ -432,6 +432,9 @@
       },
       "alternative_payment_method_banner": {
         "or": "ⓘ Nog maar een paar beschikbaar – bestel snel."
+      },
+      "order_summary": {
+        "enter_shipping_address": "Gratis"
       }
     }
   }
