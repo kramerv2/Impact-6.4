@@ -429,6 +429,9 @@
     "checkout": {
       "shipping_errors": {
         "empty_state": "Bestel vóór 23:00 uur – morgen verzonden"
+      },
+      "alternative_payment_method_banner": {
+        "or": "ⓘ Nog maar een paar beschikbaar – bestel snel."
       }
     }
   }
