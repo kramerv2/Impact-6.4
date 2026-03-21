@@ -679,22 +679,6 @@
             "heading_color": "#005C53"
           }
         },
-        "text_Qq4ncc": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_custom": false,
-            "text_font": "josefin_sans_n4",
-            "text_size": 18,
-            "text_size_mobile": 16,
-            "text_height": 130,
-            "text_mt": 20,
-            "text_mt_mobile": 20,
-            "text_align": "left",
-            "text_align_mobile": "center",
-            "text_color": "#757575"
-          }
-        },
         "item_TridVL": {
           "type": "item",
           "settings": {
@@ -740,7 +724,6 @@
       },
       "block_order": [
         "heading_xr7ppC",
-        "text_Qq4ncc",
         "item_TridVL",
         "item_eaw4db",
         "item_KN9JrX",
