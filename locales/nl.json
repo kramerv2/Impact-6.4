@@ -424,5 +424,12 @@
         "other": "Het heeft {{ count }} recensies gekregen."
       }
     }
+  },
+  "shopify": {
+    "checkout": {
+      "shipping_errors": {
+        "empty_state": "Bestel vóór 23:00 uur – morgen verzonden"
+      }
+    }
   }
 }
