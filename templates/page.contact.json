@@ -68,8 +68,8 @@
         "item_rYMctt": {
           "type": "item",
           "settings": {
-            "question": "Kann ich meine Bestellung stornieren oder ändern?",
-            "answer": "<p>Eine Stornierung oder Änderung ist am selben Tag bis <strong>23:59 Uhr</strong> möglich. Bitte kontaktieren Sie dazu unseren Kundenservice per E-Mail unter <strong>contact@vistero.ch</strong>. Nach Ablauf dieser Frist können wir eine Stornierung oder Änderung leider nicht garantieren.</p>"
+            "question": "Kan ik mijn bestelling annuleren of wijzigen?",
+            "answer": "<p>Een annulering of wijziging is mogelijk op dezelfde dag tot 23:59 uur. Neem hiervoor contact op met onze klantenservice via e-mail op <a>contact@vestiri.nl</a>.</p><p>Na deze termijn kunnen wij een annulering of wijziging helaas niet garanderen.</p>"
           }
         },
         "item_NiYG3b": {
