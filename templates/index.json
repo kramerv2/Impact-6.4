@@ -577,8 +577,8 @@
           "type": "heading",
           "settings": {
             "heading": "<h2><strong>Veelgestelde vragen</strong></h2>",
-            "heading_custom": false,
-            "heading_font": "josefin_sans_n4",
+            "heading_custom": true,
+            "heading_font": "inter_n7",
             "heading_size": 44,
             "heading_size_mobile": 26,
             "heading_height": 130,
@@ -586,7 +586,7 @@
             "heading_mt_mobile": 0,
             "heading_align": "left",
             "heading_align_mobile": "center",
-            "heading_color": "#005C53"
+            "heading_color": "#005c53"
           }
         },
         "item_eGiJ6A": {
@@ -670,13 +670,13 @@
         "answer_size_mobile": 12,
         "answer_height": 170,
         "answer_padding_top": 16,
-        "item_bg_color": "#FFFFFF",
+        "item_bg_color": "#ffffff",
         "item_border_color": "#000000",
-        "question_color": "#005C53",
+        "question_color": "#005c53",
         "arrow_color": "#757575",
         "arrow_border_color": "#6c584c",
         "answer_color": "#757575",
-        "background_color": "#F0F3F4",
+        "background_color": "#f0f3f4",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 16,
