@@ -45,10 +45,46 @@
         "show_filter_values_count": false,
         "open_first_filter_group": false
       }
+    },
+    "media_with_text_33cBjm": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_x3hNJ9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/swiss_workshop_optimized.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "ENTWORFEN VON DREI SCHWESTERN",
+            "content": "<p>Unsere Geschichte begann mit unserer Grossmutter, die ihre Liebe zum Entwerfen und zur Herstellung schöner Kleidung mit uns teilte. Schon als Kinder sahen wir ihr dabei zu, wie sie einfache Stoffe mit Geduld und Sorgfalt in zeitlose Stücke verwandelte.</p><p>Was als drei Schwestern begann, die an ihrer Seite lernten, entwickelte sich zu einer gemeinsamen Leidenschaft für unsere eigenen Designs.</p><p>Heute entwerfen wir jedes Stück noch immer nach denselben Werten, die sie uns mitgegeben hat: Liebe zum Detail, zeitloser Stil und Kleidung, die dafür gemacht ist, über viele Jahre hinweg getragen und geschätzt zu werden.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_x3hNJ9"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
     "banner",
-    "main"
+    "main",
+    "media_with_text_33cBjm"
   ]
 }
