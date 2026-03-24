@@ -43,7 +43,7 @@
             "stack_blocks": true,
             "selector_style": "block",
             "swatch_selector_style": "block_swatch",
-            "variant_image_options": "Kolor, Color, Couleur, Farbe, Farve, Colore, Estilo, Stil, Style,colour,Klingenanzahl",
+            "variant_image_options": "Kolor, Color, Couleur, Farbe, Farve, Colore, Estilo, Stil, Style,colour,Klingenanzahl,Größe",
             "size_chart_page": "{{ product.metafields.custom.tableau_des_tailles.value }}"
           }
         },
