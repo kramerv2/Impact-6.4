@@ -103,12 +103,40 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "image_with_text_overlay_hr4L4F": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "richtext_TWPiMp": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "richtext_TWPiMp"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/vistero_optimized.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "banner",
     "slideshow_LzPzQA",
     "main",
+    "image_with_text_overlay_hr4L4F",
     "video_HXDDPz"
   ]
 }
