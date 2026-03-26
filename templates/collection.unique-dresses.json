@@ -88,11 +88,47 @@
         "show_filter_values_count": false,
         "open_first_filter_group": false
       }
+    },
+    "media_with_text_WdzhzL": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_g8KzNz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/compressed_2_1.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "DESIGNET AF TRE SØSTRE",
+            "content": "<p>Vores historie begyndte med vores bedstemor, som delte sin kærlighed til at designe og skabe smukt tøj med os. Allerede som børn så vi hende forvandle enkle stoffer til tidløse stykker med tålmodighed og omhu.</p><p>Det, der begyndte som tre søstre, der lærte ved hendes side, udviklede sig til en fælles passion for vores egne designs. I dag designer vi stadig hvert stykke ud fra de samme værdier, som hun gav videre til os: sans for detaljer, tidløs stil og tøj, der er skabt til at blive båret og værdsat i mange år.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#2a555a",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_g8KzNz"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
     "slideshow_RLcHX3",
     "banner",
-    "main"
+    "main",
+    "media_with_text_WdzhzL"
   ]
 }
