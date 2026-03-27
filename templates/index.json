@@ -49,6 +49,32 @@
         "overlay_opacity": 30
       }
     },
+    "featured_collection_h9kDBd": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "abiti-unici",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Saldi finali – Abiti unici",
+        "content": "",
+        "link_url": "",
+        "link_text": "Vedi tutto",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "featured_collection_zNny37": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -128,32 +154,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "featured_collection_h9kDBd": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "abiti",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "ABITI SELEZIONATI",
-        "content": "",
-        "link_url": "",
-        "link_text": "Vedi tutto",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "media_grid_eghGJF": {
@@ -560,9 +560,9 @@
   },
   "order": [
     "video_PHgjTx",
+    "featured_collection_h9kDBd",
     "featured_collection_zNny37",
     "collection_list_GDNR4f",
-    "featured_collection_h9kDBd",
     "media_grid_eghGJF",
     "ss_scrolling_images_WRErKz",
     "26_ChAegz"
