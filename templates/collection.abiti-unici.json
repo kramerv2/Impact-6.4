@@ -78,7 +78,7 @@
         ".product-list img {background-color: #f7f7f7; /* Remplacez #f0f0f0 par la couleur de fond souhaitée */}"
       ],
       "settings": {
-        "products_per_page": 24,
+        "products_per_page": 36,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "filter_layout": "sidebar",
