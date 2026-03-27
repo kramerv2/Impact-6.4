@@ -88,11 +88,47 @@
         "show_filter_values_count": false,
         "open_first_filter_group": false
       }
+    },
+    "media_with_text_6fVMq7": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_NBjfNx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/compressed_1_final.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#2a555a",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_NBjfNx"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
     "slideshow_nD4mTK",
     "banner",
-    "main"
+    "main",
+    "media_with_text_6fVMq7"
   ]
 }
