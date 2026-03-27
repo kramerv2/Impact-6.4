@@ -19,7 +19,7 @@
         "heading_cYdGX4": {
           "type": "heading",
           "settings": {
-            "text": "Grosser Frühlings-Sale",
+            "text": "Grosser Sale",
             "heading_tag": "h4"
           }
         },
@@ -133,7 +133,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "kleider",
+        "collection": "besondere-kleider",
         "products": [],
         "full_width": true,
         "stack_products": false,
