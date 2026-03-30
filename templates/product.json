@@ -281,49 +281,56 @@
         "testimonial_Vh6ALa": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/4.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Anna K.",
-            "title": "Fantastischer Service nach meinem Fehler",
-            "content": "<p>Ich habe versehentlich dieselben Sandalen zweimal bestellt. Der Kundenservice hat schnell reagiert und umgehend eine Rückerstattung organisiert.</p>"
+            "author": "Vreni K.",
+            "title": "Endlich eine Marke die Frauen über 50 versteht",
+            "content": "<p>Ich kaufe schon seit Jahren online ein und bin meistens enttäuscht. Hier nicht. Der Schnitt ist wirklich durchdacht – nicht zu jung, nicht zu altmodisch. Genau das, was ich gesucht habe.</p>"
           }
         },
         "testimonial_eRmK6D": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/602e9a46-02f2-4f99-a1a9-93b73f500047.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Anders V.",
-            "title": "Unsicher bei der Grösse, aber sehr zufrieden!",
-            "content": "<p>Am Anfang war ich mir wegen der Grösse nicht sicher und habe deshalb zwei Poloshirts bestellt. Es hat sich herausgestellt, dass sie perfekt passen! Die Grössentabelle stimmt vollkommen.</p>"
+            "author": "Monika B.",
+            "title": "Passt wie massgeschneidert",
+            "content": "<p>Ich habe das Kleid bestellt ohne grosse Erwartungen – und war völlig überrascht. Es sitzt perfekt, der Stoff fühlt sich hochwertig an und die Farbe ist noch schöner als auf den Fotos. Werde definitiv nochmals bestellen.</p>"
           }
         },
         "testimonial_qhW3rC": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/e90ddd20-87ae-4d47-9ae5-60d0ed1aa31e.avif",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Freja H.",
-            "title": "Perfekt für die Hochzeit!",
-            "content": "<p>Ich habe ein Kleid für eine Hochzeit bestellt, und es ist sogar früher als erwartet angekommen. Bei der ersten Anprobe war es perfekt und bot einen hervorragenden Halt im Brustbereich – genau das, wonach ich gesucht habe!</p>"
+            "author": "Regula M.",
+            "title": "Wunderschön verpackt",
+            "content": "<p>Das Paket kam schneller als erwartet und war so liebevoll verpackt, dass ich es fast nicht öffnen wollte. Das Stück selbst ist toll – viele Komplimente beim ersten Tragen bekommen!</p>"
           }
         },
         "testimonial_Xh4Vyf": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/8cbe35b171657d9740a38a7a1505c47a_1.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Frederik P.",
-            "title": "Schöne Qualität, aber etwas enger als erwartet",
-            "content": "<p>Der Stoff ist von höchster Qualität, und die Farbe entspricht genau dem Bild. Sie war lediglich etwas enger an den Schultern, als ich erwartet hatte. Insgesamt bin ich jedoch sehr zufrieden mit meinem Kauf.</p>"
+            "author": "Franziska W.",
+            "title": "Super Kundenservice",
+            "content": "<p>Hatte eine Frage zur Grösse und bekam innerhalb eines Tages eine hilfreiche Antwort. Man merkt, dass hier echte Menschen dahinterstecken. Das Kleid ist übrigens wunderschön.</p>"
+          }
+        },
+        "testimonial_hiD6VE": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Heidi S.",
+            "title": "Qualität die man spürt",
+            "content": "<p>Der Stoff ist schwer und fällt schön – kein Vergleich zu dem was man sonst online bekommt. Ich trage es schon zum dritten Mal diese Woche. Meine Kolleginnen wollen alle wissen woher es kommt!</p>"
           }
         }
       },
@@ -331,7 +338,8 @@
         "testimonial_Vh6ALa",
         "testimonial_eRmK6D",
         "testimonial_qhW3rC",
-        "testimonial_Xh4Vyf"
+        "testimonial_Xh4Vyf",
+        "testimonial_hiD6VE"
       ],
       "name": "Testimonials",
       "settings": {
