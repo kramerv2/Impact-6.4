@@ -532,6 +532,7 @@
         "image_zDt9Hx",
         "image_7VFLVG"
       ],
+      "disabled": true,
       "name": "SS - Scrolling images",
       "settings": {
         "heading": "<p><strong>COMUNITÀ VESTIRI</strong></p>",
@@ -591,13 +592,13 @@
         "image_gAcEez": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/3ac473028c2ac7fdca72bd311ea99dad_1.webp",
+            "image": "shopify://shop_images/compressed_1_final.webp",
             "mobile_image": "shopify://shop_images/3ac473028c2ac7fdca72bd311ea99dad_1.webp",
             "content_max_width": 800,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Ogni misura è studiata con precisione, ogni dettaglio è realizzato alla perfezione. Scegli la perfezione.",
-            "title": "TAGLIATO PER LA PERFEZIONE",
+            "subheading": "La nostra nonna ci ha insegnato a lavorare i tessuti con pazienza e amore. Tutto ciò che ci ha trasmesso vive in ogni pezzo che creiamo.",
+            "title": "Disegnato da tre sorelle",
             "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
@@ -634,6 +635,7 @@
         },
         "image_PkJDR6": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/3b9e16fe059170bf750a89d2d372383c_1.webp",
             "content_max_width": 780,
