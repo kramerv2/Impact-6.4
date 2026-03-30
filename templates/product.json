@@ -332,6 +332,17 @@
             "title": "Qualität die man spürt",
             "content": "<p>Der Stoff ist schwer und fällt schön – kein Vergleich zu dem was man sonst online bekommt. Ich trage es schon zum dritten Mal diese Woche. Meine Kolleginnen wollen alle wissen woher es kommt!</p>"
           }
+        },
+        "testimonial_QnF4ah": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Margrit T.",
+            "title": "Genau mein Stil",
+            "content": "<p>Ich bin nicht einfach zu kleiden – ich mag es schlicht aber trotzdem besonders. Diese Bluse trifft es genau. Sitzt gut, sieht elegant aus und ist bequem für den ganzen Tag. Sehr zufrieden.</p>"
+          }
         }
       },
       "block_order": [
@@ -339,7 +350,8 @@
         "testimonial_eRmK6D",
         "testimonial_qhW3rC",
         "testimonial_Xh4Vyf",
-        "testimonial_hiD6VE"
+        "testimonial_hiD6VE",
+        "testimonial_QnF4ah"
       ],
       "name": "Testimonials",
       "settings": {
