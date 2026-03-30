@@ -212,49 +212,67 @@
         "testimonial_Vh6ALa": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/4.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Giulia R.",
-            "title": "Servizio fantastico dopo il mio errore",
-            "content": "<p>Ho accidentalmente ordinato gli stessi sandali due volte. Il servizio clienti ha risposto rapidamente e ha organizzato subito un rimborso.</p>"
+            "author": "Giovanna B., Lugano",
+            "title": "Sembra fatto su misura",
+            "content": "<p>Ho ordinato il vestito senza grandi aspettative — e sono rimasta completamente sorpresa. Calza perfettamente, il tessuto è di qualità e il colore è ancora più bello che nelle foto. Ordinerò sicuramente di nuovo.</p>"
           }
         },
         "testimonial_eRmK6D": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/602e9a46-02f2-4f99-a1a9-93b73f500047.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Luca M.",
-            "title": "Non ero sicuro della taglia, ma molto soddisfatto!",
-            "content": "<p>All’inizio non ero sicuro della taglia e per questo ho ordinato due polo. Si è scoperto che vestono perfettamente! La tabella delle taglie è assolutamente corretta.</p>"
+            "author": "Carla M., Bellinzona",
+            "title": "Finalmente un marchio che capisce le donne over 50",
+            "content": "<p>Faccio acquisti online da anni e sono quasi sempre delusa. Qui no. Il taglio è davvero studiato bene — non troppo giovane, non troppo classico. Esattamente quello che cercavo.</p>"
           }
         },
         "testimonial_qhW3rC": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/e90ddd20-87ae-4d47-9ae5-60d0ed1aa31e.avif",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Chiara L.",
-            "title": "Perfetto per il matrimonio!",
-            "content": "<p>Ho ordinato un vestito per un matrimonio ed è arrivato addirittura prima del previsto. Alla prima prova era perfetto e offriva un sostegno eccellente nella zona del busto – esattamente quello che stavo cercando!</p>"
+            "author": "Elena F., Locarno",
+            "title": "Confezionato con cura",
+            "content": "<p>Il pacco è arrivato prima del previsto ed era avvolto con tanta cura che quasi non volevo aprirlo. Il capo è bellissimo — ho ricevuto tanti complimenti la prima volta che l'ho indossato!</p>"
           }
         },
         "testimonial_Xh4Vyf": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/8cbe35b171657d9740a38a7a1505c47a_1.webp",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Rossana T., Mendrisio",
+            "title": "Servizio clienti eccellente",
+            "content": "<p>Avevo una domanda sulla taglia e ho ricevuto una risposta utile entro un giorno. Si capisce che ci sono persone vere dietro questo negozio. Il vestito tra l'altro è meraviglioso.</p>"
+          }
+        },
+        "testimonial_9zAd6A": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Patrizia V., Ascona",
+            "title": "Una qualità che si sente",
+            "content": "<p>Il tessuto è consistente e cade benissimo — non c'è paragone con quello che si trova normalmente online. L'ho già indossato tre volte questa settimana. Tutte le mie amiche vogliono sapere dove l'ho preso!</p>"
+          }
+        },
+        "testimonial_zWUyRc": {
+          "type": "testimonial",
+          "settings": {
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Marco P.",
-            "title": "Ottima qualità, ma leggermente più stretto del previsto",
-            "content": "<p>Il tessuto è di altissima qualità e il colore corrisponde esattamente all’immagine. Tuttavia, è leggermente più stretto sulle spalle di quanto mi aspettassi. Nel complesso, però, sono molto soddisfatto del mio acquisto.</p>"
+            "author": "Silvana R., Lugano",
+            "title": "Esattamente il mio stile",
+            "content": "<p>Non sono facile da vestire — mi piace qualcosa di semplice ma comunque speciale. Questa blusa è perfetta. Veste bene, è elegante ed è comoda per tutta la giornata. Molto soddisfatta.</p>"
           }
         }
       },
@@ -262,7 +280,9 @@
         "testimonial_Vh6ALa",
         "testimonial_eRmK6D",
         "testimonial_qhW3rC",
-        "testimonial_Xh4Vyf"
+        "testimonial_Xh4Vyf",
+        "testimonial_9zAd6A",
+        "testimonial_zWUyRc"
       ],
       "name": "Testimonials",
       "settings": {
