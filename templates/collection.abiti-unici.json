@@ -118,6 +118,7 @@
       "block_order": [
         "image_NBjfNx"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
