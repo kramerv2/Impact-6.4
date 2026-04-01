@@ -78,7 +78,7 @@
     "featured_collection_kEMRtM": {
       "type": "featured-collection",
       "settings": {
-        "collection": "blusen",
+        "collection": "bestseller-sets",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -87,7 +87,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Frühlings-Highlights",
+        "title": "Bestseller Sets",
         "content": "",
         "link_url": "",
         "link_text": "Alle ansehen",
