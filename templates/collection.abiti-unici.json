@@ -15,8 +15,8 @@
         "image_dTChAj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/compressed_0.jpg",
-            "mobile_image": "shopify://shop_images/compressed_0.jpg",
+            "image": "shopify://shop_images/image_compressed_297kb.jpg",
+            "mobile_image": "shopify://shop_images/image_compressed_297kb.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -48,7 +48,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
