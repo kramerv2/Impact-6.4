@@ -73,7 +73,7 @@
         "liquid_gVUyNB": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"de-CH\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Simple Modern Sale Banner</title>\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n    <link href=\"https://fonts.googleapis.com/css2?family=Inter:wght@600;700;800&display=swap\" rel=\"stylesheet\">\n    <style>\n        .sale-banner * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n        }\n        .sale-banner {\n            font-family: 'Inter', sans-serif;\n            margin: 0;\n        }\n        .sale-banner {\n            background: #ffffff;\n            color: #000;\n            padding: 20px 16px;\n            text-align: center;\n            width: 100%;\n            border: 1px solid #e5e5e5;\n        }\n        .banner-title {\n            font-size: 1.35rem;\n            font-weight: 800;\n            letter-spacing: -0.5px;\n            margin-bottom: 4px;\n            color: #2c767e;\n            word-break: break-word;\n            hyphens: auto;\n            white-space: nowrap;\n        }\n        .banner-subtitle {\n            font-size: 0.75rem;\n            font-weight: 700;\n            letter-spacing: 0.15em;\n            text-transform: uppercase;\n            color: #999;\n            margin-bottom: 8px;\n        }\n        .discount {\n            font-size: 0.95rem;\n            font-weight: 700;\n            color: #000;\n            margin-bottom: 16px;\n        }\n        .offers {\n            display: flex;\n            flex-direction: column;\n            gap: 8px;\n            max-width: 800px;\n            margin: 0 auto 14px;\n        }\n        .offer-item {\n            background: #f5f5f5;\n            padding: 10px 14px;\n            border-radius: 8px;\n            font-size: 0.85rem;\n            font-weight: 600;\n            border-left: 3px solid #2c767e;\n            color: #000;\n        }\n        .note {\n            font-size: 0.8rem;\n            color: #666;\n            font-weight: 600;\n            text-align: center;\n            width: 100%;\n        }\n        @media (min-width: 640px) {\n            .sale-banner {\n                padding: 28px 24px;\n            }\n            .banner-title {\n                font-size: 2.2rem;\n                white-space: normal;\n            }\n            .discount {\n                font-size: 1.3rem;\n            }\n            .offers {\n                flex-direction: row;\n                justify-content: center;\n                gap: 16px;\n            }\n            .offer-item {\n                font-size: 0.95rem;\n            }\n        }\n        @media (min-width: 768px) {\n            .banner-title {\n                font-size: 2.5rem;\n            }\n            .discount {\n                font-size: 1.4rem;\n            }\n        }\n    </style>\n</head>\n<body>\n    <div class=\"sale-banner\">\n        <div class=\"banner-subtitle\">— Letzte Chance —</div>\n        <div class=\"banner-title\">ABSCHIEDSVERKAUF</div>\n        <div class=\"discount\">Bis zu 70% Rabatt · Solange Vorrat reicht</div>\n        <div class=\"offers\">\n            <div class=\"offer-item\">15% extra beim Kauf von 2 Produkten</div>\n            <div class=\"offer-item\">20% extra beim Kauf von 3 Produkten</div>\n            <div class=\"offer-item\">25% extra beim Kauf von 4+ Produkten</div>\n        </div>\n        <div class=\"note\">Klickbarer Button = noch verfügbar</div>\n    </div>\n</body>\n</html>"
+            "liquid": ""
           }
         },
         "description_WVjdL8": {
@@ -223,15 +223,15 @@
         "image_7TApMH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/swiss_vibe_optimized_dimmed_30.jpg",
+            "image": "shopify://shop_images/swiss_workshop_optimized_c60b0ead-7f6d-4b7d-94f3-54caf2c4e406.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Abschiedsverkauf",
-            "content": "<p>Nach so vielen gemeinsamen Jahren gehen wir in Pension – und möchten Danke sagen.<br/>Wir haben <strong>Abschiedsbundles</strong> aus unseren beliebtesten Stücken zusammengestellt – mit mehr Ersparnis, je mehr du wählst.<br/>Wenn sie weg sind, kommen sie nicht zurück.<br/><em>In Liebe, Heidi, Ursula & Brigitte</em> 🤍</p>",
+            "title": "Von drei Schwestern entworfen",
+            "content": "<p><br/>Unsere Grossmutter hat uns gezeigt, wie man Stoffe mit Geduld und Liebe verarbeitet. Was wir von ihr gelernt haben, steckt bis heute in jedem unserer Stücke.<br/><br/></p>",
             "link_text": "",
             "link_url": "",
             "background": "#2a555a",
@@ -660,6 +660,7 @@
       "blocks": {
         "image_gAcEez": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/swiss_workshop_optimized_c60b0ead-7f6d-4b7d-94f3-54caf2c4e406.jpg",
             "mobile_image": "shopify://shop_images/swiss_workshop_optimized_c60b0ead-7f6d-4b7d-94f3-54caf2c4e406.jpg",
