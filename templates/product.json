@@ -238,49 +238,67 @@
         "testimonial_Vh6ALa": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/4.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Anna K.",
-            "title": "Idealna na wesele!",
-            "content": "<p>Zamówiłam sukienkę na wesele i dotarła nawet wcześniej, niż się spodziewałam. Pasowała idealnie już przy pierwszym przymierzeniu i zapewniała dobre podtrzymanie biustu — dokładnie tego szukałam!</p>"
+            "author": "Krystyna K.",
+            "title": "Wreszcie marka, która rozumie kobiety po 50. roku życia",
+            "content": "<p>Kupuję ubrania online od lat i często się rozczarowywałam. Tutaj nie. Kroje są naprawdę przemyślane – ani zbyt młodzieżowe, ani staromodne. Dokładnie to, czego szukałam.</p>"
           }
         },
         "testimonial_eRmK6D": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/602e9a46-02f2-4f99-a1a9-93b73f500047.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Anders V.",
-            "title": "Wątpliwości co do rozmiaru, ale pełna satysfakcja!",
-            "content": "<p>Na początku nie byłam pewna rozmiaru, więc zamówiłam dwie koszulki polo. Okazało się, że pasują idealnie! Tabela rozmiarów jest całkowicie dokładna.</p>"
+            "author": "Monika B.",
+            "title": "Leży jak szyte na miarę",
+            "content": "<p>Zamówiłam tę sukienkę bez większych oczekiwań – i byłam zachwycona. Leży idealnie, materiał jest wysokiej jakości, a kolor jeszcze piękniejszy niż na zdjęciach. Na pewno zamówię ponownie.</p>"
           }
         },
         "testimonial_qhW3rC": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/e90ddd20-87ae-4d47-9ae5-60d0ed1aa31e.avif",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Katarzyna L",
-            "title": "Fantastyczna obsługa po mojej pomyłce",
-            "content": "<p>Przez pomyłkę zamówiłam te same sandały dwa razy. Obsługa klienta odpowiedziała bardzo szybko i od razu zorganizowała zwrot pieniędzy.</p>"
+            "author": "Agnieszka M.",
+            "title": "Pięknie zapakowane",
+            "content": "<p>Paczka dotarła szybciej, niż się spodziewałam i była zapakowana z taką dbałością, że aż szkoda było ją otwierać. Sama rzecz jest świetna – już przy pierwszym założeniu dostałam wiele komplementów!</p>"
           }
         },
         "testimonial_Xh4Vyf": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/8cbe35b171657d9740a38a7a1505c47a_1.webp",
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Piękna jakość, ale nieco bardziej dopasowana niż się spodziewałam",
-            "content": "<p>Materiał jest wysokiej jakości, a kolor dokładnie odpowiada temu ze zdjęcia. Była jednak trochę bardziej obcisła w ramionach, niż przypuszczałam. Mimo to jestem bardzo zadowolona z zakupu.</p>"
+            "rating": 5,
+            "author": "Katarzyna W.",
+            "title": "Świetna obsługa klienta",
+            "content": "<p>Miałam pytanie dotyczące rozmiaru i otrzymałam pomocną odpowiedź już następnego dnia. Widać, że stoją za tym prawdziwi ludzie. A sukienka swoją drogą jest przepiękna.</p>"
+          }
+        },
+        "testimonial_F9UaXQ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Magdalena S.",
+            "title": "Jakość, którą czuć",
+            "content": "<p>Materiał jest solidny i pięknie się układa – nie ma porównania z tym, co zwykle można kupić. Noszę ją już trzeci raz w tym tygodniu. Koleżanki ciągle pytają, skąd ją mam!</p>"
+          }
+        },
+        "testimonial_jLM747": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Małgorzata T.",
+            "title": "Dokładnie mój styl",
+            "content": "<p>Nie ubieram się łatwo – lubię prostotę, ale z charakterem. Ta bluzka trafia idealnie w mój gust. Dobrze leży, wygląda elegancko i jest wygodna przez cały dzień. Jestem bardzo zadowolona.</p>"
           }
         }
       },
@@ -288,7 +306,9 @@
         "testimonial_Vh6ALa",
         "testimonial_eRmK6D",
         "testimonial_qhW3rC",
-        "testimonial_Xh4Vyf"
+        "testimonial_Xh4Vyf",
+        "testimonial_F9UaXQ",
+        "testimonial_jLM747"
       ],
       "name": "Testimonials",
       "settings": {
