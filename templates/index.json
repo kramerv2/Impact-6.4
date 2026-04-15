@@ -9,6 +9,49 @@
  */
 {
   "sections": {
+    "slideshow_8UpCLR": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Fp89at": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/optimized_1.jpg",
+            "mobile_image": "shopify://shop_images/optimized_1.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Fp89at"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "video_HGRQBG": {
       "type": "video",
       "blocks": {
@@ -36,6 +79,7 @@
         "heading_cYdGX4",
         "heading_ymgmXK"
       ],
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -161,7 +205,7 @@
         "image_NMb3Kr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/modified_background_F0F0F0.webp",
+            "image": "shopify://shop_images/optimized_3.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -284,6 +328,7 @@
         "image_fdKTtT",
         "image_WCrqCF"
       ],
+      "disabled": true,
       "name": "SS - Scrolling images",
       "settings": {
         "heading": "",
@@ -444,15 +489,59 @@
         "background": "",
         "background_gradient": ""
       }
+    },
+    "slideshow_dPEVNn": {
+      "type": "slideshow",
+      "blocks": {
+        "image_tDeCii": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/trendova_optimized.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 10,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_tDeCii"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
     }
   },
   "order": [
+    "slideshow_8UpCLR",
     "video_HGRQBG",
     "featured_collection_kEMRtM",
     "collection_list_QRck8W",
     "featured_collection_3efJjq",
     "media_with_text_4DxUBb",
     "ss_scrolling_images_hQeRkh",
-    "media_grid_L7f4DH"
+    "media_grid_L7f4DH",
+    "slideshow_dPEVNn"
   ]
 }
