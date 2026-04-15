@@ -732,6 +732,75 @@
         "background_gradient": ""
       }
     },
+    "faq_6Y9mc6": {
+      "type": "faq",
+      "blocks": {
+        "item_UJee6j": {
+          "type": "item",
+          "settings": {
+            "title": "Jaki jest czas dostawy?",
+            "content": "<p>Zamówienia produktów dostępnych w magazynie realizujemy zazwyczaj w ciągu <strong>6–9 dni roboczych</strong>.</p>"
+          }
+        },
+        "item_dVUKJB": {
+          "type": "item",
+          "settings": {
+            "title": "Jak mogę śledzić moje zamówienie?",
+            "content": "<p>Aby sprawdzić status swojej przesyłki, zajrzyj do wiadomości e-mail z potwierdzeniem wysyłki.</p><p>Dla każdej wysłanej paczki otrzymasz e-mail z linkiem do śledzenia. Wiadomość ta jest wysyłana, gdy zamówienie zostanie przetworzone i nadane.</p><p>Dzięki linkowi do śledzenia możesz monitorować swoją przesyłkę w czasie rzeczywistym.</p>"
+          }
+        },
+        "item_r4LTqp": {
+          "type": "item",
+          "settings": {
+            "title": "Jak zgłosić zwrot?",
+            "content": "<p>Jeśli Twoje zamówienie kwalifikuje się do zwrotu, wyślij wiadomość e-mail przez sekcję <strong>„Kontakt”</strong> na naszej stronie.</p><p>W wiadomości podaj:</p><ul><li>numer zamówienia,</li><li>powód zwrotu,</li><li>zdjęcie produktu (jeśli jest uszkodzony),</li><li>imię i nazwisko oraz adres.<br/></li></ul><p>Następnie skontaktujemy się z Tobą i przekażemy adres do zwrotu.</p>"
+          }
+        },
+        "item_fpHnQn": {
+          "type": "item",
+          "settings": {
+            "title": "Jak otrzymam zwrot pieniędzy?",
+            "content": "<p>Zwrot środków jest zawsze realizowany przy użyciu tej samej metody płatności, którą wykorzystano przy zakupie.</p><p>W przypadku płatności kartą kredytową kwota za zwrócone produkty zostanie automatycznie zwrócona na Twoją kartę.</p>"
+          }
+        },
+        "item_6qabKQ": {
+          "type": "item",
+          "settings": {
+            "title": "Jakie metody płatności są akceptowane?",
+            "content": "<p>Akceptujemy następujące metody płatności:</p><ul><li>karta kredytowa (Visa, Mastercard, AMEX),</li><li>Google Pay,</li><li>Apple Pay,</li><li>BLIK.</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "item_UJee6j",
+        "item_dVUKJB",
+        "item_r4LTqp",
+        "item_fpHnQn",
+        "item_6qabKQ"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Najczęściej zadawane pytania",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "text_with_icons_dwBAcW": {
       "type": "text-with-icons",
       "blocks": {
@@ -806,75 +875,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "faq_6Y9mc6": {
-      "type": "faq",
-      "blocks": {
-        "item_UJee6j": {
-          "type": "item",
-          "settings": {
-            "title": "Jaki jest czas dostawy?",
-            "content": "<p>Zamówienia produktów dostępnych w magazynie realizujemy zazwyczaj w ciągu <strong>6–9 dni roboczych</strong>.</p>"
-          }
-        },
-        "item_dVUKJB": {
-          "type": "item",
-          "settings": {
-            "title": "Jak mogę śledzić moje zamówienie?",
-            "content": "<p>Aby sprawdzić status swojej przesyłki, zajrzyj do wiadomości e-mail z potwierdzeniem wysyłki.</p><p>Dla każdej wysłanej paczki otrzymasz e-mail z linkiem do śledzenia. Wiadomość ta jest wysyłana, gdy zamówienie zostanie przetworzone i nadane.</p><p>Dzięki linkowi do śledzenia możesz monitorować swoją przesyłkę w czasie rzeczywistym.</p>"
-          }
-        },
-        "item_r4LTqp": {
-          "type": "item",
-          "settings": {
-            "title": "Jak zgłosić zwrot?",
-            "content": "<p>Jeśli Twoje zamówienie kwalifikuje się do zwrotu, wyślij wiadomość e-mail przez sekcję <strong>„Kontakt”</strong> na naszej stronie.</p><p>W wiadomości podaj:</p><ul><li>numer zamówienia,</li><li>powód zwrotu,</li><li>zdjęcie produktu (jeśli jest uszkodzony),</li><li>imię i nazwisko oraz adres.<br/></li></ul><p>Następnie skontaktujemy się z Tobą i przekażemy adres do zwrotu.</p>"
-          }
-        },
-        "item_fpHnQn": {
-          "type": "item",
-          "settings": {
-            "title": "Jak otrzymam zwrot pieniędzy?",
-            "content": "<p>Zwrot środków jest zawsze realizowany przy użyciu tej samej metody płatności, którą wykorzystano przy zakupie.</p><p>W przypadku płatności kartą kredytową kwota za zwrócone produkty zostanie automatycznie zwrócona na Twoją kartę.</p>"
-          }
-        },
-        "item_6qabKQ": {
-          "type": "item",
-          "settings": {
-            "title": "Jakie metody płatności są akceptowane?",
-            "content": "<p>Akceptujemy następujące metody płatności:</p><ul><li>karta kredytowa (Visa, Mastercard, AMEX),</li><li>Google Pay,</li><li>Apple Pay,</li><li>BLIK.</li></ul>"
-          }
-        }
-      },
-      "block_order": [
-        "item_UJee6j",
-        "item_dVUKJB",
-        "item_r4LTqp",
-        "item_fpHnQn",
-        "item_6qabKQ"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
     }
   },
   "order": [
@@ -887,7 +887,7 @@
     "37_e6aRrP",
     "ss_scrolling_images_pgDAnm",
     "slideshow_79VL8M",
-    "text_with_icons_dwBAcW",
-    "faq_6Y9mc6"
+    "faq_6Y9mc6",
+    "text_with_icons_dwBAcW"
   ]
 }
