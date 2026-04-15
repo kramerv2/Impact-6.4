@@ -308,6 +308,48 @@
         "testimonial_card_text_color": ""
       }
     },
+    "slideshow_b7tjLi": {
+      "type": "slideshow",
+      "blocks": {
+        "image_fMWGcx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/trendova_optimized_ebcc067f-db9e-4e03-8773-3c565a5e04bc.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 21,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_fMWGcx"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "37_e6aRrP": {
       "type": "37",
       "blocks": {
@@ -772,6 +814,7 @@
     "53_Rb3MJd",
     "related_products_VLHTa6",
     "testimonials_keBKgy",
+    "slideshow_b7tjLi",
     "37_e6aRrP",
     "ss_scrolling_images_pgDAnm",
     "slideshow_79VL8M",
