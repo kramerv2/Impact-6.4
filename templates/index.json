@@ -123,6 +123,7 @@
       "blocks": {
         "collection_qHjmLB": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "meskie-bestsellery",
             "subheading": "",
@@ -531,6 +532,75 @@
         "background": "#F2F2F2",
         "background_gradient": ""
       }
+    },
+    "faq_RLxg6f": {
+      "type": "faq",
+      "blocks": {
+        "item_fE3aXf": {
+          "type": "item",
+          "settings": {
+            "title": "Jaki jest czas dostawy?",
+            "content": "<p>Zamówienia produktów dostępnych w magazynie realizujemy zazwyczaj w ciągu <strong>6–9 dni roboczych</strong>.</p>"
+          }
+        },
+        "item_Xx3wWm": {
+          "type": "item",
+          "settings": {
+            "title": "Jak mogę śledzić moje zamówienie?",
+            "content": "<p>Aby sprawdzić status swojej przesyłki, zajrzyj do wiadomości e-mail z potwierdzeniem wysyłki.</p><p>Dla każdej wysłanej paczki otrzymasz e-mail z linkiem do śledzenia. Wiadomość ta jest wysyłana, gdy zamówienie zostanie przetworzone i nadane.</p><p>Dzięki linkowi do śledzenia możesz monitorować swoją przesyłkę w czasie rzeczywistym.</p>"
+          }
+        },
+        "item_Pred7a": {
+          "type": "item",
+          "settings": {
+            "title": "Jak zgłosić zwrot?",
+            "content": "<p>Jeśli Twoje zamówienie kwalifikuje się do zwrotu, wyślij wiadomość e-mail przez sekcję <strong>„Kontakt”</strong> na naszej stronie.</p><p>W wiadomości podaj:</p><ul><li>numer zamówienia,</li><li>powód zwrotu,</li><li>zdjęcie produktu (jeśli jest uszkodzony),</li><li>imię i nazwisko oraz adres.<br/></li></ul><p>Następnie skontaktujemy się z Tobą i przekażemy adres do zwrotu.</p>"
+          }
+        },
+        "item_KnnxQm": {
+          "type": "item",
+          "settings": {
+            "title": "Jak otrzymam zwrot pieniędzy?",
+            "content": "<p>Zwrot środków jest zawsze realizowany przy użyciu tej samej metody płatności, którą wykorzystano przy zakupie.</p><p>W przypadku płatności kartą kredytową kwota za zwrócone produkty zostanie automatycznie zwrócona na Twoją kartę.</p>"
+          }
+        },
+        "item_VQRi4F": {
+          "type": "item",
+          "settings": {
+            "title": "Jakie metody płatności są akceptowane?",
+            "content": "<p>Akceptujemy następujące metody płatności:</p><ul><li>karta kredytowa (Visa, Mastercard, AMEX),</li><li>Google Pay,</li><li>Apple Pay,</li><li>BLIK.</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "item_fE3aXf",
+        "item_Xx3wWm",
+        "item_Pred7a",
+        "item_KnnxQm",
+        "item_VQRi4F"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Najczęściej zadawane pytania",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -542,6 +612,7 @@
     "media_with_text_4DxUBb",
     "ss_scrolling_images_hQeRkh",
     "media_grid_L7f4DH",
-    "slideshow_dPEVNn"
+    "slideshow_dPEVNn",
+    "faq_RLxg6f"
   ]
 }
