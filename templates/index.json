@@ -48,7 +48,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -155,6 +155,7 @@
         "collection_qHjmLB",
         "collection_9G8Y47"
       ],
+      "disabled": true,
       "name": "Collection list",
       "settings": {
         "full_width": true,
@@ -529,7 +530,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
