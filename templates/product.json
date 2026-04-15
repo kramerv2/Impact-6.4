@@ -132,6 +132,41 @@
         "input_text_color": ""
       }
     },
+    "media_with_text_eTHdat": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_BRaibC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/optimized_2.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#b89461",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_BRaibC"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "53_Rb3MJd": {
       "type": "53",
       "blocks": {
@@ -733,6 +768,7 @@
   },
   "order": [
     "main",
+    "media_with_text_eTHdat",
     "53_Rb3MJd",
     "related_products_VLHTa6",
     "testimonials_keBKgy",
