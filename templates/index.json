@@ -118,12 +118,37 @@
         "product_card_text_color": ""
       }
     },
+    "featured_collection_3efJjq": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "spodnie-artystyczne",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "Fino al 70% di sconto",
+        "title": "Spodnie artystyczne",
+        "content": "",
+        "link_url": "",
+        "link_text": "Zobacz wszystko",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "collection_list_QRck8W": {
       "type": "collection-list",
       "blocks": {
         "collection_qHjmLB": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "meskie-bestsellery",
             "subheading": "",
@@ -155,7 +180,6 @@
         "collection_qHjmLB",
         "collection_9G8Y47"
       ],
-      "disabled": true,
       "name": "Collection list",
       "settings": {
         "full_width": true,
@@ -173,32 +197,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "featured_collection_3efJjq": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "spodnie-artystyczne",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "Fino al 70% di sconto",
-        "title": "Spodnie artystyczne",
-        "content": "",
-        "link_url": "",
-        "link_text": "Zobacz wszystko",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "media_with_text_4DxUBb": {
@@ -683,8 +681,8 @@
     "slideshow_8UpCLR",
     "video_HGRQBG",
     "featured_collection_kEMRtM",
-    "collection_list_QRck8W",
     "featured_collection_3efJjq",
+    "collection_list_QRck8W",
     "media_with_text_4DxUBb",
     "ss_scrolling_images_hQeRkh",
     "media_grid_L7f4DH",
