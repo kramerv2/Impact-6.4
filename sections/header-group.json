@@ -48,7 +48,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 15,
-        "background": "#2a555a",
+        "background": "#810f0f",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -58,7 +58,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Screenshot_2025-12-17_151502.png",
         "logo_max_width": 160,
         "logo_mobile_max_width": 135,
         "menu": "main-menu",
@@ -73,7 +72,6 @@
         "show_country_flag": false,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/Screenshot_2025-12-03_201547.png",
         "reduce_padding": true,
         "background_opacity": 40,
         "background_blur_radius": 10
