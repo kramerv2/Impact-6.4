@@ -1,1 +1,123 @@
-{"sections":{"main":{"type":"main-not-found","settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-not-found",
+      "settings": {}
+    },
+    "featured_product_BPyzkV": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_g3PfPz": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_ELczaU": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_UJLJ4K": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_EYpzPU": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_HytezJ": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_Try7Q7": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_VwxCYE": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_q6WaxF": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_apA7Vy": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_dPnE9B": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_hxm7wb": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_g3PfPz",
+        "title_ELczaU",
+        "badges_UJLJ4K",
+        "price_EYpzPU",
+        "rating_HytezJ",
+        "separator_Try7Q7",
+        "description_VwxCYE",
+        "variant_picker_q6WaxF",
+        "quantity_selector_apA7Vy",
+        "buy_buttons_dPnE9B",
+        "pickup_availability_hxm7wb"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "featured_product_BPyzkV"
+  ]
+}
