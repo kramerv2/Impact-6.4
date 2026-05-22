@@ -103,11 +103,47 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "media_with_text_ba6qrb": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_YpMHh8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/e5d769c8-0f08-479d-aa19-12cbf3ece5c2_optimized.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Velkommen til Elva & Nomi",
+            "content": "<p>Vi tager et nyt stort skridt: Elva & Nomi bliver international.<br/>Og for at fejre denne smukke vækst med jer, lancerer vi vores Growth Party. 🤍</p><p>Op til 70 % rabat på hele butikken.<br/>Nøje udvalgte styles i begrænsede mængder: skynd dig, før det er for sent.</p><p>Det samme univers, som I elsker — nu på tværs af grænser ✦</p><p>Med kærlig hilsen,</p><p>Elva & Nomi</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#2a555a",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_YpMHh8"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
     "slideshow_VByPAH",
     "featured_collection_KnD9TV",
-    "featured_collection_BJrPGe"
+    "featured_collection_BJrPGe",
+    "media_with_text_ba6qrb"
   ]
 }
