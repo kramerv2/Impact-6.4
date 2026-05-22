@@ -196,7 +196,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h4>Kombinér & spar – 10%</h4>",
+        "content": "<h4>Kombinér & spar – 15%</h4>",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -212,7 +212,6 @@
         "testimonial_Vh6ALa": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/4.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -224,7 +223,6 @@
         "testimonial_eRmK6D": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/602e9a46-02f2-4f99-a1a9-93b73f500047.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -236,7 +234,6 @@
         "testimonial_qhW3rC": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/e90ddd20-87ae-4d47-9ae5-60d0ed1aa31e.avif",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -248,7 +245,6 @@
         "testimonial_Xh4Vyf": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/8cbe35b171657d9740a38a7a1505c47a_1.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -288,7 +284,6 @@
         "slide_7wqt8h": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/e90ddd20-87ae-4d47-9ae5-60d0ed1aa31e.avif",
             "stars_count": 5,
             "heading": "<p>Anna K.</p>",
             "text": "<p>Na początku miałam wątpliwości co do rozmiaru, więc zamówiłam tylko jedną parę butów. Okazały się idealne! Po pierwszej dostawie od razu zamówiłam kolejne. Wysyłka szybka, wszystko bez problemu.</p>"
@@ -305,7 +300,6 @@
         "slide_zRAHDY": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/4.webp",
             "stars_count": 5,
             "heading": "<p>Katarzyna L</p>",
             "text": "<p>Kontakt ze sklepem bardzo dobry, a zamówienie dotarło szybko i było dobrze zapakowane. Produkty wyglądają dokładnie jak na zdjęciach. Jestem naprawdę zadowolona.</p>"
@@ -314,7 +308,6 @@
         "slide_dt4N4p": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/602e9a46-02f2-4f99-a1a9-93b73f500047.webp",
             "stars_count": 5,
             "heading": "<p>Tomasz W.</p>",
             "text": "<p>Proces zamówienia był prosty, a paczka przyszła szybciej, niż się spodziewałem. Jakość bardzo na plus. To nie będzie mój ostatni zakup.</p>"
@@ -323,7 +316,6 @@
         "slide_jPJg9q": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/8cbe35b171657d9740a38a7a1505c47a_1.webp",
             "stars_count": 5,
             "heading": "<p>Paweł M.</p>",
             "text": "<p>Zamówienie dotarło szybko i wszystko było dobrze zapakowane. Rozmiar pasuje, choć chwilę się wahałem przy wyborze. Ogólnie bardzo dobre doświadczenie.</p>"
@@ -432,70 +424,60 @@
         "image_9WkhAM": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/a286a0e65c368543f0e6e7958297dc9f_1_d0a01aa1-f1f4-4975-bd75-1edd17c8bc52.webp",
             "url": ""
           }
         },
         "image_AV9qtA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/back_ground_2_1_37da7e7a-f56c-42f7-96b1-7b60eb44c241.webp",
             "url": ""
           }
         },
         "image_bxjWRH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/back_ground_3_1_0b24b933-4392-4f89-9ce9-fdc4e9a07401.webp",
             "url": ""
           }
         },
         "image_dqzJge": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/VALDRIN_shopify_optimized.jpg",
             "url": ""
           }
         },
         "image_dptATn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/476003105_17845948758407902_8357618397879265247_n.jpg",
             "url": ""
           }
         },
         "image_FDRFfF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/50baa3387ac93a5f2fe1a052e6caad15_1_7b05cb9e-f388-4db2-85d9-eac687e5c246.webp",
             "url": ""
           }
         },
         "image_nMnT4B": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Aesthetic-Girl-Poses-Instagram-Hidden-Face-Mirror-Selfie.webp",
             "url": ""
           }
         },
         "image_A8qkiA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/pexels-sara-kazemi-2148049458-30676586.webp",
             "url": ""
           }
         },
         "image_zDt9Hx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/pexels-njeromin-21656902_17855670-c94c-41f6-9997-c8db2cad43cb.webp",
             "url": ""
           }
         },
         "image_7VFLVG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/mirror_selfie_dp_for_fb_girl.webp",
             "url": ""
           }
         }
@@ -512,6 +494,7 @@
         "image_zDt9Hx",
         "image_7VFLVG"
       ],
+      "disabled": true,
       "name": "SS - Scrolling images",
       "settings": {
         "heading": "<h4><strong>VALDRIN FÆLLESSKAB</strong></h4>",
@@ -571,7 +554,6 @@
         "image_gAcEez": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/3ac473028c2ac7fdca72bd311ea99dad_1_8164963d-cb5f-477c-9b37-ead95c89286b.jpg",
             "content_max_width": 800,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -592,7 +574,6 @@
         "image_fQNCGW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/6b5807fd903e61629355833e616513ca_1.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -613,7 +594,6 @@
         "image_PkJDR6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/3b9e16fe059170bf750a89d2d372383c_1.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
