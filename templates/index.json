@@ -138,12 +138,144 @@
         "full_width": false,
         "spacing": "small"
       }
+    },
+    "26_J4EqTP": {
+      "type": "26",
+      "blocks": {
+        "heading_ecmNnD": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Har du spørgsmål?</p>",
+            "heading_custom": false,
+            "heading_font": "josefin_sans_n4",
+            "heading_size": 48,
+            "heading_size_mobile": 30,
+            "heading_height": 130,
+            "heading_mt": 0,
+            "heading_mt_mobile": 0,
+            "heading_align": "left",
+            "heading_align_mobile": "center",
+            "heading_color": "#005C53"
+          }
+        },
+        "text_wqJBJY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Se først vores ofte stillede spørgsmål!</p>",
+            "text_custom": false,
+            "text_font": "josefin_sans_n4",
+            "text_size": 18,
+            "text_size_mobile": 16,
+            "text_height": 130,
+            "text_mt": 20,
+            "text_mt_mobile": 20,
+            "text_align": "left",
+            "text_align_mobile": "center",
+            "text_color": "#757575"
+          }
+        },
+        "item_V9bFMi": {
+          "type": "item",
+          "settings": {
+            "question": "Hvor lang tid tager leveringen af min bestilling?",
+            "answer": "<p>Valdrin forpligter sig til at afsende alle ordrer inden for 24–48 timer efter købsbekræftelse. Efter afsendelse leveres ordren som regel inden for <strong>6–9 hverdage</strong> (afhængigt af leveringsdestination).</p>"
+          }
+        },
+        "item_6ykAzt": {
+          "type": "item",
+          "settings": {
+            "question": "Hvordan kan jeg spore min bestilling?",
+            "answer": "<p>Når din ordre er afsendt, modtager du en e-mail med et sporingsnummer. Med dette nummer kan du til enhver tid følge status på din ordre via vores hjemmeside under <strong>“SPOR DIN ORDRE”</strong>.</p>"
+          }
+        },
+        "item_hXBw7V": {
+          "type": "item",
+          "settings": {
+            "question": "Kan jeg annullere eller ændre min bestilling?",
+            "answer": "<p>Annullering eller ændring er mulig samme dag indtil kl. <strong>23:59</strong>. Kontakt venligst vores kundeservice via e-mail på <a><strong>contact@elvaognomi.dk</strong></a>. Efter denne frist kan vi desværre ikke garantere annullering eller ændring af din bestilling.</p>"
+          }
+        },
+        "item_AAVnjj": {
+          "type": "item",
+          "settings": {
+            "question": "Hvilke returvilkår gælder hos os?",
+            "answer": "<p>Uønskede varer kan returneres inden for <strong>30 dage</strong> efter modtagelse for fuld refusion eller ombytning. Varerne skal være ubrugte og i original emballage. Returomkostningerne afholdes af kunden. For yderligere information anbefaler vi, at du læser vores returpolitik.</p>"
+          }
+        },
+        "item_64barw": {
+          "type": "item",
+          "settings": {
+            "question": "Hvad skal jeg gøre, hvis min bestilling ankommer beskadiget eller defekt?",
+            "answer": "<p>Hvis din bestilling ankommer beskadiget eller med fejl, bedes du kontakte os hurtigst muligt. Vi sørger for en <strong>gratis erstatningslevering</strong> og håndterer resten for dig.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ecmNnD",
+        "text_wqJBJY",
+        "item_V9bFMi",
+        "item_6ykAzt",
+        "item_hXBw7V",
+        "item_AAVnjj",
+        "item_64barw"
+      ],
+      "name": "SS - FAQ #9",
+      "settings": {
+        "body_gap": 30,
+        "body_gap_mobile": 20,
+        "body_radius": 40,
+        "faq_position": "bottom",
+        "faq_position_mobile": "bottom",
+        "item_padding_vertical": 20,
+        "item_padding_vertical_mobile": 20,
+        "item_padding_horizontal": 20,
+        "item_padding_horizontal_mobile": 20,
+        "item_mt": 10,
+        "item_radius": 10,
+        "item_border_thickness": 0,
+        "item_shadow": true,
+        "question_custom": false,
+        "question_font": "josefin_sans_n4",
+        "question_size": 18,
+        "question_size_mobile": 14,
+        "question_height": 130,
+        "arrow_size": 24,
+        "arrow_size_mobile": 24,
+        "arrow_border_thickness": 0,
+        "answer_custom": false,
+        "answer_font": "josefin_sans_n4",
+        "answer_size": 16,
+        "answer_size_mobile": 12,
+        "answer_height": 170,
+        "answer_padding_top": 16,
+        "item_bg_color": "#FFFFFF",
+        "item_border_color": "#000000",
+        "question_color": "#005C53",
+        "arrow_color": "#757575",
+        "arrow_border_color": "#6c584c",
+        "answer_color": "#757575",
+        "background_color": "#F0F3F4",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 16,
+        "margin_bottom": 16,
+        "margin_horizontal": 4,
+        "margin_horizontal_mobile": 1.5,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_horizontal": 6,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0
+      }
     }
   },
   "order": [
     "slideshow_VByPAH",
     "featured_collection_KnD9TV",
     "featured_collection_BJrPGe",
-    "media_with_text_ba6qrb"
+    "media_with_text_ba6qrb",
+    "26_J4EqTP"
   ]
 }
