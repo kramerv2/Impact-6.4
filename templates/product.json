@@ -303,6 +303,18 @@
             "title": "Hurtig levering",
             "content": "<p>Jeg har allerede bestilt tre gange, og jeg er stadig lige begejstret. Kjolerne er smukke, og kundeservicen er fremragende med personlig hjælp til at vælge den rigtige størrelse.</p>"
           }
+        },
+        "testimonial_BWDJAm": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/review_3_180x_26e79044-ff3a-4b26-96c1-5e1ef9cddf95.avif",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Flatterende pasform, topkvalitet.",
+            "title": "Ida M. - Esbjerg – For 5 dage siden",
+            "content": "<p>Jeg er virkelig tilfreds. Kvaliteten er i top, og det kan mærkes med det samme, når man har den på. Pasformen er flatterende uden at være for stram, og stoffet er behageligt hele dagen. Det er sådan et stykke tøj, man nemt tager på igen og igen.</p>"
+          }
         }
       },
       "block_order": [
@@ -310,7 +322,8 @@
         "testimonial_eRmK6D",
         "testimonial_qhW3rC",
         "testimonial_Xh4Vyf",
-        "testimonial_WxMcXk"
+        "testimonial_WxMcXk",
+        "testimonial_BWDJAm"
       ],
       "name": "Testimonials",
       "settings": {
