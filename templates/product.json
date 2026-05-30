@@ -247,34 +247,37 @@
         "testimonial_Vh6ALa": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/review_4_180x_b5e39700-1b24-4f9c-a0e8-ed0687429a38.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Anna K.",
-            "title": "Fantastisk service efter min fejl",
-            "content": "<p>Jeg kom til ved en fejl at bestille de samme sandaler to gange. Kundeservice reagerede hurtigt og sørgede straks for en tilbagebetaling.</p>"
+            "author": "Mette V. - København – For 2 uger siden",
+            "title": "Det var virkelig det værd!",
+            "content": "<p>Jeg tøvede lidt med at bruge 1.100 kr. på en kjole fra en butik, hvor jeg aldrig havde bestilt før, men jeg er så glad for, at jeg gjorde det. Kvaliteten er enestående, og pasformen er helt perfekt.</p>"
           }
         },
         "testimonial_eRmK6D": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/review_6_180x_c92e624c-46af-43ba-9d21-eef8153ffd87.avif",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Anders V.",
-            "title": "Usikker på størrelsen, men meget tilfreds!",
-            "content": "<p>I starten var jeg usikker på størrelsen og bestilte derfor to poloshirts. Det viste sig, at de passede perfekt! Størrelsesguiden stemmer fuldstændigt.</p>"
+            "author": "Sofie K. - Aarhus - For 3 dage siden",
+            "title": "Perfekt størrelse!",
+            "content": "<p>Disse flotte trøjer passer præcis som lovet, og stoffet er behageligt — det kradser slet ikke! Deres sans for kvalitet er virkelig imponerende.</p>"
           }
         },
         "testimonial_qhW3rC": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/review_8_180x_6064ec30-9aaf-49e5-b7c4-c65d78567466.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Freja H.",
-            "title": "Perfekt til brylluppet!",
-            "content": "<p>Jeg bestilte en kjole til et bryllup, og den ankom endda tidligere end forventet. Ved første prøvning sad den perfekt og gav fremragende støtte ved brystet – præcis det, jeg ledte efter!</p>"
+            "author": "Lene D. - Odense – For 2 måneder siden",
+            "title": "Upåklagelig finish!",
+            "content": "<p>Et robust, luksuriøst stof af høj kvalitet med en perfekt pasform. Trøjen falder smukt, og finishen er gennemført ned til mindste detalje.</p>"
           }
         },
         "testimonial_Xh4Vyf": {
@@ -300,7 +303,7 @@
         "full_width": true,
         "stack_testimonials": false,
         "subheading": "",
-        "title": "Kundenbewertungen",
+        "title": "VORES KUNDER ELSKER ELVA & NOMI!",
         "content": "",
         "link_url": "",
         "link_text": "",
