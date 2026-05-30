@@ -52,33 +52,40 @@
         "background_gradient": ""
       }
     },
-    "rich_text_Krxw3t": {
+    "rich_text_WiRYER": {
       "type": "rich-text",
       "blocks": {
-        "heading_NzJfUC": {
+        "subheading_YJf9bq": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_cMAJ6X": {
           "type": "heading",
           "settings": {
-            "text": "Oplev ELVA & NOMI",
+            "text": "Heading",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
           }
         },
-        "richtext_g7iKhW": {
+        "richtext_KeHchw": {
           "type": "richtext",
           "settings": {
-            "content": "<p>For at fejre vores internationale lancering tilbyder vi op til 70 % rabat på alt!</p><p>Hvert stykke er udvalgt med den samme omhu som altid.</p><p>Ingen stress. Ingen skjulte gebyrer. Vores vækstfestival er i gang — shop det, der taler til dig, før det er væk.</p><p>Og husk: for hver femte ordre får du fuld refusion. Direkte tilbage på din konto. Det lover vi.</p><p>Med kærlighed,</p><p>Elva & Nomi</p>"
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "heading_NzJfUC",
-        "richtext_g7iKhW"
+        "subheading_YJf9bq",
+        "heading_cMAJ6X",
+        "richtext_KeHchw"
       ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_width": "medium",
+        "content_width": "small",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
@@ -381,7 +388,7 @@
   },
   "order": [
     "slideshow_VByPAH",
-    "rich_text_Krxw3t",
+    "rich_text_WiRYER",
     "featured_collection_KnD9TV",
     "featured_collection_BJrPGe",
     "media_with_text_ba6qrb",
