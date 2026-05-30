@@ -715,9 +715,9 @@
         "heading_KCXDaQ": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Har du spørgsmål?</p>",
+            "heading": "<h4>Har du spørgsmål?</h4>",
             "heading_custom": false,
-            "heading_font": "josefin_sans_n4",
+            "heading_font": "inter_n4",
             "heading_size": 48,
             "heading_size_mobile": 30,
             "heading_height": 130,
