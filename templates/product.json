@@ -295,12 +295,13 @@
         "testimonial_WxMcXk": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/review_2_180x_3611e2ac-cfe4-4dea-9ef9-bc669f71c31f.avif",
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Freja P. - Aalborg – For 3 dage siden",
+            "title": "Hurtig levering",
+            "content": "<p>Jeg har allerede bestilt tre gange, og jeg er stadig lige begejstret. Kjolerne er smukke, og kundeservicen er fremragende med personlig hjælp til at vælge den rigtige størrelse.</p>"
           }
         }
       },
