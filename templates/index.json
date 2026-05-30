@@ -269,6 +269,81 @@
         "content_width": 120,
         "border_thickness": 0
       }
+    },
+    "text_with_icons_4Yjywb": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_i6yXzU": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "30 dages returret",
+            "content": ""
+          }
+        },
+        "item_bgGR4F": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-truck",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Gratis ekspreslevering",
+            "content": ""
+          }
+        },
+        "item_JrYtVy": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-credit-card",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Sikre betalinger",
+            "content": "<p>=</p>"
+          }
+        },
+        "item_67LMrT": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-chat",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Kundeservice 24/7",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_i6yXzU",
+        "item_bgGR4F",
+        "item_JrYtVy",
+        "item_67LMrT"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -276,6 +351,7 @@
     "featured_collection_KnD9TV",
     "featured_collection_BJrPGe",
     "media_with_text_ba6qrb",
-    "26_J4EqTP"
+    "26_J4EqTP",
+    "text_with_icons_4Yjywb"
   ]
 }
