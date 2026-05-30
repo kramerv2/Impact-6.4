@@ -341,9 +341,9 @@
       "settings": {
         "full_width": true,
         "stack_testimonials": false,
-        "subheading": "VORES KUNDER ELSKER ELVA & NOMI!",
+        "subheading": "",
         "title": "",
-        "content": "",
+        "content": "<h3>VORES KUNDER ELSKER ELVA & NOMI!</h3>",
         "link_url": "",
         "link_text": "",
         "background": "",
