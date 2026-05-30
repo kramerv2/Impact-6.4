@@ -283,12 +283,24 @@
         "testimonial_Xh4Vyf": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/review_5_180x_d9522fbe-fb52-4e40-9ca4-cc4fd68a0ed3.avif",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Frederik P.",
-            "title": "Flot kvalitet, men lidt smallere end forventet",
+            "author": "Anne J. - Frederiksberg – For 2 dage siden",
+            "title": "Enestående kvalitet og smukt håndværk",
             "content": "<p>Stoffet er af høj kvalitet, og farven svarer præcis til billedet. Den sad blot lidt strammere over skuldrene, end jeg havde forventet. Samlet set er jeg dog meget tilfreds med mit køb.</p>"
+          }
+        },
+        "testimonial_WxMcXk": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
         }
       },
@@ -296,7 +308,8 @@
         "testimonial_Vh6ALa",
         "testimonial_eRmK6D",
         "testimonial_qhW3rC",
-        "testimonial_Xh4Vyf"
+        "testimonial_Xh4Vyf",
+        "testimonial_WxMcXk"
       ],
       "name": "Testimonials",
       "settings": {
