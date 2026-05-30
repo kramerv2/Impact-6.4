@@ -315,6 +315,18 @@
             "title": "Ida M. - Esbjerg – For 5 dage siden",
             "content": "<p>Jeg er virkelig tilfreds. Kvaliteten er i top, og det kan mærkes med det samme, når man har den på. Pasformen er flatterende uden at være for stram, og stoffet er behageligt hele dagen. Det er sådan et stykke tøj, man nemt tager på igen og igen.</p>"
           }
+        },
+        "testimonial_8BjiD9": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/review_1_180x_5ab612a7-0bff-4576-967b-a239c6cbe6fd.avif",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Emma T. - Roskilde – For 8 måneder siden",
+            "title": "Som beskrevet, upåklagelig kvalitet.",
+            "content": "<p>Bestillingen kom fint frem, og alt var meget godt pakket og omhyggeligt behandlet. Tøjet svarer til billederne, og kvaliteten lever virkelig op til forventningerne. Jeg er meget tilfreds med mit køb og vil uden tvivl anbefale det.</p>"
+          }
         }
       },
       "block_order": [
@@ -323,7 +335,8 @@
         "testimonial_qhW3rC",
         "testimonial_Xh4Vyf",
         "testimonial_WxMcXk",
-        "testimonial_BWDJAm"
+        "testimonial_BWDJAm",
+        "testimonial_8BjiD9"
       ],
       "name": "Testimonials",
       "settings": {
