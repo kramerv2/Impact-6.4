@@ -66,7 +66,14 @@
     "favicon": "shopify://shop_images/Screenshot_2026-05-30_202119-modified.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "5890205134905443601": {
+        "type": "shopify://apps/seowill-trust-badges/blocks/trust_core/f42f2346-5d14-4b41-a8b9-4b6ee352262e",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Sound": {
