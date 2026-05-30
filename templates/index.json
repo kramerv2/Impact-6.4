@@ -52,6 +52,39 @@
         "background_gradient": ""
       }
     },
+    "rich_text_Krxw3t": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NzJfUC": {
+          "type": "heading",
+          "settings": {
+            "text": "Oplev ELVA & NOMI",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_g7iKhW": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>For at fejre vores internationale lancering tilbyder vi op til 70 % rabat på alt!</p><p>Hvert stykke er udvalgt med den samme omhu som altid.</p><p>Ingen stress. Ingen skjulte gebyrer. Vores vækstfestival er i gang — shop det, der taler til dig, før det er væk.</p><p>Og husk: for hver femte ordre får du fuld refusion. Direkte tilbage på din konto. Det lover vi.</p><p>Med kærlighed,</p><p>Elva & Nomi</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NzJfUC",
+        "richtext_g7iKhW"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_collection_KnD9TV": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -155,7 +188,7 @@
             "heading_mt_mobile": 0,
             "heading_align": "left",
             "heading_align_mobile": "center",
-            "heading_color": "#005C53"
+            "heading_color": "#005c53"
           }
         },
         "text_wqJBJY": {
@@ -248,13 +281,13 @@
         "answer_size_mobile": 12,
         "answer_height": 170,
         "answer_padding_top": 16,
-        "item_bg_color": "#FFFFFF",
+        "item_bg_color": "#ffffff",
         "item_border_color": "#000000",
         "question_color": "#2a555a",
         "arrow_color": "#757575",
         "arrow_border_color": "#6c584c",
         "answer_color": "#757575",
-        "background_color": "#F0F3F4",
+        "background_color": "#f0f3f4",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 16,
@@ -348,6 +381,7 @@
   },
   "order": [
     "slideshow_VByPAH",
+    "rich_text_Krxw3t",
     "featured_collection_KnD9TV",
     "featured_collection_BJrPGe",
     "media_with_text_ba6qrb",
