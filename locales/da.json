@@ -433,9 +433,6 @@
       "order_summary": {
         "enter_shipping_address": "Gratis"
       },
-      "shipping_errors": {
-        "empty_state": "Ordrer afgivet før kl. 22.00 afsendes næste hverdag"
-      },
       "alternative_payment_method_banner": {
         "or": "ⓘ Kun få tilbage! Gennemfør din ordre nu."
       }
