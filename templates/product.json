@@ -726,7 +726,7 @@
             "heading_mt_mobile": 0,
             "heading_align": "left",
             "heading_align_mobile": "center",
-            "heading_color": "#005c53"
+            "heading_color": "#000000"
           }
         },
         "text_dtydkV": {
@@ -821,7 +821,7 @@
         "answer_padding_top": 16,
         "item_bg_color": "#ffffff",
         "item_border_color": "#000000",
-        "question_color": "#005c53",
+        "question_color": "#000000",
         "arrow_color": "#757575",
         "arrow_border_color": "#6c584c",
         "answer_color": "#757575",
