@@ -88,11 +88,76 @@
         "show_filter_values_count": false,
         "open_first_filter_group": false
       }
+    },
+    "text_with_icons_TXKDCP": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_FNFkwk": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/cashback_1_small_7be20833-4fe2-4ab0-b753-d28e62da6767.webp",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "30 dages pengene-tilbage-garanti",
+            "content": "<p>Fortrudt dit køb? Bare rolig. Returnér ubrugte varer inden for 30 dage og få pengene tilbage – nemt og uden besvær.</p>"
+          }
+        },
+        "item_bnVG83": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/protected.webp",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Gratis levering i hele Danmark",
+            "content": "<p>Gratis fragt i hele Danmark. Verdensomspændende levering efter aftale.</p>"
+          }
+        },
+        "item_rdhEtw": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/chat.webp",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Hurtig og venlig support",
+            "content": "<p>Har du brug for hjælp med størrelse eller bestillinger? Vores team står klar til at hjælpe – hurtigt og med omtanke.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_FNFkwk",
+        "item_bnVG83",
+        "item_rdhEtw"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "#fef0f4",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "slideshow_KVeyP9",
     "banner",
-    "main"
+    "main",
+    "text_with_icons_TXKDCP"
   ]
 }
