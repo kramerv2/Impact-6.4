@@ -485,7 +485,7 @@
         "heading_CNyHeT": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>Häufig gestellte Fragen</h1>",
+            "heading": "<p>Häufig gestellte Fragen</p>",
             "heading_custom": false,
             "heading_font": "josefin_sans_n4",
             "heading_size": 38,
