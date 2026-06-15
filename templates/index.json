@@ -178,6 +178,7 @@
         "collection_qHjmLB",
         "collection_9G8Y47"
       ],
+      "disabled": true,
       "name": "Collection list",
       "settings": {
         "full_width": true,
@@ -210,8 +211,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Über Vistero",
-            "content": "<p>Bei Vistero glauben wir, dass Mode mehr ist als Kleidung – sie ist Ausdruck von Persönlichkeit, Selbstbewusstsein und Stil. Unsere Kollektionen verbinden zeitlose Eleganz mit modernem Design und höchster Qualität.</p><p>Ob für den Alltag, besondere Anlässe oder alles dazwischen – Vistero steht für Mode, die dich inspiriert und dein Auftreten veredelt.</p>",
+            "title": "",
+            "content": "<h3>Willkommen bei ELINORA</h3><p>Wir machen einen grossen nächsten Schritt: <strong>ELINORA wächst weiter.</strong></p><p>Und um dieses schöne Wachstum gemeinsam mit euch zu feiern, starten wir unsere <strong>Growth Party</strong>. 🤍</p><p><strong>Bis zu 70 % Rabatt im gesamten Onlineshop.</strong></p><p>Sorgfältig ausgewählte Styles in begrenzten Mengen – seid schnell, bevor sie vergriffen sind.</p><p>Die gleiche Welt, die ihr liebt – jetzt noch grösser ✦</p><p>Mit Liebe,<br/><br/><strong>Eli & Nora</strong></p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
