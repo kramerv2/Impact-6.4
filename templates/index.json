@@ -9,44 +9,86 @@
  */
 {
   "sections": {
-    "video_HGRQBG": {
-      "type": "video",
+    "slideshow_VLYwkh": {
+      "type": "slideshow",
       "blocks": {
-        "play_emmDHe": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_cYdGX4": {
-          "type": "heading",
+        "image_r8AiMA": {
+          "type": "image",
           "settings": {
-            "text": "Grosser Sale",
-            "heading_tag": "h4"
-          }
-        },
-        "heading_ymgmXK": {
-          "type": "heading",
-          "settings": {
-            "text": "Bis zu 70% Rabatt",
-            "heading_tag": "h2"
+            "image": "shopify://shop_images/Copy_of_BANNER.webp",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "GROWTH PARTY",
+            "title": "Bis zu 70 % Rabatt auf alle Kollektionen",
+            "heading_tag": "h4",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
           }
         }
       },
       "block_order": [
-        "play_emmDHe",
-        "heading_cYdGX4",
-        "heading_ymgmXK"
+        "image_r8AiMA"
       ],
-      "name": "Video",
+      "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
-        "autoplay": true,
-        "video_size": "sm",
-        "video": "shopify://files/videos/9d23dbb92c95417fb5e33e933e637b77.HD-1080p-2.5Mbps-46228302.mp4",
-        "external_video_url": "",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 36
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "rich_text_iBA7Lb": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_ndqbTC": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_mbHjnc": {
+          "type": "heading",
+          "settings": {
+            "text": "ELINORA feiert",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_m7LiPk": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Um unser Wachstum zu feiern, bieten wir bis zu <strong>70 % Rabatt</strong> auf alles!</p><p>Jedes einzelne Stück wurde mit der gleichen Sorgfalt ausgewählt wie immer.</p><p>Kein Stress. Keine versteckten Gebühren. Unser Wachstumsfestival ist in vollem Gange – entdecke, was dich anspricht, bevor es ausverkauft ist.</p><p>Und vergiss nicht: Jede fünfte Bestellung wird vollständig zurückerstattet. Der Betrag wird direkt auf dein Konto zurücküberwiesen. Das versprechen wir.</p><p>Mit Liebe,<br/><br/><strong>Eli & Nora</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ndqbTC",
+        "heading_mbHjnc",
+        "richtext_m7LiPk"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "featured_collection_3efJjq": {
@@ -196,7 +238,6 @@
         "image_FmEJXx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Vistero_2.webp",
             "url": ""
           }
         },
@@ -210,7 +251,6 @@
         "image_pHcYAQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Vistero_1.webp",
             "url": ""
           }
         },
@@ -335,7 +375,6 @@
         "image_WeHaVn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Vistero_3.webp",
             "title": "Grosser Frühlings-Sale",
             "heading_tag": "h4",
             "link_url": "shopify://collections",
@@ -439,7 +478,8 @@
     }
   },
   "order": [
-    "video_HGRQBG",
+    "slideshow_VLYwkh",
+    "rich_text_iBA7Lb",
     "featured_collection_3efJjq",
     "featured_collection_kEMRtM",
     "collection_list_QRck8W",
