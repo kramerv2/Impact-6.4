@@ -747,9 +747,9 @@
         "heading_kgPttR": {
           "type": "heading",
           "settings": {
-            "heading": "<h2>Have Questions?<br>We Have Answers.</h2>",
-            "heading_custom": false,
-            "heading_font": "josefin_sans_n4",
+            "heading": "<p>Häufig gestellte Fragen</p>",
+            "heading_custom": true,
+            "heading_font": "inter_n5",
             "heading_size": 48,
             "heading_size_mobile": 30,
             "heading_height": 130,
