@@ -495,77 +495,52 @@
             "heading_mt_mobile": 0,
             "heading_align": "left",
             "heading_align_mobile": "center",
-            "heading_color": "#005C53"
-          }
-        },
-        "text_fXziKi": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Get quick solutions to your common lawn care concerns, from mowing to pest control. </p>",
-            "text_custom": false,
-            "text_font": "josefin_sans_n4",
-            "text_size": 18,
-            "text_size_mobile": 16,
-            "text_height": 130,
-            "text_mt": 20,
-            "text_mt_mobile": 20,
-            "text_align": "left",
-            "text_align_mobile": "center",
-            "text_color": "#757575"
+            "heading_color": "#1A1A1A"
           }
         },
         "item_UPPXxM": {
           "type": "item",
           "settings": {
-            "question": "Lorem ipsum dolor sit amet?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+            "question": "Wie lange ist die Lieferzeit?",
+            "answer": "<p>Wir liefern lagernde Waren normalerweise innerhalb von<strong> 6–9</strong> Tagen.</p>"
           }
         },
         "item_8dNpKA": {
           "type": "item",
           "settings": {
-            "question": "Lorem ipsum dolor sit amet?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+            "question": "Wie kann ich meine Bestellung verfolgen?",
+            "answer": "<p>Um den Lieferstatus Ihrer Bestellung zu prüfen, sehen Sie bitte in der Versandbestätigung nach, die Sie per E-Mail erhalten haben. </p><p>Für jedes versandte Paket erhalten Sie eine Bestätigungs-E-Mail mit einem Tracking-Link. Diese E-Mail wird versendet, sobald Ihre Bestellung bearbeitet und verschickt wurde. </p><p>Mit dem Tracking-Link können Sie Ihr Paket in Echtzeit verfolgen.</p>"
           }
         },
         "item_VWRcJj": {
           "type": "item",
           "settings": {
-            "question": "Lorem ipsum dolor sit amet?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+            "question": "Wie beantrage ich eine Rücksendung?",
+            "answer": "<p>Wenn Ihre Bestellung für eine Rücksendung berechtigt ist, senden Sie bitte eine E-Mail über den Bereich <strong>„Contact“</strong> auf unserer Website. Geben Sie in dieser E-Mail Ihre Bestellnummer, den Grund für die Rücksendung, ein Foto des Produkts, falls es beschädigt ist, sowie den Vor- und Nachnamen und die Adresse des Kunden an. Anschließend kontaktieren wir Sie und teilen Ihnen die Rücksendeadresse mit.</p>"
           }
         },
         "item_WRAeiK": {
           "type": "item",
           "settings": {
-            "question": "Lorem ipsum dolor sit amet?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+            "question": "Wie erhalte ich meine Rückerstattung?",
+            "answer": "<p>Die Rückerstattung erfolgt immer über die Zahlungsmethode, die Sie verwendet haben. Wenn Sie mit Kreditkarte bezahlt haben, wird der Betrag für die zurückgesendeten Artikel direkt Ihrer Kreditkarte gutgeschrieben.</p>"
           }
         },
         "item_ceTg3a": {
           "type": "item",
           "settings": {
-            "question": "Lorem ipsum dolor sit amet?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
-          }
-        },
-        "item_qYnzra": {
-          "type": "item",
-          "settings": {
-            "question": "Lorem ipsum dolor sit amet?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.</p>"
+            "question": "Welche Zahlungsmethoden werden akzeptiert?",
+            "answer": "<p>Sie können zwischen folgenden Zahlungsmethoden wählen: <strong>Kreditkarte (Visa, Mastercard, AMEX), Google Pay, Apple Pay und TWINT</strong>.</p>"
           }
         }
       },
       "block_order": [
         "heading_CNyHeT",
-        "text_fXziKi",
         "item_UPPXxM",
         "item_8dNpKA",
         "item_VWRcJj",
         "item_WRAeiK",
-        "item_ceTg3a",
-        "item_qYnzra"
+        "item_ceTg3a"
       ],
       "name": "SS - FAQ #9",
       "settings": {
