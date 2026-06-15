@@ -9,6 +9,38 @@
  */
 {
   "sections": {
+    "video_hNFMK4": {
+      "type": "video",
+      "blocks": {
+        "play_FK8qBV": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_A4Ed7c": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_FK8qBV",
+        "heading_A4Ed7c"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/9d23dbb92c95417fb5e33e933e637b77.HD-1080p-2.5Mbps-46228302.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "slideshow_VLYwkh": {
       "type": "slideshow",
       "blocks": {
@@ -47,7 +79,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -215,7 +247,7 @@
             "content": "<h3>Willkommen bei ELINORA</h3><p>Wir machen einen grossen nächsten Schritt: <strong>ELINORA wächst weiter.</strong></p><p>Und um dieses schöne Wachstum gemeinsam mit euch zu feiern, starten wir unsere <strong>Growth Party</strong>. 🤍</p><p><strong>Bis zu 70 % Rabatt im gesamten Shop.</strong></p><p>Sorgfältig ausgewählte Styles in begrenzten Mengen – seid schnell, bevor sie vergriffen sind.</p><p>Die gleiche Welt, die ihr liebt – jetzt noch grösser ✦</p><p>Mit Liebe,<br/><br/><strong>Eli & Nora</strong></p>",
             "link_text": "",
             "link_url": "",
-            "background": "#FEF0F4",
+            "background": "#fef0f4",
             "background_gradient": "",
             "text_color": "#1a1a1a",
             "text_gradient": "",
@@ -495,7 +527,7 @@
             "heading_mt_mobile": 0,
             "heading_align": "left",
             "heading_align_mobile": "center",
-            "heading_color": "#1A1A1A"
+            "heading_color": "#1a1a1a"
           }
         },
         "item_UPPXxM": {
@@ -571,13 +603,13 @@
         "answer_size_mobile": 12,
         "answer_height": 170,
         "answer_padding_top": 16,
-        "item_bg_color": "#FFFFFF",
+        "item_bg_color": "#ffffff",
         "item_border_color": "#000000",
-        "question_color": "#1A1A1A",
+        "question_color": "#1a1a1a",
         "arrow_color": "#757575",
         "arrow_border_color": "#6c584c",
         "answer_color": "#757575",
-        "background_color": "#F0F3F4",
+        "background_color": "#f0f3f4",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 16,
@@ -652,13 +684,14 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "#FEF0F4",
+        "background": "#fef0f4",
         "background_gradient": "",
         "text_color": ""
       }
     }
   },
   "order": [
+    "video_hNFMK4",
     "slideshow_VLYwkh",
     "rich_text_iBA7Lb",
     "featured_collection_3efJjq",
