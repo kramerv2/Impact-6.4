@@ -233,9 +233,9 @@
             "content": "<p>Als wir Eli & Nora in Zürich eröffneten, hatten wir einen Traum: einen besonderen Ort zu schaffen, an dem sich jede Frau gesehen, verstanden und wohlfühlt.</p><p>Dank euch ist dieser Traum grösser geworden, als wir je erwartet hätten. Jetzt macht Eli & Nora den nächsten grossen Schritt.</p><p>Mehr Raum. Mehr Möglichkeiten. Aber immer mit derselben Wärme und Sorgfalt.</p><p>Um dieses Wachstum mit euch zu feiern, schenken wir euch bis zu 70 % Rabatt.</p><p>Mit Liebe aus Zürich,<br/><strong>Eli & Nora</strong></p>",
             "link_text": "",
             "link_url": "",
-            "background": "#FEF0F4",
+            "background": "#fef0f4",
             "background_gradient": "",
-            "text_color": "#1A1A1A",
+            "text_color": "#1a1a1a",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -245,6 +245,7 @@
       "block_order": [
         "image_7TApMH"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
@@ -352,6 +353,7 @@
         "testimonial_hiD6VE",
         "testimonial_QnF4ah"
       ],
+      "disabled": true,
       "name": "Testimonials",
       "settings": {
         "full_width": true,
@@ -757,7 +759,7 @@
             "heading_mt_mobile": 0,
             "heading_align": "left",
             "heading_align_mobile": "center",
-            "heading_color": "#1A1A1A"
+            "heading_color": "#1a1a1a"
           }
         },
         "text_YFtURC": {
@@ -858,13 +860,13 @@
         "answer_size_mobile": 12,
         "answer_height": 170,
         "answer_padding_top": 16,
-        "item_bg_color": "#FFFFFF",
+        "item_bg_color": "#ffffff",
         "item_border_color": "#000000",
-        "question_color": "#1A1A1A",
+        "question_color": "#1a1a1a",
         "arrow_color": "#757575",
         "arrow_border_color": "#6c584c",
         "answer_color": "#757575",
-        "background_color": "#F0F3F4",
+        "background_color": "#f0f3f4",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 16,
@@ -939,7 +941,7 @@
         "heading_tag": "h6",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "#FEF0F4",
+        "background": "#fef0f4",
         "background_gradient": "",
         "text_color": ""
       }
