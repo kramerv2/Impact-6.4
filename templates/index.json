@@ -30,6 +30,7 @@
         "play_FK8qBV",
         "heading_A4Ed7c"
       ],
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -72,7 +73,6 @@
       "block_order": [
         "image_r8AiMA"
       ],
-      "disabled": true,
       "name": "Slideshow",
       "settings": {
         "full_width": true,
@@ -264,7 +264,6 @@
       "block_order": [
         "image_NMb3Kr"
       ],
-      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
