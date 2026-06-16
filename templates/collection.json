@@ -87,11 +87,76 @@
         "show_filter_values_count": false,
         "open_first_filter_group": false
       }
+    },
+    "text_with_icons_C3YC7x": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_mdgVhG": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/cashback_1_small_7be20833-4fe2-4ab0-b753-d28e62da6767.webp",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "30-Tage-Geld-zurück-Garantie",
+            "content": "<p>Du hast es dir anders überlegt? Kein Stress. Sende unbenutzte Artikel innerhalb von 30 Tagen zurück und erhalte dein Geld zurück – einfach und unkompliziert.</p>"
+          }
+        },
+        "item_CD4XcV": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/protected.webp",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Kostenloser Versand in der ganzen Schweiz",
+            "content": "<p>Auf Anfrage versenden wir weltweit – innerhalb der Schweiz bieten wir kostenlosen Versand an.</p>"
+          }
+        },
+        "item_fqCQFF": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/chat.webp",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Schneller und freundlicher Support",
+            "content": "<p>Brauchst du Hilfe bei der Grösse oder deiner Bestellung? Unser Team ist gerne für dich da – schnell und aufmerksam.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_mdgVhG",
+        "item_CD4XcV",
+        "item_fqCQFF"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "#FEF0F4",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "slideshow_zzjPWC",
     "banner",
-    "main"
+    "main",
+    "text_with_icons_C3YC7x"
   ]
 }
