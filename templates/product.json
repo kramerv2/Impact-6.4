@@ -224,6 +224,29 @@
         "background_gradient": ""
       }
     },
+    "related_products_VLHTa6": {
+      "type": "related-products",
+      "name": "Related products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "<h4>Kombinieren & sparen – 15%</h4>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "media_with_text_RUgUML": {
       "type": "media-with-text",
       "blocks": {
@@ -257,29 +280,6 @@
       "settings": {
         "full_width": false,
         "spacing": "small"
-      }
-    },
-    "related_products_VLHTa6": {
-      "type": "related-products",
-      "name": "Related products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "",
-        "content": "<h4>Kombinieren & sparen – 15%</h4>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "testimonials_keBKgy": {
@@ -957,8 +957,8 @@
     "main",
     "53_Rb3MJd",
     "slideshow_GRfPCa",
-    "media_with_text_RUgUML",
     "related_products_VLHTa6",
+    "media_with_text_RUgUML",
     "testimonials_keBKgy",
     "37_e6aRrP",
     "ss_scrolling_images_pgDAnm",
