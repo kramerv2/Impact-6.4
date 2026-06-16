@@ -288,6 +288,7 @@
         "testimonial_Vh6ALa": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/69bdaca9ced95_download_180x_011cce34-715c-4043-b093-a5b0589cca85.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -299,6 +300,7 @@
         "testimonial_eRmK6D": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/69bdadd24c92a_download_180x_041affbf-120e-4ac6-9c05-b0bc7ed986be.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -310,6 +312,7 @@
         "testimonial_qhW3rC": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/69bdace85493c_download_180x_76623068-2de4-4005-8b14-8edc78d11808.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -321,6 +324,7 @@
         "testimonial_Xh4Vyf": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/69bdacf7aa435_download_180x_3ef36535-4d9e-4c8f-9cb2-843a7f29f239.avif",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -332,6 +336,7 @@
         "testimonial_hiD6VE": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/69bdacc38c971_download_180x_6a16726f-a3cf-45e1-b0a3-92441290f8b7.avif",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
