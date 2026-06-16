@@ -291,9 +291,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Vreni K.",
-            "title": "Endlich eine Marke die Frauen über 50 versteht",
-            "content": "<p>Ich kaufe schon seit Jahren online ein und bin meistens enttäuscht. Hier nicht. Der Schnitt ist wirklich durchdacht – nicht zu jung, nicht zu altmodisch. Genau das, was ich gesucht habe.</p>"
+            "author": "Ruth · vor 4 Tagen",
+            "title": "Mega freundlicher Service",
+            "content": "<p>Hab eine Frage zu meiner Bestellung gehabt und innerhalb von Minuten schon Antwort bekommen. Sehr nett und hilfsbereit, man merkt einfach dass es ihnen wichtig ist. Lieferung war auch super schnell, bin total zufrieden!</p>"
           }
         },
         "testimonial_eRmK6D": {
@@ -302,9 +302,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Monika B.",
-            "title": "Passt wie massgeschneidert",
-            "content": "<p>Ich habe das Kleid bestellt ohne grosse Erwartungen – und war völlig überrascht. Es sitzt perfekt, der Stoff fühlt sich hochwertig an und die Farbe ist noch schöner als auf den Fotos. Werde definitiv nochmals bestellen.</p>"
+            "author": "Heidi · vor 1 Woche",
+            "title": "Schön verpackt und top Qualität",
+            "content": "<p>Also ich muss sagen, ich war fasch positiv überrascht. Das Päckli ist mega schön verpackt angekommen, fast schad zum aufmache 😄 Und die Qualität vom Stoff ist wirklich top. Komm sicher wieder!</p>"
           }
         },
         "testimonial_qhW3rC": {
@@ -313,9 +313,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Regula M.",
-            "title": "Wunderschön verpackt",
-            "content": "<p>Das Paket kam schneller als erwartet und war so liebevoll verpackt, dass ich es fast nicht öffnen wollte. Das Stück selbst ist toll – viele Komplimente beim ersten Tragen bekommen!</p>"
+            "author": "Verena · vor 2 Tagen",
+            "title": "Passt einfach perfekt",
+            "content": "<p>Hab lang gesucht für sowas und endlich gfunde bi ELINORA. Sitzt mega guet, und de Stoff fühlt sich nöd billig a, im Gägeteil. Han scho komplimänt becho dafür. Bin happy!</p>"
           }
         },
         "testimonial_Xh4Vyf": {
@@ -324,9 +324,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Franziska W.",
-            "title": "Super Kundenservice",
-            "content": "<p>Hatte eine Frage zur Grösse und bekam innerhalb eines Tages eine hilfreiche Antwort. Man merkt, dass hier echte Menschen dahinterstecken. Das Kleid ist übrigens wunderschön.</p>"
+            "author": "Trudi · vor 6 Stunden",
+            "title": "Top Qualität, gärn wieder",
+            "content": "<p>Bin echt begeisteret vo mim Outfit. Me merkt dass da Herzblut dranne isch, jedes Detail stimmt. Au de Versand het problemlos klappt. Klare Empfehlung vo mir!</p>"
           }
         },
         "testimonial_hiD6VE": {
@@ -335,13 +335,14 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Heidi S.",
-            "title": "Qualität die man spürt",
-            "content": "<p>Der Stoff ist schwer und fällt schön – kein Vergleich zu dem was man sonst online bekommt. Ich trage es schon zum dritten Mal diese Woche. Meine Kolleginnen wollen alle wissen woher es kommt!</p>"
+            "author": "Margrit · vor 1 Woche",
+            "title": "Hat sich definitiv glohnt",
+            "content": "<p>Bi zerst chli skeptisch gsi, knapp 200 Fr. für ä Chleid vor mer nie ghört hatt. Aber ich bereue nüt! Qualität top, passt perfekt. Danke Eli und Nora, han mega Freud dra.</p>"
           }
         },
         "testimonial_QnF4ah": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
             "round_avatar": true,
             "show_rating": true,
