@@ -429,6 +429,9 @@
     "checkout": {
       "order_summary": {
         "enter_shipping_address": "Kostenlos"
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "Exklusive Rabatte und Angebote per E-Mail erhalten"
       }
     }
   }
