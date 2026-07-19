@@ -95,7 +95,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "makellose-italienische-kleider",
+        "collection": "blutentraum",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -105,7 +105,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h4>Italienische Kleider - BIS ZU 70 %</h4>",
+        "content": "<h4>Blütentraum - BIS ZU 70 %</h4>",
         "link_url": "",
         "link_text": "Alle anzeigen",
         "background": "",
