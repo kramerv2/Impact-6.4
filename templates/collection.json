@@ -16,6 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/growth_party_shopify_optimized.webp",
+            "mobile_image": "shopify://shop_images/growth_party_shopify_optimized.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -47,7 +48,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -95,7 +96,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/cashback_1_small_7be20833-4fe2-4ab0-b753-d28e62da6767.webp",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
@@ -109,7 +109,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/protected.webp",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
@@ -123,7 +122,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/chat.webp",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
@@ -147,7 +145,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "#FEF0F4",
+        "background": "#fef0f4",
         "background_gradient": "",
         "text_color": ""
       }
