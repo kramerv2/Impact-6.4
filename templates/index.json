@@ -230,6 +230,7 @@
         "image_NMb3Kr": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/leni_mara_shopify_1_optimized.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
