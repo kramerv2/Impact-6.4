@@ -63,8 +63,8 @@
         "heading_mbHjnc": {
           "type": "heading",
           "settings": {
-            "text": "ELINORA feiert",
-            "heading_tag": "h3",
+            "text": "LENIMARA feiert",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
@@ -72,7 +72,7 @@
         "richtext_m7LiPk": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Um unser Wachstum zu feiern, bieten wir bis zu <strong>70 % Rabatt</strong> auf alles!</p><p>Jedes einzelne Stück wurde mit der gleichen Sorgfalt ausgewählt wie immer.</p><p>Kein Stress. Keine versteckten Gebühren. Unser Wachstumsfestival ist in vollem Gange – entdecke, was dich anspricht, bevor es ausverkauft ist.</p><p>Und vergiss nicht: Jede fünfte Bestellung wird vollständig zurückerstattet. Der Betrag wird direkt auf dein Konto zurücküberwiesen. Das versprechen wir.</p><p>Mit Liebe,<br/><br/><strong>Eli & Nora</strong></p>"
+            "content": "<p>Um unser Wachstum zu feiern, bieten wir bis zu <strong>70 % Rabatt</strong> auf alles!</p><p>Jedes einzelne Stück wurde mit derselben Sorgfalt ausgewählt wie immer.</p><p>Kein Stress. Keine versteckten Gebühren. Unser Wachstumsfestival läuft bereits auf Hochtouren – entdecke, was dir gefällt, bevor es ausverkauft ist.</p><p>Und vergiss nicht: Jede fünfte Bestellung wird vollständig rückerstattet. Der Betrag wird direkt auf dein Konto zurücküberwiesen. Das versprechen wir dir.</p><p>Mit Liebe,</p><p><strong>Leni & Mara</strong></p>"
           }
         }
       },
