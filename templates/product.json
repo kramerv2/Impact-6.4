@@ -288,6 +288,7 @@
         "testimonial_Vh6ALa": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/69bdaca9ced95_download_180x_7e887b2a-94f5-4873-b1d1-bec04c6edbf2.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -299,6 +300,7 @@
         "testimonial_eRmK6D": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/69bdadd24c92a_download_180x_7a47ee54-352d-424b-84ab-60ee9d852ce5.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -310,6 +312,7 @@
         "testimonial_qhW3rC": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/69bdace85493c_download_180x_63c8039e-6f7a-4059-9984-d84263f87f86.webp",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -321,6 +324,7 @@
         "testimonial_Xh4Vyf": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/69bdacf7aa435_download_180x_5d622b93-8348-4727-a746-2db9196c8f5e.avif",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -332,7 +336,7 @@
         "testimonial_hiD6VE": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/leni_mara_shopify_2_optimized_1.jpg",
+            "image": "shopify://shop_images/69bdacc38c971_download_180x_98fd366b-0b89-4321-a400-7fc39c26f3e4.avif",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
