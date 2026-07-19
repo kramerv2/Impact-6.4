@@ -91,6 +91,31 @@
         "text_color": ""
       }
     },
+    "featured_collection_kEMRtM": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "luftige-kleider",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "<h4>Luftige Kleider - BIS ZU 70 %</h4>",
+        "link_url": "",
+        "link_text": "Alle ansehen",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "featured_collection_3efJjq": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -117,36 +142,11 @@
         "product_card_text_color": ""
       }
     },
-    "featured_collection_kEMRtM": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "bestseller-sets",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "",
-        "content": "<h4>Bestseller Sets - BIS ZU 70 %</h4>",
-        "link_url": "",
-        "link_text": "Alle ansehen",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "featured_collection_D4nK4w": {
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "denim-favoriten",
+        "collection": "luftige-blumenkleider",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -156,7 +156,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h4>Denim Favoriten - BIS ZU 70 %</h4>",
+        "content": "<h4>Luftige Blumenkleider - BIS ZU 70 %</h4>",
         "link_url": "",
         "link_text": "Alle ansehen",
         "background": "",
@@ -673,8 +673,8 @@
   "order": [
     "slideshow_VLYwkh",
     "rich_text_iBA7Lb",
-    "featured_collection_3efJjq",
     "featured_collection_kEMRtM",
+    "featured_collection_3efJjq",
     "featured_collection_D4nK4w",
     "collection_list_QRck8W",
     "media_with_text_4DxUBb",
