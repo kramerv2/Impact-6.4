@@ -64,7 +64,7 @@
           "type": "heading",
           "settings": {
             "text": "ELINORA feiert",
-            "heading_tag": "h1",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -81,7 +81,6 @@
         "heading_mbHjnc",
         "richtext_m7LiPk"
       ],
-      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -231,7 +230,6 @@
         "image_NMb3Kr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/eli_nora_shopify_optimized_2.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -272,7 +270,6 @@
         "image_b8TFzT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/08b7127d961d0089dfd9c666bec25534.webp",
             "url": ""
           }
         },
@@ -285,49 +282,42 @@
         "image_RqKyzi": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/b15df486a502ac840974e8884542f66a.webp",
             "url": ""
           }
         },
         "image_GiV8Ni": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/476003105_17845948758407902_8357618397879265247_n.jpg",
             "url": ""
           }
         },
         "image_ydGqCq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/9741e50e0fa61a32327c4c42c840495d_74ef8fba-d332-460d-8505-1982870864f4.webp",
             "url": ""
           }
         },
         "image_k9MtRj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/a439902d3673bffafd527b1b865339ad.webp",
             "url": ""
           }
         },
         "image_CJwP9y": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/4a96d0fcaa7f9a10611e585dd7cd7b35.webp",
             "url": ""
           }
         },
         "image_fdKTtT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/694ea3ea5f6aef1900f790c8b3338a1d.webp",
             "url": ""
           }
         },
         "image_WCrqCF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/475944174_17845949172407902_3817677168902999382_n.jpg",
             "url": ""
           }
         }
@@ -425,7 +415,6 @@
         "image_fCPRg3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/christin-hume-hBuwVLcYTnA-unsplash.webp",
             "title": "Arbeite bi üs",
             "heading_tag": "h4",
             "link_url": "shopify://pages/karriere-bei-eli-nora",
@@ -447,7 +436,6 @@
         "image_EqxVa6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/rer.avif",
             "title": "Contact",
             "heading_tag": "h4",
             "link_url": "shopify://pages/contact",
@@ -469,7 +457,6 @@
         "image_cXUPyp": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/iStock-1306620421_1.webp",
             "title": "Versandpolitik",
             "heading_tag": "h4",
             "link_url": "shopify://pages/versandpolitik",
@@ -627,7 +614,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/cashback_1_small_7be20833-4fe2-4ab0-b753-d28e62da6767.webp",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
@@ -641,7 +627,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/protected.webp",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
@@ -655,7 +640,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/chat.webp",
             "mobile_icon_width": 36,
             "icon_width": 24,
             "icon_background_type": "none",
