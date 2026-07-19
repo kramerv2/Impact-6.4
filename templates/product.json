@@ -773,21 +773,21 @@
           "type": "item",
           "settings": {
             "question": "Wie lange ist die Lieferzeit?",
-            "answer": "<p>Wir liefern lagernde Waren normalerweise innerhalb von<strong> 6–9</strong> Tagen.</p>"
+            "answer": "<p>Wir liefern vorrätige Waren normalerweise innerhalb von <strong>6–9</strong> Tagen.</p>"
           }
         },
         "item_YWW87M": {
           "type": "item",
           "settings": {
             "question": "Wie kann ich meine Bestellung verfolgen?",
-            "answer": "<p>Um den Lieferstatus Ihrer Bestellung zu prüfen, sehen Sie bitte in der Versandbestätigung nach, die Sie per E-Mail erhalten haben. </p><p>Für jedes versandte Paket erhalten Sie eine Bestätigungs-E-Mail mit einem Tracking-Link. Diese E-Mail wird versendet, sobald Ihre Bestellung bearbeitet und verschickt wurde. </p><p>Mit dem Tracking-Link können Sie Ihr Paket in Echtzeit verfolgen.</p>"
+            "answer": "<p>Um den Lieferstatus Ihrer Bestellung zu prüfen, sehen Sie bitte in der Versandbestätigung nach, die Sie per E-Mail erhalten haben.</p><p>Für jedes versandte Paket erhalten Sie eine Bestätigungs-E-Mail mit einem Tracking-Link. Diese E-Mail wird versendet, sobald Ihre Bestellung bearbeitet und verschickt wurde.</p><p>Mit dem Tracking-Link können Sie Ihr Paket in Echtzeit verfolgen.</p>"
           }
         },
         "item_XGVmCe": {
           "type": "item",
           "settings": {
             "question": "Wie beantrage ich eine Rücksendung?",
-            "answer": "<p>Wenn Ihre Bestellung für eine Rücksendung berechtigt ist, senden Sie bitte eine E-Mail über den Bereich <strong>„Contact“</strong> auf unserer Website. Geben Sie in dieser E-Mail Ihre Bestellnummer, den Grund für die Rücksendung, ein Foto des Produkts, falls es beschädigt ist, sowie den Vor- und Nachnamen und die Adresse des Kunden an. Anschließend kontaktieren wir Sie und teilen Ihnen die Rücksendeadresse mit.</p>"
+            "answer": "<p>Wenn Ihre Bestellung für eine Rücksendung berechtigt ist, senden Sie bitte eine E-Mail über den Bereich „Contact\" auf unserer Website. Geben Sie in dieser E-Mail Ihre Bestellnummer, den Grund für die Rücksendung, ein Foto des Produkts, falls es beschädigt ist, sowie den Vor- und Nachnamen und die Adresse des Kunden an. Anschließend kontaktieren wir Sie und teilen Ihnen die Rücksendeadresse mit.</p>"
           }
         },
         "item_rjN4FQ": {
@@ -801,7 +801,7 @@
           "type": "item",
           "settings": {
             "question": "Welche Zahlungsmethoden werden akzeptiert?",
-            "answer": "<p>Sie können zwischen folgenden Zahlungsmethoden wählen: <strong>Kreditkarte (Visa, Mastercard, AMEX), Google Pay, Apple Pay und TWINT</strong>.</p>"
+            "answer": "<p>Sie können zwischen folgenden Zahlungsmethoden wählen: <strong>Kreditkarte (Visa, Mastercard, AMEX), Google Pay, Apple Pay und EPS.</strong></p>"
           }
         },
         "item_kkmbMV": {
@@ -898,8 +898,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Kostenloser Versand in der ganzen Schweiz",
-            "content": "<p>Auf Anfrage versenden wir weltweit – innerhalb der Schweiz bieten wir kostenlosen Versand an.</p>"
+            "title": "Kostenloser Versand in ganz Österreich",
+            "content": "<p>Auf Anfrage versenden wir weltweit – innerhalb Österreichs bieten wir kostenlosen Versand an.</p>"
           }
         },
         "item_qWaVx9": {
@@ -912,7 +912,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Schneller und freundlicher Support",
-            "content": "<p>Brauchst du Hilfe bei der Grösse oder deiner Bestellung? Unser Team ist gerne für dich da – schnell und aufmerksam.</p>"
+            "content": "<p>Brauchst du Hilfe bei der Größe oder deiner Bestellung? Unser Team ist gerne für dich da – schnell und aufmerksam.</p>"
           }
         }
       },
