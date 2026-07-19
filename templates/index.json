@@ -516,14 +516,14 @@
           "type": "item",
           "settings": {
             "question": "Wie lange ist die Lieferzeit?",
-            "answer": "<p>Wir liefern lagernde Waren normalerweise innerhalb von<strong> 6–9</strong> Tagen.</p>"
+            "answer": "<p>Wir liefern vorrätige Waren normalerweise innerhalb von <strong>6–9</strong> Tagen.</p>"
           }
         },
         "item_8dNpKA": {
           "type": "item",
           "settings": {
             "question": "Wie kann ich meine Bestellung verfolgen?",
-            "answer": "<p>Um den Lieferstatus Ihrer Bestellung zu prüfen, sehen Sie bitte in der Versandbestätigung nach, die Sie per E-Mail erhalten haben. </p><p>Für jedes versandte Paket erhalten Sie eine Bestätigungs-E-Mail mit einem Tracking-Link. Diese E-Mail wird versendet, sobald Ihre Bestellung bearbeitet und verschickt wurde. </p><p>Mit dem Tracking-Link können Sie Ihr Paket in Echtzeit verfolgen.</p>"
+            "answer": "<p>Um den Lieferstatus Ihrer Bestellung zu prüfen, sehen Sie bitte in der Versandbestätigung nach, die Sie per E-Mail erhalten haben.</p><p>Für jedes versandte Paket erhalten Sie eine Bestätigungs-E-Mail mit einem Tracking-Link. Diese E-Mail wird versendet, sobald Ihre Bestellung bearbeitet und verschickt wurde.</p><p>Mit dem Tracking-Link können Sie Ihr Paket in Echtzeit verfolgen.</p>"
           }
         },
         "item_VWRcJj": {
@@ -632,8 +632,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Kostenloser Versand in der ganzen Schweiz",
-            "content": "<p>Auf Anfrage versenden wir weltweit – innerhalb der Schweiz bieten wir kostenlosen Versand an.</p>"
+            "title": "Kostenloser Versand in ganz Österreich",
+            "content": "<p>Auf Anfrage versenden wir weltweit – innerhalb Österreichs bieten wir kostenlosen Versand an.</p>"
           }
         },
         "item_hQnDPn": {
@@ -646,7 +646,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Schneller und freundlicher Support",
-            "content": "<p>Brauchst du Hilfe bei der Grösse oder deiner Bestellung? Unser Team ist gerne für dich da – schnell und aufmerksam.</p>"
+            "content": "<p>Brauchst du Hilfe bei der Größe oder deiner Bestellung? Unser Team ist gerne für dich da – schnell und aufmerksam.</p>"
           }
         }
       },
