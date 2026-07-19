@@ -253,6 +253,7 @@
         "image_7TApMH": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/leni_mara_shopify_2_optimized_1.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -331,6 +332,7 @@
         "testimonial_hiD6VE": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/leni_mara_shopify_2_optimized_1.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
