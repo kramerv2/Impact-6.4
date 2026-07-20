@@ -27,14 +27,14 @@
           "type": "links",
           "settings": {
             "menu": "footer",
-            "show_menu_title": true,
+            "show_menu_title": false,
             "menu_title": ""
           }
         },
         "text_nhchfD": {
           "type": "text",
           "settings": {
-            "title": "Kundeservice",
+            "title": "",
             "content": "<p>Zählen Sie auf uns für 24/7 Support.<br/>Unser Kundendienst steht bereit, Ihnen bei allem zu helfen.</p><p>🕒 <strong>Öffnungszeiten:</strong><br/>Montag – Freitag: 09:00 – 18:00 CET<br/>Samstag: 09:00 – 17:00 CET<br/>Sonntag: 10:00 – 16:00 CET</p><p>✉️ Kontakt: <a href=\"mailto:contact@lenimara.at\">contact@lenimara.at</a></p>",
             "enable_follow_on_shop": false
           }
