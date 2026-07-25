@@ -81,6 +81,7 @@
         "heading_mbHjnc",
         "richtext_m7LiPk"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -229,6 +230,7 @@
       "blocks": {
         "image_NMb3Kr": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/leni_mara_shopify_1_optimized.jpg",
             "media_width": 50,
