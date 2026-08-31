@@ -1434,6 +1434,8 @@ scroll-carousel {
 .badge--lg {
   padding: var(--spacing-1) var(--spacing-3);
   font-size: var(--text-sm);
+  background-color: #590C0C;
+  --text-color:#ffffff;
 }
 
 @media screen and (min-width: 700px) {
