@@ -28,7 +28,7 @@
         "liquid_tgmLkE": {
           "type": "liquid",
           "settings": {
-            "liquid": "<p class=\"np-subtitle\">Quantidade muito limitada: Apenas 10 exemplares feitos à mão</p>"
+            "liquid": "<p class=\"np-subtitle\" style=\"font-size: 0.85rem; font-weight: 300;\">Quantidade muito limitada: Apenas 10 exemplares feitos à mão</p>"
           }
         },
         "price_VDj6mT": {
@@ -998,7 +998,7 @@
         "arrow_color": "#757575",
         "arrow_border_color": "#6c584c",
         "answer_color": "#757575",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#111111",
         "margin_top": 0,
