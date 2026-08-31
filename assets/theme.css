@@ -1436,7 +1436,10 @@ scroll-carousel {
   font-size: var(--text-sm);
 
 }
-
+line-item .badge {
+  background-color: #590C0C !important;
+  color: #ffffff !important;
+}
 @media screen and (min-width: 700px) {
   .badge:not(.badge--lg) {
     font-size: var(--text-xs);
