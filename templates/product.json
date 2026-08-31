@@ -368,6 +368,7 @@
       "block_order": [
         "image_7TApMH"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
@@ -453,6 +454,7 @@
         "testimonial_hiD6VE",
         "testimonial_QnF4ah"
       ],
+      "disabled": true,
       "name": "Testimonials",
       "settings": {
         "full_width": true,
