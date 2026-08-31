@@ -35,15 +35,25 @@
           "type": "text",
           "settings": {
             "title": "Kundeservice",
-            "content": "<p><strong>Zählen Sie auf uns für 24/7 Support.</strong><br/>Unser Kundendienst steht bereit, Ihnen bei allem zu helfen.</p><p>🕒 <strong>Öffnungszeiten:</strong><br/><strong>Montag – Freitag: </strong>09:00 – 18:00 CET<br/><strong>Samstag:</strong> 09:00 – 17:00 CET<br/><strong>Sonntag:</strong> 10:00 – 16:00 CET</p><p>✉️ <strong>Kontakt:</strong> <a>contact@elinora.ch</a></p>",
+            "content": "<p><strong>De segunda a sexta-feira: 09:00 - 17:00</strong><br/><strong>Sábado e domingo: 12:00 - 16:00</strong></p><p>Na Carla & Sofia, estamos aqui para si todos os dias. Tem alguma questão ou precisa de ajuda? Entre em contacto connosco a qualquer momento — a nossa equipa terá todo o gosto em ajudar.</p><p>📧 <a href=\"mailto:contact@carlaesofia.com\">contact@carlaesofia.com</a><br/>📍 Lisboa, Portugal</p>",
             "enable_follow_on_shop": false
+          }
+        },
+        "newsletter_Fw6mB9": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Ganhe 100 € em crédito na loja",
+            "content": "<p>Todos os meses oferecemos 100 € em crédito na loja a um dos nossos subscritores fiéis!</p>"
           }
         }
       },
       "block_order": [
         "links_L4R9qx",
         "links",
-        "text_nhchfD"
+        "text_nhchfD",
+        "newsletter_Fw6mB9"
       ],
       "settings": {
         "show_social_media": false,
