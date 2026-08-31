@@ -49,6 +49,7 @@
     "text_font_size_desktop": 16,
     "heading_apparition": "split_fade",
     "color_swatch_style": "square",
+    "show_vendor": false,
     "show_quick_buy": false,
     "show_product_rating": false,
     "show_sold_out_badge": true,
