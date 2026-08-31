@@ -1442,8 +1442,6 @@ scroll-carousel {
     font-size: var(--text-xs);
     padding-block-start: var(--spacing-0-5);
     padding-block-end: var(--spacing-0-5);
-    background-color: #590C0C;
-    --text-color:#ffffff;
   }
 }
 
