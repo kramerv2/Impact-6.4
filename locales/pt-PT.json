@@ -7,15 +7,6 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
-/*
- * ------------------------------------------------------------
- * IMPORTANTE: O conteúdo deste ficheiro é gerado automaticamente.
- *
- * Este ficheiro pode ser atualizado pelo editor de idiomas do Shopify
- * ou por sistemas relacionados. Tenha em atenção que quaisquer alterações
- * efetuadas neste ficheiro podem ser substituídas.
- * ------------------------------------------------------------
- */
 {
   "general": {
     "page": "Página {{ page }}",
@@ -322,7 +313,7 @@
       "taxes_and_shipping_policy_at_checkout_html": "Impostos e <a href=\"{{ link }}\" class=\"link\">envio</a> calculados ao finalizar a compra",
       "taxes_included_but_shipping_at_checkout": "Imposto incluído e envio calculado ao finalizar a compra",
       "taxes_included_and_shipping_policy_html": "Imposto incluído. <a href=\"{{ link }}\" class=\"link\">Envio</a> calculado ao finalizar a compra.",
-      "taxes_and_shipping_at_checkout": "Impostos e envio calculados ao finalizar a compra",
+      "taxes_and_shipping_at_checkout": "",
       "add_order_note": "Adicionar nota à encomenda",
       "edit_order_note": "Editar nota da encomenda",
       "order_note": "Nota da encomenda",
