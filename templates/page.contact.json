@@ -153,8 +153,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Haben Sie eine Frage? Wir helfen Ihnen gerne.",
-        "content": "<p><strong>Zählen Sie auf uns für 24/7 Support.</strong><br/>Unser Kundendienst steht bereit, Ihnen bei allem zu helfen.</p><p>🕒 <strong>Öffnungszeiten:</strong><br/><strong>Montag – Freitag: </strong>09:00 – 18:00 CET<br/><strong>Samstag:</strong> 09:00 – 17:00 CET<br/><strong>Sonntag:</strong> 10:00 – 16:00 CET</p><p>✉️ <strong>Kontakt:</strong> <a>contact@elinora.ch</a></p>",
+        "title": "",
+        "content": "<p><strong>De segunda a sexta-feira: 09:00 - 17:00</strong><br/><strong>Sábado e domingo: 12:00 - 16:00</strong></p><p>Na Carla & Sofia, estamos aqui para si todos os dias. Tem alguma questão ou precisa de ajuda? Entre em contacto connosco a qualquer momento — a nossa equipa terá todo o gosto em ajudar.</p><p>📧 <a href=\"mailto:contact@carlaesofia.com\">contact@carlaesofia.com</a></p><p>📍 Lisboa, Portugal</p>",
         "text_position": "center",
         "contact_form_size": "large",
         "background": "",
