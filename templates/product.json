@@ -881,7 +881,7 @@
         "heading_kgPttR": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Häufig gestellte Fragen</p>",
+            "heading": "<p>Perguntas Frequentes</p>",
             "heading_custom": true,
             "heading_font": "playfair_display_n5",
             "heading_size": 36,
