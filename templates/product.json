@@ -120,6 +120,7 @@
         },
         "collapsible_text_cG3RKH": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "Gratis Lieferung",
             "content": "<p>Wir bieten in der <strong>Schweiz</strong> kostenlosen Versand mit unseren zuverlässigen Partnern <strong>DHL</strong> und <strong>Swiss Post.</strong><br/><br/>Du kannst dein Paket ganz einfach mit der erhaltenen Sendungsnummer verfolgen.</p>",
@@ -128,6 +129,7 @@
         },
         "collapsible_text_Mwitjx": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "30 Tage einfache Rückgabe",
             "content": "<p>Nicht ganz zufrieden? Kein Grund zur Sorge! Du kannst deine Bestellung innerhalb von <strong>30 Tagen nach Erhalt</strong> einfach und schnell zurücksenden. Wir sorgen dafür, dass der Rückgabeprozess unkompliziert ist, damit du dich um nichts kümmern musst.</p>",
