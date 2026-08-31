@@ -14,6 +14,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text_nhchfD": {
+          "type": "text",
+          "settings": {
+            "title": "Kundeservice",
+            "content": "<p><strong>De segunda a sexta-feira: 09:00 - 17:00</strong><br/><strong>Sábado e domingo: 12:00 - 16:00</strong></p><p>Na Carla & Sofia, estamos aqui para si todos os dias. Tem alguma questão ou precisa de ajuda? Entre em contacto connosco a qualquer momento — a nossa equipa terá todo o gosto em ajudar.</p><p>📧 <a href=\"mailto:contact@carlaesofia.com\">contact@carlaesofia.com</a><br/>📍 Lisboa, Portugal</p>",
+            "enable_follow_on_shop": false
+          }
+        },
         "links_L4R9qx": {
           "type": "links",
           "disabled": true,
@@ -26,17 +34,9 @@
         "links": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "pol-ticas",
             "show_menu_title": true,
             "menu_title": ""
-          }
-        },
-        "text_nhchfD": {
-          "type": "text",
-          "settings": {
-            "title": "Kundeservice",
-            "content": "<p><strong>De segunda a sexta-feira: 09:00 - 17:00</strong><br/><strong>Sábado e domingo: 12:00 - 16:00</strong></p><p>Na Carla & Sofia, estamos aqui para si todos os dias. Tem alguma questão ou precisa de ajuda? Entre em contacto connosco a qualquer momento — a nossa equipa terá todo o gosto em ajudar.</p><p>📧 <a href=\"mailto:contact@carlaesofia.com\">contact@carlaesofia.com</a><br/>📍 Lisboa, Portugal</p>",
-            "enable_follow_on_shop": false
           }
         },
         "newsletter_Fw6mB9": {
@@ -50,9 +50,9 @@
         }
       },
       "block_order": [
+        "text_nhchfD",
         "links_L4R9qx",
         "links",
-        "text_nhchfD",
         "newsletter_Fw6mB9"
       ],
       "settings": {

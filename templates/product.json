@@ -1014,6 +1014,7 @@
         "item_FNJycx",
         "item_qWaVx9"
       ],
+      "disabled": true,
       "name": "Text with icons",
       "settings": {
         "full_width": true,
