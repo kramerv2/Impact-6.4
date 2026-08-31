@@ -10041,7 +10041,7 @@ line-item .badge {
 
 :checked + .block-swatch:before,
 .block-swatch.is-selected:before {
-  box-shadow: 0 0 0 3px #C5A059 !important;
+  box-shadow: 0 0 0 2px #C5A059 !important;
   transition: box-shadow .15s ease-in-out, opacity .2s ease-in-out, transform .2s ease-in-out !important;
 }
 .block-swatch {
