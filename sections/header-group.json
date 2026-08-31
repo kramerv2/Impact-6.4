@@ -21,6 +21,13 @@
             "url": ""
           }
         },
+        "message_aMAeLe": {
+          "type": "message",
+          "settings": {
+            "text": "15% DE DESCONTO NA COMPRA DE 2 ARTIGOS",
+            "url": ""
+          }
+        },
         "message_hjBBBN": {
           "type": "message",
           "disabled": true,
@@ -28,28 +35,20 @@
             "text": "4,7/5 BASIEREND AUF 1100+ BEWERTUNGEN",
             "url": ""
           }
-        },
-        "message_aMAeLe": {
-          "type": "message",
-          "disabled": true,
-          "settings": {
-            "text": "15% RABATT BEIM KAUF VON 2 STÜCK",
-            "url": ""
-          }
         }
       },
       "block_order": [
         "message",
-        "message_hjBBBN",
-        "message_aMAeLe"
+        "message_aMAeLe",
+        "message_hjBBBN"
       ],
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
         "cycle_speed": 6,
         "text_size": "text-xs",
-        "navigation_mode": "arrows",
-        "scrolling_speed": 15,
+        "navigation_mode": "scrolling",
+        "scrolling_speed": 13,
         "background": "#590c0c",
         "background_gradient": "",
         "text_color": "#ffffff"
