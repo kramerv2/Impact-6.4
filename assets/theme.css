@@ -10032,13 +10032,14 @@ line-item .badge {
   background-color: #590C0C !important;
   color: #ffffff !important;
 }
-/* Size swatch: red fill, gold borders (light unselected / darker selected), white text */
-.block-swatch {
+/* Size swatch: selected state only - red fill, gold ring, white text */
+:checked + .block-swatch,
+.block-swatch.is-selected {
   background: #590C0C !important;
-  border-color: rgba(197, 160, 89, 0.4) !important; /* light gold border - unselected */
   color: #ffffff !important;
 }
 
-.block-swatch:before {
-  box-shadow: 0 0 0 2px #C5A059 !important; /* darker gold ring - shown once selected */
+:checked + .block-swatch:before,
+.block-swatch.is-selected:before {
+  box-shadow: 0 0 0 2px #C5A059 !important;
 }
