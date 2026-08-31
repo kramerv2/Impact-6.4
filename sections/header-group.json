@@ -50,7 +50,7 @@
         "text_size": "text-xs",
         "navigation_mode": "arrows",
         "scrolling_speed": 15,
-        "background": "#590C0C",
+        "background": "#590c0c",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -69,7 +69,7 @@
         "menu_open_trigger": "click",
         "opening_from": "left",
         "layout": "logo_left_navigation_center",
-        "show_social_media": true,
+        "show_social_media": false,
         "show_locale_selector": false,
         "show_country_selector": false,
         "show_country_flag": false,
