@@ -22,7 +22,7 @@
         "title_fjYh7d": {
           "type": "title",
           "settings": {
-            "heading_tag": "h5"
+            "heading_tag": "h4"
           }
         },
         "liquid_tgmLkE": {
@@ -371,7 +371,7 @@
         "show_progress_bar": false,
         "products_count": 6,
         "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
+        "products_per_row_desktop": 5,
         "subheading": "",
         "title": "",
         "content": "<h4>Kombinieren & sparen – 15%</h4>",
