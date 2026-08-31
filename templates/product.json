@@ -951,7 +951,7 @@
         "item_border_thickness": 0,
         "item_shadow": true,
         "question_custom": true,
-        "question_font": "inter_n5",
+        "question_font": "montserrat_n5",
         "question_size": 18,
         "question_size_mobile": 14,
         "question_height": 130,
