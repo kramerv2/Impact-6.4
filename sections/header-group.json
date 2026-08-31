@@ -17,12 +17,13 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "30 TAGE GELD-ZURÜCK-GARANTIE",
+            "text": "ESTAMOS DE MUDANÇA – POUPE ATÉ 70%",
             "url": ""
           }
         },
         "message_hjBBBN": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "4,7/5 BASIEREND AUF 1100+ BEWERTUNGEN",
             "url": ""
@@ -30,6 +31,7 @@
         },
         "message_aMAeLe": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "15% RABATT BEIM KAUF VON 2 STÜCK",
             "url": ""
@@ -46,9 +48,9 @@
         "autoplay": false,
         "cycle_speed": 6,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 15,
-        "background": "#1a1a1a",
+        "background": "#590C0C",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -58,7 +60,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Screenshot_2026-06-15_202019.png",
+        "logo": "shopify://shop_images/carla_sofia_recolored.png",
         "logo_max_width": 160,
         "logo_mobile_max_width": 135,
         "menu": "main-menu",

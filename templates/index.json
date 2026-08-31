@@ -15,17 +15,18 @@
         "image_r8AiMA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Copy_of_BANNER.webp",
+            "image": "shopify://shop_images/mentor-dress-v1_1512x_948cbb99-e7f4-44e8-af45-eff29ce77ecc.webp",
+            "mobile_image": "shopify://shop_images/mentor-dress-v1_1512x_948cbb99-e7f4-44e8-af45-eff29ce77ecc.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "GROWTH PARTY",
-            "title": "Bis zu 70 % Rabatt auf alle Kollektionen",
+            "subheading": "SALDOS DE MUDANÇA",
+            "title": "Até 70% de desconto – Stock limitado",
             "heading_tag": "h4",
-            "button_text": "",
+            "button_text": "Comprar agora",
             "button_link": "",
             "text_color": "#ffffff",
-            "button_background": "#ffffff",
+            "button_background": "#C5A059",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
             "overlay_opacity": 30,
@@ -54,16 +55,10 @@
     "rich_text_iBA7Lb": {
       "type": "rich-text",
       "blocks": {
-        "subheading_ndqbTC": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
         "heading_mbHjnc": {
           "type": "heading",
           "settings": {
-            "text": "ELINORA feiert",
+            "text": "Bem-vindo à Carla & Sofia",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -72,14 +67,16 @@
         "richtext_m7LiPk": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Um unser Wachstum zu feiern, bieten wir bis zu <strong>70 % Rabatt</strong> auf alles!</p><p>Jedes einzelne Stück wurde mit der gleichen Sorgfalt ausgewählt wie immer.</p><p>Kein Stress. Keine versteckten Gebühren. Unser Wachstumsfestival ist in vollem Gange – entdecke, was dich anspricht, bevor es ausverkauft ist.</p><p>Und vergiss nicht: Jede fünfte Bestellung wird vollständig zurückerstattet. Der Betrag wird direkt auf dein Konto zurücküberwiesen. Das versprechen wir.</p><p>Mit Liebe,<br/><br/><strong>Eli & Nora</strong></p>"
+            "content": "<p>Desde 1999, temos um único objetivo: ajudar cada mulher a sentir-se confiante e confortável com aquilo que veste — todos os dias.</p><p>Ao longo dos anos, a Carla and Sofia cresceu e tornou-se um destino de confiança para roupa feminina intemporal e cuidadosamente confecionada: vestidos, conjuntos, blusas e peças para o dia a dia, criadas com um profundo respeito pela qualidade, pelo saber-fazer e por uma elegância discreta.</p><p>Hoje, enquanto nos preparamos para mudar a Carla and Sofia para um espaço maior aqui em Lisboa, queremos agradecer-lhe de uma forma especial: com uns saldos de mudança, com descontos até <strong>70%</strong> em algumas das nossas coleções mais apreciadas.</p><p>A sua lealdade, o seu apoio e as suas palavras carinhosas significaram para nós mais do que alguma vez conseguiremos expressar. Obrigada por fazer parte desta jornada e por permitir que a Carla and Sofia faça parte da sua.</p><p>Com sincera gratidão,<br/><br/><strong>Carla & Sofia</strong><br/><br/>Fundadoras da Carla and Sofia</p>"
           }
         }
       },
       "block_order": [
-        "subheading_ndqbTC",
         "heading_mbHjnc",
         "richtext_m7LiPk"
+      ],
+      "custom_css": [
+        "h2 {color: #c5a059; font-family: \"Playfair Display\", serif !important; border-bottom: 1px solid #c5a059; padding-bottom: 0.35em; display: inline-block; font-size: clamp(28px, 5vw, 40px);}"
       ],
       "name": "Rich text",
       "settings": {
@@ -230,7 +227,6 @@
         "image_NMb3Kr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/eli_nora_shopify_optimized_2.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -271,7 +267,6 @@
         "image_b8TFzT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/08b7127d961d0089dfd9c666bec25534.webp",
             "url": ""
           }
         },
@@ -284,49 +279,42 @@
         "image_RqKyzi": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/b15df486a502ac840974e8884542f66a.webp",
             "url": ""
           }
         },
         "image_GiV8Ni": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/476003105_17845948758407902_8357618397879265247_n.jpg",
             "url": ""
           }
         },
         "image_ydGqCq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/9741e50e0fa61a32327c4c42c840495d_74ef8fba-d332-460d-8505-1982870864f4.webp",
             "url": ""
           }
         },
         "image_k9MtRj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/a439902d3673bffafd527b1b865339ad.webp",
             "url": ""
           }
         },
         "image_CJwP9y": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/4a96d0fcaa7f9a10611e585dd7cd7b35.webp",
             "url": ""
           }
         },
         "image_fdKTtT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/694ea3ea5f6aef1900f790c8b3338a1d.webp",
             "url": ""
           }
         },
         "image_WCrqCF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/475944174_17845949172407902_3817677168902999382_n.jpg",
             "url": ""
           }
         }
@@ -424,7 +412,6 @@
         "image_fCPRg3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/christin-hume-hBuwVLcYTnA-unsplash.webp",
             "title": "Arbeite bi üs",
             "heading_tag": "h4",
             "link_url": "shopify://pages/karriere-bei-eli-nora",
@@ -446,7 +433,6 @@
         "image_EqxVa6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/rer.avif",
             "title": "Contact",
             "heading_tag": "h4",
             "link_url": "shopify://pages/contact",
@@ -468,7 +454,6 @@
         "image_cXUPyp": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/iStock-1306620421_1.webp",
             "title": "Versandpolitik",
             "heading_tag": "h4",
             "link_url": "shopify://pages/versandpolitik",
@@ -626,7 +611,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/cashback_1_small_7be20833-4fe2-4ab0-b753-d28e62da6767.webp",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
@@ -640,7 +624,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/protected.webp",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
@@ -654,7 +637,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/chat.webp",
             "mobile_icon_width": 36,
             "icon_width": 24,
             "icon_background_type": "none",
