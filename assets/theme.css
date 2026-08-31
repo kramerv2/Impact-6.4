@@ -10032,3 +10032,13 @@ line-item .badge {
   background-color: #590C0C !important;
   color: #ffffff !important;
 }
+/* ==========================================
+   CUSTOM OVERRIDES - do not remove
+   ========================================== */
+
+/* Size swatch styling - dark red fill, white text, gold border */
+.block-swatch {
+  background: #590C0C !important;
+  border-color: #C5A059 !important;
+  color: #ffffff !important;
+}
