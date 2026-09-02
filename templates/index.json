@@ -129,9 +129,8 @@
     },
     "featured_collection_kEMRtM": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
-        "collection": "bestseller-sets",
+        "collection": "blazers-estampados",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -141,9 +140,9 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h4>Bestseller Sets - BIS ZU 70 %</h4>",
+        "content": "<h4>Blazers - 70% DE DESCONTO</h4>",
         "link_url": "",
-        "link_text": "Alle ansehen",
+        "link_text": "Toda",
         "background": "",
         "background_gradient": "",
         "text_color": "",
