@@ -9,50 +9,90 @@
  */
 {
   "sections": {
-    "video_HGRQBG": {
-      "type": "video",
+    "slideshow_VLYwkh": {
+      "type": "slideshow",
       "blocks": {
-        "play_emmDHe": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_cYdGX4": {
-          "type": "heading",
+        "image_r8AiMA": {
+          "type": "image",
           "settings": {
-            "text": "GROTE LENTE SALE",
-            "heading_tag": "h4"
-          }
-        },
-        "heading_ymgmXK": {
-          "type": "heading",
-          "settings": {
-            "text": "TOT WEL 70% KORTING",
-            "heading_tag": "h2"
+            "image": "shopify://shop_images/mentor-dress-v1_1512x_948cbb99-e7f4-44e8-af45-eff29ce77ecc.webp",
+            "mobile_image": "shopify://shop_images/mentor-dress-v1_1512x_948cbb99-e7f4-44e8-af45-eff29ce77ecc.webp",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "SALDOS DE MUDANÇA",
+            "title": "Até 70% de desconto – Stock limitado",
+            "heading_tag": "h4",
+            "button_text": "Comprar agora",
+            "button_link": "https://carlaesofia.com/collections",
+            "text_color": "#ffffff",
+            "button_background": "#c5a059",
+            "button_text_color": "#111111",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
           }
         }
       },
       "block_order": [
-        "play_emmDHe",
-        "heading_cYdGX4",
-        "heading_ymgmXK"
+        "image_r8AiMA"
       ],
-      "name": "Video",
+      "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
-        "autoplay": true,
-        "video_size": "sm",
-        "video": "shopify://files/videos/9d23dbb92c95417fb5e33e933e637b77.HD-1080p-2.5Mbps-46228302.mp4",
-        "external_video_url": "",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 36
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
       }
     },
-    "featured_collection_kEMRtM": {
-      "type": "featured-collection",
+    "rich_text_iBA7Lb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mbHjnc": {
+          "type": "heading",
+          "settings": {
+            "text": "Bem-vindo à Carla & Sofia",
+            "heading_tag": "h3",
+            "text_color": "#c5a059",
+            "gradient": ""
+          }
+        },
+        "richtext_m7LiPk": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Desde 1999, temos um único objetivo: ajudar cada mulher a sentir-se confiante e confortável com aquilo que veste — todos os dias.</p><p>Ao longo dos anos, a Carla and Sofia cresceu e tornou-se um destino de confiança para roupa feminina intemporal e cuidadosamente confecionada: vestidos, conjuntos, blusas e peças para o dia a dia, criadas com um profundo respeito pela qualidade, pelo saber-fazer e por uma elegância discreta.</p><p>Hoje, enquanto nos preparamos para mudar a Carla and Sofia para um espaço maior aqui em Lisboa, queremos agradecer-lhe de uma forma especial: com uns saldos de mudança, com descontos até <strong>70%</strong> em algumas das nossas coleções mais apreciadas.</p><p>A sua lealdade, o seu apoio e as suas palavras carinhosas significaram para nós mais do que alguma vez conseguiremos expressar. Obrigada por fazer parte desta jornada e por permitir que a Carla and Sofia faça parte da sua.</p><p>Com sincera gratidão,<br/><br/><strong>Carla & Sofia</strong><br/><br/>Fundadoras da Carla and Sofia</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mbHjnc",
+        "richtext_m7LiPk"
+      ],
+      "custom_css": [
+        "h2 {color: #c5a059; font-family: \"Playfair Display\", serif !important; border-bottom: 1px solid #c5a059; padding-bottom: 0.35em; display: inline-block; font-size: clamp(28px, 5vw, 40px);}"
+      ],
+      "name": "Rich text",
       "settings": {
-        "collection": "blusen",
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_collection_3efJjq": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "a-arte-do-vestido",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -61,10 +101,75 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "LENTE-HIGHLIGHTS",
-        "content": "",
+        "title": "",
+        "content": "<h3><strong>A ARTE DO VESTIDO</strong></h3>",
         "link_url": "",
-        "link_text": "Alles bekijken",
+        "link_text": "Toda",
+        "background": "rgba(0,0,0,0)",
+        "background_gradient": "",
+        "text_color": "rgba(0,0,0,0)",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "rgba(0,0,0,0)",
+        "product_card_text_color": ""
+      }
+    },
+    "custom_liquid_wzQVgp": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<link href=\"https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;1,400;1,500&display=swap\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n\n<style>\n  .cm-fl {\n    background: #f5f3ed;\n    padding: 64px 16px 48px;\n  }\n\n  .cm-fl__card {\n    max-width: 1040px;\n    margin: 0 auto;\n    background: #fff;\n    border: 1px solid #eceae4;\n    box-shadow: 0 2px 18px rgba(0,0,0,0.05);\n    padding: 48px;\n  }\n\n  .cm-fl__row {\n    display: flex;\n    gap: 48px;\n    align-items: center;\n  }\n\n  .cm-fl__img-col {\n    flex: 0 0 48%;\n  }\n\n  .cm-fl__frame {\n    position: relative;\n    width: 100%;\n  }\n\n  .cm-fl__frame::after {\n    content: \"\";\n    position: absolute;\n    inset: 0;\n    border: 1px solid #c5a059;\n    transform: translate(16px, 16px);\n    z-index: 0;\n  }\n\n  .cm-fl__img {\n    position: relative;\n    z-index: 1;\n    width: 100%;\n    aspect-ratio: 4 / 5;\n    overflow: hidden;\n    background: #f0ede8;\n  }\n\n  .cm-fl__img img {\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n    display: block;\n  }\n\n  .cm-fl__caption {\n    font-size: 11px;\n    font-style: italic;\n    color: #a8a29e;\n    text-align: right;\n    margin: 26px 0 0;\n  }\n\n  .cm-fl__text {\n    flex: 1;\n    font-family: 'Playfair Display', Georgia, serif;\n    text-align: left;\n  }\n\n  .cm-fl__notice {\n    font-size: 10px;\n    font-weight: 600;\n    text-transform: uppercase;\n    letter-spacing: 0.2em;\n    color: #c5a059;\n    margin: 0 0 12px;\n  }\n\n  .cm-fl__heading {\n    font-family: 'Playfair Display', Georgia, serif;\n    font-size: 30px;\n    font-weight: 600;\n    text-transform: uppercase;\n    line-height: 1.2;\n    color: #590c0c;\n    margin: 0 0 22px;\n    margin-top: 0px !important;\n  }\n\n  .cm-fl__quote {\n    font-style: italic;\n    font-weight: 500;\n    color: #590c0c;\n    border-left: 2px solid #c5a059;\n    padding-left: 16px;\n    font-size: 14px;\n    line-height: 1.65;\n    margin: 0 0 22px;\n  }\n\n  .cm-fl__body {\n    font-size: 14px;\n    line-height: 1.7;\n    font-weight: 300;\n    color: #57534e;\n  }\n\n  .cm-fl__body p {\n    margin: 0 0 12px;\n  }\n\n  .cm-fl__body p:last-child {\n    margin-bottom: 0;\n  }\n\n  .cm-fl__body strong {\n    font-weight: 600;\n    color: #590c0c;\n  }\n\n  .cm-fl__sig {\n    display: flex;\n    align-items: center;\n    gap: 14px;\n    margin-top: 28px;\n    padding-top: 22px;\n    border-top: 1px solid #eceae4;\n  }\n\n  .cm-fl__initial {\n    width: 48px;\n    height: 48px;\n    border-radius: 50%;\n    background: #f5f5f4;\n    color: #590c0c;\n    font-family: 'Playfair Display', Georgia, serif;\n    font-style: italic;\n    font-size: 20px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-shrink: 0;\n  }\n\n  .cm-fl__sig-name {\n    font-family: 'Playfair Display', Georgia, serif;\n    font-size: 17px;\n    color: #590c0c;\n    display: block;\n  }\n\n  .cm-fl__sig-title {\n    font-size: 10px;\n    text-transform: uppercase;\n    letter-spacing: 0.05em;\n    color: #a8a29e;\n    display: block;\n    margin-top: 2px;\n  }\n\n  @media (max-width: 820px) {\n    .cm-fl {\n      padding: 40px 14px;\n    }\n\n    .cm-fl__card {\n      padding: 26px;\n    }\n\n    .cm-fl__row {\n      flex-direction: column;\n      gap: 28px;\n    }\n\n    .cm-fl__img-col {\n      flex: none;\n      width: 100%;\n    }\n\n    .cm-fl__heading {\n      font-size: 23px;\n    }\n  }\n</style>\n\n<div class=\"cm-fl\">\n  <div class=\"cm-fl__card\">\n    <div class=\"cm-fl__row\">\n\n  <div class=\"cm-fl__img-col\">\n    <div class=\"cm-fl__frame\">\n      <div class=\"cm-fl__img\">\n        <img\n          src=\"https://cdn.shopify.com/s/files/1/0841/4743/7786/files/ChatGPT_Image_Aug_27_2026_06_28_21_PM.png?v=1787844513\"\n          alt=\"Fundadoras\"\n          loading=\"lazy\"\n        >\n      </div>\n    </div>\n\n    <p class=\"cm-fl__caption\">\n      A nossa família, a nossa história\n    </p>\n  </div>\n\n  <div class=\"cm-fl__text\">\n\n    <p class=\"cm-fl__notice\">\n      Aviso importante\n    </p>\n\n    <h2 class=\"cm-fl__heading\">\n      Reembolsamos cada 5.ª encomenda\n    </h2>\n\n    <p class=\"cm-fl__quote\">\n      É com grande alegria e um toque de nostalgia que iniciamos um novo capítulo.\n      Depois de muitos anos a construir o nosso negócio familiar, queremos celebrar\n      este momento com os clientes que nos têm apoiado.\n    </p>\n\n    <div class=\"cm-fl__body\">\n      <p>\n        Como forma de agradecer a vossa lealdade, oferecemos preços especiais durante\n        estes saldos por tempo limitado. Além disso, reembolsamos\n        <strong>o valor total da compra em cada 5.ª encomenda</strong>.\n      </p>\n    </div>\n\n    <div class=\"cm-fl__sig\">\n      <div class=\"cm-fl__initial\">CS</div>\n\n      <div>\n        <span class=\"cm-fl__sig-name\">\n          Carla & Sofia\n        </span>\n\n        <span class=\"cm-fl__sig-title\">\n          Fundadoras\n        </span>\n      </div>\n    </div>\n\n  </div>\n\n</div>\n\n  </div>\n</div>",
+        "background": "#f5f3ed",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_collection_kEMRtM": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "blazers-estampados",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "<h4>Blazers - 70% DE DESCONTO</h4>",
+        "link_url": "",
+        "link_text": "Toda",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_collection_D4nK4w": {
+      "type": "featured-collection",
+      "disabled": true,
+      "name": "Featured collection",
+      "settings": {
+        "collection": "denim-favoriten",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "<h4>Denim Favoriten - BIS ZU 70 %</h4>",
+        "link_url": "",
+        "link_text": "Alle ansehen",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -80,7 +185,7 @@
         "collection_qHjmLB": {
           "type": "collection",
           "settings": {
-            "collection": "bestsellers-dames",
+            "collection": "damen-bestseller-1",
             "subheading": "",
             "title": "",
             "url": "",
@@ -94,7 +199,7 @@
         "collection_9G8Y47": {
           "type": "collection",
           "settings": {
-            "collection": "bestsellers-heren",
+            "collection": "herren-bestseller",
             "subheading": "",
             "title": "",
             "url": "",
@@ -110,6 +215,7 @@
         "collection_qHjmLB",
         "collection_9G8Y47"
       ],
+      "disabled": true,
       "name": "Collection list",
       "settings": {
         "full_width": true,
@@ -117,8 +223,8 @@
         "collections_per_row_mobile": "1",
         "collections_per_row": 2,
         "show_progress_bar": false,
-        "subheading": "Onze meest geliefde stijlen – nu voor speciale prijzen!",
-        "title": "Bestsellers 2026",
+        "subheading": "",
+        "title": "",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -129,50 +235,23 @@
         "heading_gradient": ""
       }
     },
-    "featured_collection_3efJjq": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "lange-jurken",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Jurken van het moment",
-        "content": "",
-        "link_url": "",
-        "link_text": "Alles bekijken",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "media_with_text_4DxUBb": {
       "type": "media-with-text",
       "blocks": {
         "image_NMb3Kr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/modified_background_F0F0F0.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Über Vistero",
-            "content": "<p>Bei Vistero glauben wir, dass Mode mehr ist als Kleidung – sie ist Ausdruck von Persönlichkeit, Selbstbewusstsein und Stil. Unsere Kollektionen verbinden zeitlose Eleganz mit modernem Design und höchster Qualität.</p><p>Ob für den Alltag, besondere Anlässe oder alles dazwischen – Vistero steht für Mode, die dich inspiriert und dein Auftreten veredelt.</p>",
+            "title": "",
+            "content": "<h3>Willkommen bei ELINORA</h3><p>Wir machen einen grossen nächsten Schritt: <strong>ELINORA wächst weiter.</strong></p><p>Und um dieses schöne Wachstum gemeinsam mit euch zu feiern, starten wir unsere <strong>Growth Party</strong>. 🤍</p><p><strong>Bis zu 70 % Rabatt im gesamten Shop.</strong></p><p>Sorgfältig ausgewählte Styles in begrenzten Mengen – seid schnell, bevor sie vergriffen sind.</p><p>Die gleiche Welt, die ihr liebt – jetzt noch grösser ✦</p><p>Mit Liebe,<br/><br/><strong>Eli & Nora</strong></p>",
             "link_text": "",
             "link_url": "",
-            "background": "#ffffff",
+            "background": "#fef0f4",
             "background_gradient": "",
             "text_color": "#1a1a1a",
             "text_gradient": "",
@@ -191,213 +270,71 @@
         "spacing": "small"
       }
     },
-    "media_grid_CP7cQ3": {
-      "type": "media-grid",
-      "blocks": {
-        "image_78frJJ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Untitled_design_38.webp",
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_YtTY88": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/pexels-tima-miroshnichenko-6169012.webp",
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_nPPQRr": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Untitled_design_42.webp",
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_abFpBQ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Untitled_design_40.webp",
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_78frJJ",
-        "image_YtTY88",
-        "image_nPPQRr",
-        "image_abFpBQ"
-      ],
-      "name": "Media grid",
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
     "ss_scrolling_images_hQeRkh": {
       "type": "ss-scrolling-images",
       "blocks": {
-        "image_4BeWfx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/back_ground_2_1_37da7e7a-f56c-42f7-96b1-7b60eb44c241.webp",
-            "url": ""
-          }
-        },
-        "image_3MiEh9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/pexels-njeromin-21656902_17855670-c94c-41f6-9997-c8db2cad43cb.jpg",
-            "url": ""
-          }
-        },
-        "image_mJyrHd": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/mirror_selfie_dp_for_fb_girl.webp",
-            "url": ""
-          }
-        },
         "image_FmEJXx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/back_ground_2_1_37da7e7a-f56c-42f7-96b1-7b60eb44c241.webp",
             "url": ""
           }
         },
         "image_b8TFzT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/08b7127d961d0089dfd9c666bec25534.webp",
             "url": ""
           }
         },
         "image_pHcYAQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/pexels-tima-miroshnichenko-6169012_07b36b1a-d97b-4a82-bfc5-0db0e547de47.webp",
             "url": ""
           }
         },
         "image_RqKyzi": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/b15df486a502ac840974e8884542f66a.webp",
             "url": ""
           }
         },
         "image_GiV8Ni": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/476003105_17845948758407902_8357618397879265247_n.jpg",
             "url": ""
           }
         },
         "image_ydGqCq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/9741e50e0fa61a32327c4c42c840495d_74ef8fba-d332-460d-8505-1982870864f4.webp",
             "url": ""
           }
         },
         "image_k9MtRj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/a439902d3673bffafd527b1b865339ad.webp",
             "url": ""
           }
         },
         "image_CJwP9y": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/4a96d0fcaa7f9a10611e585dd7cd7b35.webp",
             "url": ""
           }
         },
         "image_fdKTtT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/694ea3ea5f6aef1900f790c8b3338a1d.webp",
             "url": ""
           }
         },
         "image_WCrqCF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/475944174_17845949172407902_3817677168902999382_n.jpg",
             "url": ""
           }
         }
       },
       "block_order": [
-        "image_4BeWfx",
-        "image_3MiEh9",
-        "image_mJyrHd",
         "image_FmEJXx",
         "image_b8TFzT",
         "image_pHcYAQ",
@@ -409,6 +346,7 @@
         "image_fdKTtT",
         "image_WCrqCF"
       ],
+      "disabled": true,
       "name": "SS - Scrolling images",
       "settings": {
         "heading": "",
@@ -417,7 +355,7 @@
         "heading_size": 40,
         "heading_height": 130,
         "heading_align": "center",
-        "slider_speed": 23,
+        "slider_speed": 22,
         "slider_gap": 10,
         "slider_gap_mobile": 10,
         "slider_mt": 50,
@@ -438,7 +376,7 @@
         "content_radius": 10,
         "content_border_thickness": 0,
         "use_shadow": true,
-        "text": "<p>Met meer dan <strong>9.000+</strong> klanten wereldwijd is de community rond Vestiri groter dan ooit.</p>",
+        "text": "<p>Mit über<strong> 9.000+</strong> Kundinnen und Kunden weltweit ist die Gemeinschaft rund um <strong>Vistero</strong> grösser denn je.</p>",
         "text_custom": false,
         "text_font": "assistant_n4",
         "text_size": 14,
@@ -489,10 +427,9 @@
         "image_fCPRg3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/christin-hume-hBuwVLcYTnA-unsplash.webp",
             "title": "Arbeite bi üs",
             "heading_tag": "h4",
-            "link_url": "shopify://pages/werken-bij-ons",
+            "link_url": "shopify://pages/karriere-bei-eli-nora",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -511,7 +448,6 @@
         "image_EqxVa6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/rer.avif",
             "title": "Contact",
             "heading_tag": "h4",
             "link_url": "shopify://pages/contact",
@@ -533,10 +469,9 @@
         "image_cXUPyp": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/iStock-1306620421_1.webp",
             "title": "Versandpolitik",
             "heading_tag": "h4",
-            "link_url": "shopify://pages/verzending-levering",
+            "link_url": "shopify://pages/versandpolitik",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -570,82 +505,66 @@
         "background_gradient": ""
       }
     },
-    "26_ED9tL3": {
+    "26_TKp4rw": {
       "type": "26",
       "blocks": {
-        "heading_jiA73n": {
+        "heading_CNyHeT": {
           "type": "heading",
           "settings": {
-            "heading": "<h2><strong>Veelgestelde vragen</strong></h2>",
+            "heading": "<p>Perguntas Frequentes</p>",
             "heading_custom": true,
-            "heading_font": "inter_n7",
-            "heading_size": 44,
-            "heading_size_mobile": 26,
+            "heading_font": "playfair_display_n5",
+            "heading_size": 38,
+            "heading_size_mobile": 28,
             "heading_height": 130,
             "heading_mt": 0,
             "heading_mt_mobile": 0,
             "heading_align": "left",
             "heading_align_mobile": "center",
-            "heading_color": "#005c53"
+            "heading_color": "#1a1a1a"
           }
         },
-        "item_eGiJ6A": {
+        "item_UPPXxM": {
           "type": "item",
           "settings": {
-            "question": "Wat is de levertijd?",
-            "answer": "<p>Wij leveren de artikelen die op voorraad zijn doorgaans binnen 6-9 dagen.</p>"
+            "question": "Qual é o prazo de entrega?",
+            "answer": "<p>Normalmente, entregamos os artigos em stock no prazo de <strong>6–9 dias</strong>.</p>"
           }
         },
-        "item_RpKRLM": {
+        "item_8dNpKA": {
           "type": "item",
           "settings": {
-            "question": "Hoe kan ik mijn bestelling volgen?",
-            "answer": "<p>Om de leveringsstatus van je bestelling te controleren, kun je de verzendbevestiging bekijken die je per e-mail hebt ontvangen.</p><p>Voor elk pakket dat wordt verzonden, ontvang je een e-mail met een bevestiging die een trackinglink bevat.</p><p>Deze e-mail wordt verzonden zodra je bestelling is verwerkt en verzonden. Gebruik de trackinglink om je pakket in realtime te volgen.</p>"
+            "question": "Como posso solicitar uma devolução?",
+            "answer": "<p>Se a sua encomenda for elegível para devolução, envie-nos um e-mail através da secção <strong>«Contacto»</strong> no nosso website. Nesse e-mail, indique o número da encomenda, o motivo da devolução, uma fotografia do produto caso esteja danificado, bem como o nome completo e a morada do cliente. Em seguida, entraremos em contacto consigo e forneceremos a morada para a devolução.</p>"
           }
         },
-        "item_T6mUJM": {
+        "item_VWRcJj": {
           "type": "item",
           "settings": {
-            "question": "Hoe vraag ik een retour aan?",
-            "answer": "<p>Als je bestelling in aanmerking komt voor retournering, volg dan deze stappen om het proces te starten:</p><ul><li>Stuur een e-mail via de sectie \"Contact\" op onze website.</li><li>Vermeld in deze e-mail de volgende gegevens:</li><li>Bestelnummer</li><li>Reden van retour</li><li>Foto van het product (indien beschadigd)</li><li>Voor- en achternaam van de klant</li><li>Adres van de klant<br/></li></ul><p>Wij nemen daarna contact met je op om je het retouradres te geven.</p>"
+            "question": "Como recebo o meu reembolso?",
+            "answer": "<p>O reembolso é sempre efetuado através do mesmo método de pagamento utilizado na compra. Se tiver pago com cartão de crédito, o valor correspondente aos artigos devolvidos será reembolsado diretamente para o seu cartão de crédito.</p>"
           }
         },
-        "item_AQbkPV": {
+        "item_WRAeiK": {
           "type": "item",
           "settings": {
-            "question": "Hoe ontvang ik mijn terugbetaling?",
-            "answer": "<p>De terugbetaling gebeurt altijd via de betaalmethode die je hebt gebruikt.</p><p>Als je met een creditcard hebt betaald, wordt het bedrag voor de geretourneerde artikelen direct teruggestort op je creditcard.</p><p>Als je met iDEAL of Bancontact hebt betaald, wordt het bedrag teruggestort op de rekening die aan deze betaalmethode is gekoppeld.</p>"
-          }
-        },
-        "item_kpfUgh": {
-          "type": "item",
-          "settings": {
-            "question": "Welke betaalmethoden accepteren wij?",
-            "answer": "<p>Je kunt kiezen uit de volgende betaalmethoden: creditcard (Visa, Mastercard, AMEX), Google Pay, Apple Pay, iDEAL en Bancontact.</p>"
-          }
-        },
-        "item_apWW9D": {
-          "type": "item",
-          "settings": {
-            "question": "Waarom is mijn creditcardbetaling geweigerd?",
-            "answer": "<p>Er kunnen verschillende redenen zijn waarom je betaling met creditcard is mislukt. Dit kan komen door algemene technische problemen, invoerfouten, een verlopen of geblokkeerde kaart of onvoldoende saldo. We raden aan om je kaartgegevens te controleren of een andere betaalmethode te proberen.</p>"
+            "question": "Quais são os métodos de pagamento aceites?",
+            "answer": "<p>Pode escolher entre os seguintes métodos de pagamento: <strong>Cartão de crédito (Visa, Mastercard, AMEX), Google Pay, Apple Pay e Multibanco</strong>.</p>"
           }
         }
       },
       "block_order": [
-        "heading_jiA73n",
-        "item_eGiJ6A",
-        "item_RpKRLM",
-        "item_T6mUJM",
-        "item_AQbkPV",
-        "item_kpfUgh",
-        "item_apWW9D"
+        "heading_CNyHeT",
+        "item_UPPXxM",
+        "item_8dNpKA",
+        "item_VWRcJj",
+        "item_WRAeiK"
       ],
       "name": "SS - FAQ #9",
       "settings": {
         "body_gap": 30,
         "body_gap_mobile": 20,
-        "body_radius": 40,
+        "body_radius": 0,
         "faq_position": "bottom",
         "faq_position_mobile": "bottom",
         "item_padding_vertical": 20,
@@ -657,32 +576,32 @@
         "item_border_thickness": 0,
         "item_shadow": true,
         "question_custom": true,
-        "question_font": "inter_n5",
+        "question_font": "montserrat_n5",
         "question_size": 18,
         "question_size_mobile": 14,
         "question_height": 130,
         "arrow_size": 24,
         "arrow_size_mobile": 24,
         "arrow_border_thickness": 0,
-        "answer_custom": true,
-        "answer_font": "inter_n4",
+        "answer_custom": false,
+        "answer_font": "josefin_sans_n4",
         "answer_size": 16,
         "answer_size_mobile": 12,
         "answer_height": 170,
         "answer_padding_top": 16,
         "item_bg_color": "#ffffff",
         "item_border_color": "#000000",
-        "question_color": "#005c53",
+        "question_color": "#1a1a1a",
         "arrow_color": "#757575",
         "arrow_border_color": "#6c584c",
         "answer_color": "#757575",
-        "background_color": "#f0f3f4",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
-        "margin_top": 16,
-        "margin_bottom": 16,
-        "margin_horizontal": 4,
-        "margin_horizontal_mobile": 1.5,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
         "padding_top": 60,
         "padding_bottom": 60,
         "padding_horizontal": 6,
@@ -691,17 +610,96 @@
         "content_width": 120,
         "border_thickness": 0
       }
+    },
+    "custom_html_HWpjDf": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "html": "<style>\n  .cm-ti {\n    padding: 10px 24px 58px;\n    background: #fafafa;\n  }\n  .cm-ti__inner {\n    max-width: 1200px;\n    margin: 0 auto;\n    display: flex;\n    justify-content: center;\n    align-items: stretch;\n  }\n  .cm-ti__item {\n    flex: 1;\n    text-align: center;\n    padding: 0 54px;\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: flex-start;\n  }\n  .cm-ti__img {\n    width: 64px;\n    height: 64px;\n    min-width: 64px;\n    margin: 0 auto;\n    border-radius: 50%;\n    border: 1px solid #e7e5e4;\n    background: #faf9f7;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    overflow: hidden;\n  }\n  .cm-ti__img img {\n    width: 100%;\n    height: 100%;\n    object-fit: contain;\n    display: block;\n    padding: 13px;\n    box-sizing: border-box;\n  }\n  .cm-ti__h {\n    margin-top: 15px !important;\n    font-size: 12px;\n    font-weight: 700 !important;\n    letter-spacing: 0.05em;\n    text-transform: uppercase;\n    font-family: 'Montserrat', serif;\n    color: #590c0c;\n    margin-bottom: 12px !important;\n    line-height: 1.35;\n  }\n  .cm-ti__d {\n    font-family: 'Montserrat', sans-serif;\n    font-size: 12px;\n    line-height: 1.55;\n    font-weight: 400;\n    color: #8c817c;\n    margin: 0 auto;\n    max-width: 245px;\n  }\n  .cm-ti__div {\n    width: 1px;\n    background: #e7e5e4;\n    flex-shrink: 0;\n    align-self: stretch;\n    margin: 2px 0;\n  }\n\n  /* TABLET */\n  @media screen and (max-width: 900px) {\n    .cm-ti__item {\n      padding: 0 28px;\n    }\n  }\n\n  /* MOBILE */\n  @media screen and (max-width: 640px) {\n    .cm-ti {\n      padding: 42px 20px;\n    }\n    .cm-ti__inner {\n      flex-direction: column;\n      align-items: center;\n      gap: 28px;\n    }\n    .cm-ti__item {\n      width: 100%;\n      max-width: 320px;\n      padding: 0;\n    }\n    .cm-ti__div {\n      width: 60px;\n      height: 1px;\n      min-height: 0;\n      align-self: center;\n      margin: 0;\n    }\n    .cm-ti__d {\n      max-width: 270px;\n    }\n  }\n</style>\n\n<div class=\"cm-ti\">\n  <div class=\"cm-ti__inner\">\n\n<!-- ENTREGA GRÁTIS -->\n<div class=\"cm-ti__item\">\n  <div class=\"cm-ti__img\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0841/4743/7786/files/images.png?v=1787760342\" alt=\"Entrega grátis com CTT\" loading=\"lazy\" width=\"64\" height=\"64\">\n  </div>\n  <h5 class=\"cm-ti__h\">\n    Entrega grátis com CTT\n  </h5>\n  <p class=\"cm-ti__d\">\n    Enviamos a sua encomenda de forma rápida e segura com os CTT. Entrega grátis em todas as encomendas.\n  </p>\n</div>\n\n<div class=\"cm-ti__div\"></div>\n\n<!-- PAGAMENTO SEGURO -->\n<div class=\"cm-ti__item\">\n  <div class=\"cm-ti__img\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0841/4743/7786/files/2.avif?v=1787760248\" alt=\"Pagamento seguro\" loading=\"lazy\" width=\"64\" height=\"64\">\n  </div>\n  <h5 class=\"cm-ti__h\">\n    Pagamento seguro\n  </h5>\n  <p class=\"cm-ti__d\">\n    O seu pagamento está protegido por tecnologia de segurança moderna, para que possa comprar com total confiança.\n  </p>\n</div>\n\n<div class=\"cm-ti__div\"></div>\n\n<!-- GARANTIA DE 30 DIAS -->\n<div class=\"cm-ti__item\">\n  <div class=\"cm-ti__img\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0841/4743/7786/files/1.avif?v=1787760248\" alt=\"Garantia de reembolso de 30 dias\" loading=\"lazy\" width=\"64\" height=\"64\">\n  </div>\n  <h5 class=\"cm-ti__h\">\n    Garantia de reembolso de 30 dias\n  </h5>\n  <p class=\"cm-ti__d\">\n    Compre com confiança. Pode devolver ou trocar a sua encomenda no prazo de 30 dias, caso não fique satisfeito.\n  </p>\n</div>\n</div>\n</div>",
+        "background": "#fafafa",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "text_with_icons_Ueiy4i": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_aJF4ty": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "30-Tage-Geld-zurück-Garantie",
+            "content": "<p>Du hast es dir anders überlegt? Kein Stress. Sende unbenutzte Artikel innerhalb von 30 Tagen zurück und erhalte dein Geld zurück – einfach und unkompliziert.</p>"
+          }
+        },
+        "item_MkEqMr": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Kostenloser Versand in der ganzen Schweiz",
+            "content": "<p>Auf Anfrage versenden wir weltweit – innerhalb der Schweiz bieten wir kostenlosen Versand an.</p>"
+          }
+        },
+        "item_hQnDPn": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 36,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Schneller und freundlicher Support",
+            "content": "<p>Brauchst du Hilfe bei der Grösse oder deiner Bestellung? Unser Team ist gerne für dich da – schnell und aufmerksam.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_aJF4ty",
+        "item_MkEqMr",
+        "item_hQnDPn"
+      ],
+      "disabled": true,
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "#fef0f4",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
-    "video_HGRQBG",
-    "featured_collection_kEMRtM",
-    "collection_list_QRck8W",
+    "slideshow_VLYwkh",
+    "rich_text_iBA7Lb",
     "featured_collection_3efJjq",
+    "custom_liquid_wzQVgp",
+    "featured_collection_kEMRtM",
+    "featured_collection_D4nK4w",
+    "collection_list_QRck8W",
     "media_with_text_4DxUBb",
-    "media_grid_CP7cQ3",
     "ss_scrolling_images_hQeRkh",
     "media_grid_L7f4DH",
-    "26_ED9tL3"
+    "26_TKp4rw",
+    "custom_html_HWpjDf",
+    "text_with_icons_Ueiy4i"
   ]
 }
