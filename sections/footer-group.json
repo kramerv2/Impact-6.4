@@ -16,17 +16,8 @@
       "blocks": {
         "links_L4R9qx": {
           "type": "links",
-          "disabled": true,
           "settings": {
             "menu": "main-menu",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
-        },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
             "show_menu_title": true,
             "menu_title": ""
           }
@@ -35,15 +26,24 @@
           "type": "text",
           "settings": {
             "title": "Klantenondersteuning",
-            "content": "<p>Reken op ons voor 24/7 ondersteuning.<br/><br/>Onze klantenservice staat klaar om u overal mee te helpen.</p><p>🕒 <strong>Openingstijden:</strong><br/><br/>Maandag – vrijdag: 09:00 – 18:00 CET<br/>Zaterdag: 09:00 – 17:00 CET<br/>Zondag: 10:00 – 16:00 CET</p><p>✉️ <strong>Contact:</strong> <a>contact@vestiri.nl</a><br/>📍 <strong>Locatie:</strong> Amsterdam, 🇳🇱</p>",
+            "content": "<p><strong>Maandag t/m vrijdag: 09:00 - 17:00</strong><br/><strong>Zaterdag en zondag: 12:00 - 16:00</strong></p><p>Bij Carla & Sofia staan we elke dag voor u klaar. Heeft u een vraag of heeft u hulp nodig? Neem gerust contact met ons op — ons team helpt u graag verder.</p><p>📧 <a href=\"mailto:contact@carlaesofia.com\">contact@carlaesofia.com</a><br/>📍 Amsterdam, Nederland</p>",
             "enable_follow_on_shop": false
+          }
+        },
+        "newsletter_TYgkAH": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Ontvang € 100 winkeltegoed",
+            "content": "<p>Elke maand geven we € 100 winkeltegoed weg aan één van onze trouwe abonnees!</p>"
           }
         }
       },
       "block_order": [
         "links_L4R9qx",
-        "links",
-        "text_nhchfD"
+        "text_nhchfD",
+        "newsletter_TYgkAH"
       ],
       "settings": {
         "show_social_media": false,
