@@ -17,29 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "30 DAGEN GELD-TERUG-GARANTIE",
+            "text": "WE GAAN VERHUIZEN – BESPAAR TOT 70%",
             "url": ""
           }
         },
         "message_hjBBBN": {
           "type": "message",
           "settings": {
-            "text": "4,7/5 GEBASEERD OP 1100+ BEOORDELINGEN",
-            "url": ""
-          }
-        },
-        "message_aMAeLe": {
-          "type": "message",
-          "settings": {
-            "text": "10% KORTING BIJ AANKOOP VAN 2 STUKS",
+            "text": "15% KORTING BIJ AANKOOP VAN 2 ARTIKELEN",
             "url": ""
           }
         }
       },
       "block_order": [
         "message",
-        "message_hjBBBN",
-        "message_aMAeLe"
+        "message_hjBBBN"
       ],
       "settings": {
         "enable_sticky": false,
@@ -48,13 +40,16 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 15,
-        "background": "#2a555a",
+        "background": "#590C0C",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        "nav a {font-weight: 500;}"
+      ],
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
