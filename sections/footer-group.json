@@ -14,20 +14,20 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "links_L4R9qx": {
-          "type": "links",
-          "settings": {
-            "menu": "main-menu",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
-        },
         "text_nhchfD": {
           "type": "text",
           "settings": {
             "title": "Klantenondersteuning",
             "content": "<p><strong>Maandag t/m vrijdag: 09:00 - 17:00</strong><br/><strong>Zaterdag en zondag: 12:00 - 16:00</strong></p><p>Bij Carla & Sofia staan we elke dag voor u klaar. Heeft u een vraag of heeft u hulp nodig? Neem gerust contact met ons op — ons team helpt u graag verder.</p><p>📧 <a href=\"mailto:contact@carlaesofia.com\">contact@carlaesofia.com</a><br/>📍 Amsterdam, Nederland</p>",
             "enable_follow_on_shop": false
+          }
+        },
+        "links_L4R9qx": {
+          "type": "links",
+          "settings": {
+            "menu": "beleid",
+            "show_menu_title": true,
+            "menu_title": ""
           }
         },
         "newsletter_TYgkAH": {
@@ -41,8 +41,8 @@
         }
       },
       "block_order": [
-        "links_L4R9qx",
         "text_nhchfD",
+        "links_L4R9qx",
         "newsletter_TYgkAH"
       ],
       "settings": {
