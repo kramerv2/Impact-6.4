@@ -10054,3 +10054,10 @@ cart-drawer .h5 {
   text-transform: none !important;
   letter-spacing: normal !important;
 }
+:root {
+  --trust-badge-offset-y: 0px;
+}
+
+.giraffly-trust-badge-6a9428300f102-31227459-361788094512 {
+  transform: translateY(var(--trust-badge-offset-y));
+}
