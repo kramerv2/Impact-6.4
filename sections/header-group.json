@@ -17,14 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "WE GAAN VERHUIZEN – BESPAAR TOT 70%",
+            "text": "PRZEPROWADZAMY SIĘ – OSZCZĘDŹ DO 70%",
             "url": ""
           }
         },
         "message_hjBBBN": {
           "type": "message",
           "settings": {
-            "text": "15% KORTING BIJ AANKOOP VAN 2 ARTIKELEN",
+            "text": "15% ZNIŻKI PRZY ZAKUPIE 2 PRODUKTÓW",
             "url": ""
           }
         }
@@ -40,7 +40,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 15,
-        "background": "#590C0C",
+        "background": "#590c0c",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -53,6 +53,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
+        "logo": "shopify://shop_images/8984e8d2-1da4-48ac-956e-c788a171ce9d.png",
         "logo_max_width": 160,
         "logo_mobile_max_width": 135,
         "menu": "main-menu",

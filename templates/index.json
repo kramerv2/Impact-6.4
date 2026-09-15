@@ -19,8 +19,8 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "VERHUIZINGSUITVERKOOP",
-            "title": "Tot 70% korting – Beperkte voorraad",
+            "subheading": "WYPRZEDAŻ Z POWODU PRZEPROWADZKI",
+            "title": "Do 70% zniżki – ograniczone zapasy",
             "heading_tag": "h4",
             "button_text": "Comprar agora",
             "button_link": "https://carlaesofia.com/collections",
@@ -57,7 +57,7 @@
         "heading_mbHjnc": {
           "type": "heading",
           "settings": {
-            "text": "Welkom bij Carla & Sofia",
+            "text": "Witamy w Anna & Lena",
             "heading_tag": "h3",
             "text_color": "#c5a059",
             "gradient": ""
@@ -66,7 +66,7 @@
         "richtext_m7LiPk": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Sinds 1999 hebben we één duidelijk doel: iedere vrouw helpen zich zelfverzekerd en comfortabel te voelen in wat ze draagt — elke dag opnieuw.</p><p>Door de jaren heen is <strong>Carla & Sofia</strong> uitgegroeid tot een vertrouwde bestemming voor tijdloze en zorgvuldig ontworpen damesmode: jurken, sets, blouses en stijlvolle kleding voor elke dag, gemaakt met veel aandacht voor kwaliteit, vakmanschap en ingetogen elegantie.</p><p>Nu we ons voorbereiden om <strong>Carla & Sofia</strong> te verhuizen naar een grotere locatie hier in <strong>Amsterdam</strong>, willen we u op een bijzondere manier bedanken: met onze <strong>verhuisuitverkoop</strong>, waarbij u op een aantal van onze meest geliefde collecties tot wel <strong>70% korting</strong> ontvangt.</p><p>Uw loyaliteit, steun en warme woorden betekenen meer voor ons dan we ooit volledig kunnen uitdrukken. Bedankt dat u deel uitmaakt van onze reis en dat u <strong>Carla & Sofia</strong> een plekje in uw leven heeft gegeven.</p><p>Met oprechte dankbaarheid,</p><p><strong>Carla & Sofia</strong><br/>Oprichters van Carla & Sofia</p>"
+            "content": "<p>Od 1999 roku przyświeca nam jeden jasny cel: pomagać każdej kobiecie czuć się pewnie i komfortowo w tym, co nosi — każdego dnia.</p><p>Na przestrzeni lat <strong>Anna & Lena</strong> stała się zaufanym miejscem oferującym ponadczasową i starannie zaprojektowaną modę damską: sukienki, komplety, bluzki oraz stylowe ubrania na co dzień, tworzone z ogromną dbałością o jakość, kunszt wykonania i subtelną elegancję.</p><p>Ponieważ przygotowujemy się do przeniesienia <strong>Anna & Lena</strong> do większego lokalu tutaj, w <strong>Warszawie</strong>, chcemy podziękować Państwu w wyjątkowy sposób: organizując <strong>wyprzedaż z powodu przeprowadzki</strong>, podczas której mogą Państwo otrzymać nawet <strong>70% zniżki</strong> na wybrane produkty z naszych najbardziej cenionych kolekcji.</p><p>Państwa lojalność, wsparcie i ciepłe słowa znaczą dla nas więcej, niż jesteśmy w stanie wyrazić. Dziękujemy, że są Państwo częścią naszej historii i że znaleźli Państwo miejsce dla <strong>Anna & Lena</strong> w swoim życiu.</p><p>Z wyrazami szczerej wdzięczności,</p><p><strong>Anna & Lena</strong><br/><br/>Założycielki Anna & Lena</p>"
           }
         }
       },
@@ -101,9 +101,9 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h3><strong>DE KUNST VAN DE JURK</strong></h3>",
+        "content": "<h2><strong>SZTUKA SUKIENKI</strong></h2>",
         "link_url": "",
-        "link_text": "Toda",
+        "link_text": "Cała",
         "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": "rgba(0,0,0,0)",
@@ -139,9 +139,9 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h4>Blazers - 70% KORTING</h4>",
+        "content": "<h4>Marynarki – 70% ZNIŻKI</h4>",
         "link_url": "",
-        "link_text": "Toda",
+        "link_text": "Cała",
         "background": "",
         "background_gradient": "",
         "text_color": "",
