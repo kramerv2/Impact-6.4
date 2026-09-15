@@ -128,6 +128,7 @@
     },
     "featured_collection_kEMRtM": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "blazers-estampados",
         "products": [],
