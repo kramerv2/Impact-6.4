@@ -11,6 +11,34 @@
   "type": "header",
   "name": "Header group",
   "sections": {
+    "header": {
+      "type": "header",
+      "custom_css": [
+        "nav a {font-weight: 500;}"
+      ],
+      "settings": {
+        "enable_sticky": true,
+        "hide_on_scroll": false,
+        "logo": "shopify://shop_images/8984e8d2-1da4-48ac-956e-c788a171ce9d.png",
+        "logo_max_width": 160,
+        "logo_mobile_max_width": 135,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "secondary_menu": "",
+        "menu_open_trigger": "click",
+        "opening_from": "left",
+        "layout": "logo_left_navigation_center",
+        "show_social_media": true,
+        "show_locale_selector": false,
+        "show_country_selector": false,
+        "show_country_flag": false,
+        "show_country_name": false,
+        "transparent_header_text_color": "#FFFFFF",
+        "reduce_padding": true,
+        "background_opacity": 40,
+        "background_blur_radius": 10
+      }
+    },
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
@@ -44,38 +72,10 @@
         "background_gradient": "",
         "text_color": "#ffffff"
       }
-    },
-    "header": {
-      "type": "header",
-      "custom_css": [
-        "nav a {font-weight: 500;}"
-      ],
-      "settings": {
-        "enable_sticky": true,
-        "hide_on_scroll": false,
-        "logo": "shopify://shop_images/8984e8d2-1da4-48ac-956e-c788a171ce9d.png",
-        "logo_max_width": 160,
-        "logo_mobile_max_width": 135,
-        "menu": "main-menu",
-        "sidebar_menu": "",
-        "secondary_menu": "",
-        "menu_open_trigger": "click",
-        "opening_from": "left",
-        "layout": "logo_left_navigation_center",
-        "show_social_media": true,
-        "show_locale_selector": false,
-        "show_country_selector": false,
-        "show_country_flag": false,
-        "show_country_name": false,
-        "transparent_header_text_color": "#ffffff",
-        "reduce_padding": true,
-        "background_opacity": 40,
-        "background_blur_radius": 10
-      }
     }
   },
   "order": [
-    "announcement-bar",
-    "header"
+    "header",
+    "announcement-bar"
   ]
 }
