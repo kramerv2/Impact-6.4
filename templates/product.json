@@ -362,6 +362,112 @@
         "text_color": ""
       }
     },
+    "26_Jdr3h9": {
+      "type": "26",
+      "blocks": {
+        "heading_pzVVmB": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Najczęściej zadawane pytania</p>",
+            "heading_custom": true,
+            "heading_font": "playfair_display_n5",
+            "heading_size": 38,
+            "heading_size_mobile": 28,
+            "heading_height": 130,
+            "heading_mt": 0,
+            "heading_mt_mobile": 0,
+            "heading_align": "left",
+            "heading_align_mobile": "center",
+            "heading_color": "#1a1a1a"
+          }
+        },
+        "item_kcw7eK": {
+          "type": "item",
+          "settings": {
+            "question": "Jaki jest czas dostawy?",
+            "answer": "<p>Produkty dostępne w magazynie są zazwyczaj dostarczane w ciągu <strong>6–9 dni roboczych</strong>.</p>"
+          }
+        },
+        "item_cwRTFX": {
+          "type": "item",
+          "settings": {
+            "question": "Jak mogę zgłosić zwrot?",
+            "answer": "<p>Jeśli Państwa zamówienie kwalifikuje się do zwrotu, mogą Państwo wysłać do nas wiadomość e-mail za pośrednictwem sekcji <strong>„Kontakt”</strong> na naszej stronie internetowej. W wiadomości należy podać numer zamówienia, przyczynę zwrotu, zdjęcie produktu, jeśli jest uszkodzony, a także swoje imię i nazwisko oraz pełny adres. Następnie skontaktujemy się z Państwem i przekażemy adres do dokonania zwrotu.</p>"
+          }
+        },
+        "item_Rdwgwm": {
+          "type": "item",
+          "settings": {
+            "question": "Jak otrzymam zwrot pieniędzy?",
+            "answer": "<p>Zwrot pieniędzy jest zawsze dokonywany przy użyciu tej samej metody płatności, która została wykorzystana podczas zakupu. Jeśli zapłacili Państwo kartą kredytową, kwota za zwrócone produkty zostanie zwrócona bezpośrednio na tę kartę.</p>"
+          }
+        },
+        "item_iQtMT6": {
+          "type": "item",
+          "settings": {
+            "question": "Jakie metody płatności są akceptowane?",
+            "answer": "<p>Mogą Państwo wybrać jedną z następujących metod płatności: <strong>karta płatnicza (Visa, Mastercard, AMEX), Google Pay, Apple Pay, BLIK oraz</strong>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pzVVmB",
+        "item_kcw7eK",
+        "item_cwRTFX",
+        "item_Rdwgwm",
+        "item_iQtMT6"
+      ],
+      "name": "SS - FAQ #9",
+      "settings": {
+        "body_gap": 30,
+        "body_gap_mobile": 20,
+        "body_radius": 0,
+        "faq_position": "bottom",
+        "faq_position_mobile": "bottom",
+        "item_padding_vertical": 20,
+        "item_padding_vertical_mobile": 20,
+        "item_padding_horizontal": 20,
+        "item_padding_horizontal_mobile": 20,
+        "item_mt": 10,
+        "item_radius": 10,
+        "item_border_thickness": 0,
+        "item_shadow": true,
+        "question_custom": true,
+        "question_font": "montserrat_n5",
+        "question_size": 18,
+        "question_size_mobile": 14,
+        "question_height": 130,
+        "arrow_size": 24,
+        "arrow_size_mobile": 24,
+        "arrow_border_thickness": 0,
+        "answer_custom": false,
+        "answer_font": "josefin_sans_n4",
+        "answer_size": 16,
+        "answer_size_mobile": 12,
+        "answer_height": 170,
+        "answer_padding_top": 16,
+        "item_bg_color": "#ffffff",
+        "item_border_color": "#000000",
+        "question_color": "#1a1a1a",
+        "arrow_color": "#757575",
+        "arrow_border_color": "#6c584c",
+        "answer_color": "#757575",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_horizontal": 6,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0
+      }
+    },
     "featured_collection_bKNqUk": {
       "type": "featured-collection",
       "disabled": true,
@@ -878,129 +984,6 @@
         "background_gradient": ""
       }
     },
-    "26_ttpNp6": {
-      "type": "26",
-      "blocks": {
-        "heading_kgPttR": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Perguntas Frequentes</p>",
-            "heading_custom": true,
-            "heading_font": "playfair_display_n5",
-            "heading_size": 36,
-            "heading_size_mobile": 28,
-            "heading_height": 130,
-            "heading_mt": 0,
-            "heading_mt_mobile": 0,
-            "heading_align": "left",
-            "heading_align_mobile": "center",
-            "heading_color": "#111111"
-          }
-        },
-        "text_YFtURC": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_custom": false,
-            "text_font": "josefin_sans_n4",
-            "text_size": 18,
-            "text_size_mobile": 16,
-            "text_height": 130,
-            "text_mt": 20,
-            "text_mt_mobile": 20,
-            "text_align": "left",
-            "text_align_mobile": "center",
-            "text_color": "#757575"
-          }
-        },
-        "item_TKqTLn": {
-          "type": "item",
-          "settings": {
-            "question": "Qual é o prazo de entrega?",
-            "answer": "<p>Normalmente, entregamos os artigos em stock no prazo de <strong>6–9 dias</strong>.</p>"
-          }
-        },
-        "item_XGVmCe": {
-          "type": "item",
-          "settings": {
-            "question": "Como posso solicitar uma devolução?",
-            "answer": "<p>Se a sua encomenda for elegível para devolução, envie-nos um e-mail através da secção <strong>«Contacto»</strong> no nosso website. Nesse e-mail, indique o número da encomenda, o motivo da devolução, uma fotografia do produto caso esteja danificado, bem como o nome completo e a morada do cliente. Em seguida, entraremos em contacto consigo e forneceremos a morada para a devolução.</p>"
-          }
-        },
-        "item_rjN4FQ": {
-          "type": "item",
-          "settings": {
-            "question": "Como recebo o meu reembolso?",
-            "answer": "<p>O reembolso é sempre efetuado através do mesmo método de pagamento utilizado na compra. Se tiver pago com cartão de crédito, o valor correspondente aos artigos devolvidos será reembolsado diretamente para o seu cartão de crédito.</p>"
-          }
-        },
-        "item_HYCa36": {
-          "type": "item",
-          "settings": {
-            "question": "Quais são os métodos de pagamento aceites?",
-            "answer": "<p>Pode escolher entre os seguintes métodos de pagamento: <strong>Cartão de crédito (Visa, Mastercard, AMEX), Google Pay, Apple Pay e Multibanco</strong>.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_kgPttR",
-        "text_YFtURC",
-        "item_TKqTLn",
-        "item_XGVmCe",
-        "item_rjN4FQ",
-        "item_HYCa36"
-      ],
-      "name": "SS - FAQ #9",
-      "settings": {
-        "body_gap": 28,
-        "body_gap_mobile": 20,
-        "body_radius": 0,
-        "faq_position": "bottom",
-        "faq_position_mobile": "bottom",
-        "item_padding_vertical": 20,
-        "item_padding_vertical_mobile": 20,
-        "item_padding_horizontal": 20,
-        "item_padding_horizontal_mobile": 20,
-        "item_mt": 10,
-        "item_radius": 10,
-        "item_border_thickness": 0,
-        "item_shadow": true,
-        "question_custom": true,
-        "question_font": "montserrat_n5",
-        "question_size": 18,
-        "question_size_mobile": 14,
-        "question_height": 130,
-        "arrow_size": 24,
-        "arrow_size_mobile": 24,
-        "arrow_border_thickness": 0,
-        "answer_custom": false,
-        "answer_font": "josefin_sans_n4",
-        "answer_size": 16,
-        "answer_size_mobile": 12,
-        "answer_height": 170,
-        "answer_padding_top": 16,
-        "item_bg_color": "#ffffff",
-        "item_border_color": "#000000",
-        "question_color": "#1a1a1a",
-        "arrow_color": "#757575",
-        "arrow_border_color": "#6c584c",
-        "answer_color": "#757575",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#111111",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "margin_horizontal": 0,
-        "margin_horizontal_mobile": 0,
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "padding_horizontal": 6,
-        "padding_horizontal_mobile": 1.5,
-        "full_width": true,
-        "content_width": 400,
-        "border_thickness": 0
-      }
-    },
     "text_with_icons_dwBAcW": {
       "type": "text-with-icons",
       "blocks": {
@@ -1075,13 +1058,13 @@
     "slideshow_GRfPCa",
     "related_products_VLHTa6",
     "custom_liquid_Apdzet",
+    "26_Jdr3h9",
     "featured_collection_bKNqUk",
     "media_with_text_RUgUML",
     "testimonials_keBKgy",
     "37_e6aRrP",
     "ss_scrolling_images_pgDAnm",
     "slideshow_79VL8M",
-    "26_ttpNp6",
     "text_with_icons_dwBAcW"
   ]
 }
