@@ -17,8 +17,8 @@
         "text_nhchfD": {
           "type": "text",
           "settings": {
-            "title": "Klantenondersteuning",
-            "content": "<p><strong>Maandag t/m vrijdag: 09:00 - 17:00</strong><br/><strong>Zaterdag en zondag: 12:00 - 16:00</strong></p><p>Bij Carla & Sofia staan we elke dag voor u klaar. Heeft u een vraag of heeft u hulp nodig? Neem gerust contact met ons op — ons team helpt u graag verder.</p><p>📧 <a href=\"mailto:contact@carlaesofia.com\">contact@carlaesofia.com</a><br/>📍 Amsterdam, Nederland</p>",
+            "title": "Obsługa klienta",
+            "content": "<p><strong>Od poniedziałku do piątku: 09:00–17:00</strong><br/><br/><strong>Sobota i niedziela: 12:00–16:00</strong></p><p>W Anna & Lena jesteśmy do Państwa dyspozycji każdego dnia. Mają Państwo pytania lub potrzebują pomocy? Zapraszamy do kontaktu — nasz zespół chętnie pomoże.</p><p>📧 <a href=\"mailto:contact@annalena.pl\">contact@annalena.pl</a><br/><br/>📍 Warszawa, Polska</p>",
             "enable_follow_on_shop": false
           }
         },
@@ -35,8 +35,8 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Ontvang € 100 winkeltegoed",
-            "content": "<p>Elke maand geven we € 100 winkeltegoed weg aan één van onze trouwe abonnees!</p>"
+            "title": "Odbierz 400 zł na zakupy",
+            "content": "<p>Co miesiąc przyznajemy 400 zł na zakupy jednemu z naszych lojalnych subskrybentów!</p>"
           }
         }
       },
