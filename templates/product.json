@@ -242,6 +242,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_TbdgXe": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div style=\"background-color:#4a0e0e; padding:34px 20px; text-align:center;\">\n  <p style=\"margin:0 0 4px 0; font-family:Arial, Helvetica, sans-serif; font-weight:700; font-size:19px; letter-spacing:0.5px; text-transform:uppercase; color:#ffffff;\">\n    BUY 2, GET AN EXTRA <span style=\"color:#d9a15b;\">15% OFF</span>\n  </p>\n  <p style=\"margin:0 0 4px 0; font-family:Arial, Helvetica, sans-serif; font-weight:700; font-size:19px; letter-spacing:0.5px; text-transform:uppercase; color:#ffffff;\">\n    BUY 3, GET AN EXTRA <span style=\"color:#d9a15b;\">20% OFF</span>\n  </p>\n  <p style=\"margin:0; font-family:Arial, Helvetica, sans-serif; font-weight:700; font-size:19px; letter-spacing:0.5px; text-transform:uppercase; color:#ffffff;\">\n    BUY 4, GET AN EXTRA <span style=\"color:#d9a15b;\">25% OFF</span>\n  </p>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "53_Rb3MJd": {
       "type": "53",
       "blocks": {
@@ -1054,6 +1067,7 @@
     "custom_liquid_rxQhDN",
     "custom_liquid_twrDtC",
     "custom_liquid_KqhTHH",
+    "custom_liquid_TbdgXe",
     "53_Rb3MJd",
     "slideshow_GRfPCa",
     "related_products_VLHTa6",
