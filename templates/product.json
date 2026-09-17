@@ -28,7 +28,7 @@
         "liquid_tgmLkE": {
           "type": "liquid",
           "settings": {
-            "liquid": "<p style=\"font-style: italic; font-weight: 300; font-size: 0.9rem; color: rgb(90, 90, 90);\">\n  Bardzo ograniczona liczba: tylko 10 ręcznie wykonanych egzemplarzy\n</p>"
+            "liquid": "<style>\n  @media (max-width: 480px) {\n    .fa-limited-note {\n      font-size: 0.78rem !important;\n    }\n  }\n</style>\n\n<p class=\"fa-limited-note\" style=\"font-style: italic; font-weight: 300; font-size: 0.9rem; color: rgb(90, 90, 90);\">\n  Bardzo ograniczona ilość: Tylko 10 egzemplarzy wykonanych ręcznie\n</p>"
           }
         },
         "price_VDj6mT": {
