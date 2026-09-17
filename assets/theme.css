@@ -10026,4 +10026,30 @@ split-lines {
 }
 
 
+/* Custom: cart drawer discount badge color override - added [today's date] */
+line-item .badge {
+  background-color: #590C0C !important;
+  color: #ffffff !important;
+}
+/* Size swatch: selected state only - red fill, gold ring, white text */
+:checked + .block-swatch,
+.block-swatch.is-selected {
+  background: #590C0C !important;
+  color: #ffffff !important;
+}
 
+:checked + .block-swatch:before,
+.block-swatch.is-selected:before {
+  box-shadow: 0 0 0 2px #C5A059 !important;
+  transition: box-shadow .15s ease-in-out, opacity .2s ease-in-out, transform .2s ease-in-out !important;
+}
+.block-swatch {
+  border-radius: 6px !important; /* or 0 for fully sharp corners */
+}
+cart-drawer .h5 {
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: 600 !important;
+  font-style: normal !important;
+  text-transform: none !important;
+  letter-spacing: normal !important;
+}
