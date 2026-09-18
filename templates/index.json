@@ -457,7 +457,7 @@
           "type": "item",
           "settings": {
             "question": "Jakie metody płatności są akceptowane?",
-            "answer": "<p>Mogą Państwo wybrać jedną z następujących metod płatności: <strong>karta płatnicza (Visa, Mastercard, AMEX), Google Pay, Apple Pay, BLIK oraz</strong>.</p>"
+            "answer": "<p>Mogą Państwo wybrać jedną z następujących metod płatności: <strong>karta płatnicza (Visa, Mastercard, AMEX), Google Pay, Apple Pay,oraz BLIK.</strong></p>"
           }
         }
       },
