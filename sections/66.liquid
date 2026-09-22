@@ -413,7 +413,7 @@
               {% if block.settings.image != blank %}
                 <img src="{{ block.settings.image | image_url }}" alt="{{ block.settings.image.alt }}" {% if lazy %}loading="lazy"{% endif %}>
               {% else %}
-                {% case forloop.index{{ section.id | replace: '-', '' }} %}
+                {% case forloop.index %}
                   {% when 1 %}
                     {{ svg_example_1 }}
                   {% when 2 %}
@@ -1250,4 +1250,13 @@
       }
     ]
   }
-{% endschema %}
+{% endschema %}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% case forloop.index{{ section.id | replace: '-', '' }} %}"
+  to: "{% case forloop.index %}"
+  position: 16808..16832
+{%- endcomment -%}
