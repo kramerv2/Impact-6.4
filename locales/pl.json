@@ -449,6 +449,9 @@
       },
       "general": {
         "pay_now_button_label": "Złóż zamówienie"
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "Tak, chcę otrzymywać ekskluzywne rabaty i oferty na e-mail"
       }
     }
   }
