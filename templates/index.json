@@ -91,10 +91,11 @@
         "text_color": ""
       }
     },
-    "featured_collection_kEMRtM": {
+    "featured_collection_3efJjq": {
       "type": "featured-collection",
+      "name": "Featured collection",
       "settings": {
-        "collection": "luftige-kleider",
+        "collection": "sanfte-bluten",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -104,9 +105,9 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h4>Luftige Kleider - BIS ZU 70 %</h4>",
+        "content": "<h4>Sanfte Blüten - BIS ZU 70 %</h4>",
         "link_url": "",
-        "link_text": "Alle ansehen",
+        "link_text": "Alle anzeigen",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -116,11 +117,10 @@
         "product_card_text_color": ""
       }
     },
-    "featured_collection_3efJjq": {
+    "featured_collection_kEMRtM": {
       "type": "featured-collection",
-      "name": "Featured collection",
       "settings": {
-        "collection": "blutentraum",
+        "collection": "jacken-mantel",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -130,9 +130,9 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h4>Blütentraum - BIS ZU 70 %</h4>",
+        "content": "<h4>Jacken & Mantel - BIS ZU 70 %</h4>",
         "link_url": "",
-        "link_text": "Alle anzeigen",
+        "link_text": "Alle ansehen",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -673,8 +673,8 @@
   "order": [
     "slideshow_VLYwkh",
     "rich_text_iBA7Lb",
-    "featured_collection_kEMRtM",
     "featured_collection_3efJjq",
+    "featured_collection_kEMRtM",
     "featured_collection_D4nK4w",
     "collection_list_QRck8W",
     "media_with_text_4DxUBb",
