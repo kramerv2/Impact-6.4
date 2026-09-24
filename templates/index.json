@@ -146,7 +146,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "luftige-blumenkleider",
+        "collection": "blazer-edit",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -156,7 +156,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h4>Luftige Blumenkleider - BIS ZU 70 %</h4>",
+        "content": "<h4>Blazer edit - BIS ZU 70 %</h4>",
         "link_url": "",
         "link_text": "Alle ansehen",
         "background": "",
