@@ -95,7 +95,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "makellose-italienische-kleider",
+        "collection": "herbstkollektion",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -105,7 +105,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h4>Italienische Kleider - BIS ZU 70 %</h4>",
+        "content": "<h4>herbstkollektion - BIS ZU 70 %</h4>",
         "link_url": "",
         "link_text": "Alle anzeigen",
         "background": "",
@@ -120,7 +120,7 @@
     "featured_collection_kEMRtM": {
       "type": "featured-collection",
       "settings": {
-        "collection": "bestseller-sets",
+        "collection": "sanfte-bluten",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -130,7 +130,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h4>Bestseller Sets - BIS ZU 70 %</h4>",
+        "content": "<h4>Sanfte Blüten - BIS ZU 70 %</h4>",
         "link_url": "",
         "link_text": "Alle ansehen",
         "background": "",
@@ -146,7 +146,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "denim-favoriten",
+        "collection": "jacken-mantel",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -156,7 +156,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h4>Denim Favoriten - BIS ZU 70 %</h4>",
+        "content": "<h4>Jacken & Mantel - BIS ZU 70 %</h4>",
         "link_url": "",
         "link_text": "Alle ansehen",
         "background": "",
