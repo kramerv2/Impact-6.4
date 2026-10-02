@@ -67,7 +67,7 @@
         "menu_open_trigger": "click",
         "opening_from": "left",
         "layout": "drawer",
-        "show_social_media": true,
+        "show_social_media": false,
         "show_locale_selector": false,
         "show_country_selector": false,
         "show_country_flag": false,
