@@ -22,7 +22,15 @@
       "id": "store_email",
       "label": "Email",
       "default": "contact@freyanna.dk"
+    },
+    
+    {
+      "type": "text",
+      "id": "store_nickname",
+      "label": "Nickname",
+      "default": "zosianna"
     }
+     
   ]
 },
 
