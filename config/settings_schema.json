@@ -7,6 +7,25 @@
     "theme_documentation_url": "https://support.com/",
     "theme_support_url": "https://support.com/"
   },
+  
+{
+  "name": "Custom Variables",
+  "settings": [
+    {
+      "type": "text",
+      "id": "store_name",
+      "label": "Store Name",
+      "default": "Freya & Anna"
+    },
+    {
+      "type": "text",
+      "id": "store_email",
+      "label": "Email",
+      "default": "contact@freyanna.dk"
+    }
+  ]
+},
+
   {
     "name": "Appearance and spacing",
     "settings": [
