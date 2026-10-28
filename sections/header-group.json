@@ -19,7 +19,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/ChatGPT_Image_Sep_16_2026_09_19_05_PM.png",
         "logo_max_width": 160,
         "logo_mobile_max_width": 135,
         "menu": "main-menu",
@@ -45,14 +44,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "PRZEPROWADZAMY SIĘ – OSZCZĘDŹ DO 70%",
+            "text": "NOUS DÉMÉNAGEONS – ÉCONOMISEZ JUSQU’À 70 %",
             "url": ""
           }
         },
         "message_hjBBBN": {
           "type": "message",
           "settings": {
-            "text": "15% ZNIŻKI PRZY ZAKUPIE 2 PRODUKTÓW",
+            "text": "15 % DE RÉDUCTION DÈS 2 ARTICLES ACHETÉS",
             "url": ""
           }
         }

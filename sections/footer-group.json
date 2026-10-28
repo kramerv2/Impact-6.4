@@ -18,14 +18,14 @@
           "type": "text",
           "settings": {
             "title": "Obsługa klienta",
-            "content": "<p><strong>Od poniedziałku do piątku: 09:00–17:00</strong><br/><br/><strong>Sobota i niedziela: 12:00–16:00</strong></p><p>W Zosia & Anna jesteśmy do Państwa dyspozycji każdego dnia. Mają Państwo pytania lub potrzebują pomocy? Zapraszamy do kontaktu — nasz zespół chętnie pomoże.</p><p>📧 <a href=\"mailto:contact@annalena.pl\">kontakt@zosianna.com</a><br/><br/>📍 Warszawa, Polska</p>",
+            "content": "<p><strong>Du lundi au vendredi : 09h00–17h00</strong></p><p><strong>Samedi et dimanche : 12h00–16h00</strong></p><p>Chez Marie & Léa, nous sommes à votre disposition tous les jours. Vous avez des questions ou besoin d’aide ? N’hésitez pas à nous contacter, notre équipe se fera un plaisir de vous aider.</p><p>📧 <a href=\"mailto:contact@marilea.fr\">contact@marilea.fr</a></p><p>📍 Paris, France</p>",
             "enable_follow_on_shop": false
           }
         },
         "links_L4R9qx": {
           "type": "links",
           "settings": {
-            "menu": "beleid",
+            "menu": "",
             "show_menu_title": true,
             "menu_title": ""
           }
@@ -35,8 +35,8 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Odbierz 400 zł na zakupy",
-            "content": "<p>Co miesiąc przyznajemy 400 zł na zakupy jednemu z naszych lojalnych subskrybentów!</p>"
+            "title": "Recevez 100 € pour vos achats",
+            "content": "<p>Chaque mois, nous offrons un bon d’achat de 100 € à l’un de nos fidèles abonnés !</p>"
           }
         }
       },
