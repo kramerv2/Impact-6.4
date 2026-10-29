@@ -376,6 +376,112 @@
         "text_color": ""
       }
     },
+    "26_4atn8y": {
+      "type": "26",
+      "blocks": {
+        "heading_afEy7R": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Foire aux questions</p>",
+            "heading_custom": true,
+            "heading_font": "playfair_display_n5",
+            "heading_size": 38,
+            "heading_size_mobile": 28,
+            "heading_height": 130,
+            "heading_mt": 0,
+            "heading_mt_mobile": 0,
+            "heading_align": "left",
+            "heading_align_mobile": "center",
+            "heading_color": "#1a1a1a"
+          }
+        },
+        "item_HgmRrz": {
+          "type": "item",
+          "settings": {
+            "question": "Quel est le délai de livraison ?",
+            "answer": "<p>Les produits en stock sont généralement livrés sous 6 à 9 jours ouvrés.</p>"
+          }
+        },
+        "item_jCxRAP": {
+          "type": "item",
+          "settings": {
+            "question": "Comment puis-je effectuer un retour ?",
+            "answer": "<p>Si votre commande est éligible à un retour, vous pouvez nous envoyer un e-mail via la rubrique <strong>« Contact »</strong> de notre site internet.</p><p>Dans votre message, veuillez indiquer votre numéro de commande, le motif du retour, une photo du produit s’il est endommagé, ainsi que votre nom, votre prénom et votre adresse complète.</p><p>Nous vous contacterons ensuite pour vous communiquer l’adresse à laquelle retourner le produit.</p>"
+          }
+        },
+        "item_MJWVWx": {
+          "type": "item",
+          "settings": {
+            "question": "Comment vais-je recevoir mon remboursement ?",
+            "answer": "<p>Le remboursement est toujours effectué via le même moyen de paiement que celui utilisé lors de l’achat. Si vous avez payé par carte bancaire, le montant des produits retournés sera directement recrédité sur cette même carte.</p>"
+          }
+        },
+        "item_PY3eiq": {
+          "type": "item",
+          "settings": {
+            "question": "Quels moyens de paiement sont acceptés ?",
+            "answer": "<p>Vous pouvez choisir parmi les moyens de paiement suivants : <strong>carte bancaire (Visa, Mastercard, AMEX), Google Pay, Apple Pay et Bancontact.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_afEy7R",
+        "item_HgmRrz",
+        "item_jCxRAP",
+        "item_MJWVWx",
+        "item_PY3eiq"
+      ],
+      "name": "SS - FAQ #9",
+      "settings": {
+        "body_gap": 30,
+        "body_gap_mobile": 20,
+        "body_radius": 0,
+        "faq_position": "bottom",
+        "faq_position_mobile": "bottom",
+        "item_padding_vertical": 20,
+        "item_padding_vertical_mobile": 20,
+        "item_padding_horizontal": 20,
+        "item_padding_horizontal_mobile": 20,
+        "item_mt": 10,
+        "item_radius": 10,
+        "item_border_thickness": 0,
+        "item_shadow": true,
+        "question_custom": true,
+        "question_font": "montserrat_n5",
+        "question_size": 18,
+        "question_size_mobile": 14,
+        "question_height": 130,
+        "arrow_size": 24,
+        "arrow_size_mobile": 24,
+        "arrow_border_thickness": 0,
+        "answer_custom": false,
+        "answer_font": "josefin_sans_n4",
+        "answer_size": 16,
+        "answer_size_mobile": 12,
+        "answer_height": 170,
+        "answer_padding_top": 16,
+        "item_bg_color": "#ffffff",
+        "item_border_color": "#000000",
+        "question_color": "#1a1a1a",
+        "arrow_color": "#757575",
+        "arrow_border_color": "#6c584c",
+        "answer_color": "#757575",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "padding_horizontal": 6,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0
+      }
+    },
     "featured_collection_bKNqUk": {
       "type": "featured-collection",
       "disabled": true,
@@ -967,6 +1073,7 @@
     "slideshow_GRfPCa",
     "related_products_VLHTa6",
     "custom_liquid_Apdzet",
+    "26_4atn8y",
     "featured_collection_bKNqUk",
     "media_with_text_RUgUML",
     "testimonials_keBKgy",
