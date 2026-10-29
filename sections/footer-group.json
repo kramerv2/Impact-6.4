@@ -18,7 +18,7 @@
           "type": "text",
           "settings": {
             "title": "Obsługa klienta",
-            "content": "<p><strong>Du lundi au vendredi : 09h00–17h00</strong></p><p><strong>Samedi et dimanche : 12h00–16h00</strong></p><p>Chez Marie & Léa, nous sommes à votre disposition tous les jours. Vous avez des questions ou besoin d’aide ? N’hésitez pas à nous contacter, notre équipe se fera un plaisir de vous aider.</p><p>📧 <a href=\"mailto:contact@marilea.fr\">contact@marilea.fr</a></p><p>📍 Paris, France</p>",
+            "content": "<p><strong>Du lundi au vendredi : 09h00–17h00</strong></p><p><strong>Samedi et dimanche : 12h00–16h00</strong></p><p>Chez Marie & Élodie, nous sommes à votre disposition tous les jours. Vous avez des questions ou besoin d’aide ? N’hésitez pas à nous contacter, notre équipe se fera un plaisir de vous aider.</p><p>📧 <a href=\"mailto:contact@marielodie.fr\">contact@marielodie.fr</a></p><p>📍 Paris, France</p>",
             "enable_follow_on_shop": false
           }
         },
