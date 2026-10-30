@@ -17,7 +17,7 @@
         "text_nhchfD": {
           "type": "text",
           "settings": {
-            "title": "Obsługa klienta",
+            "title": "Service client",
             "content": "<p><strong>Du lundi au vendredi : 09h00–17h00</strong></p><p><strong>Samedi et dimanche : 12h00–16h00</strong></p><p>Chez Marie & Élodie, nous sommes à votre disposition tous les jours. Vous avez des questions ou besoin d’aide ? N’hésitez pas à nous contacter, notre équipe se fera un plaisir de vous aider.</p><p>📧 <a href=\"mailto:contact@marielodie.fr\">contact@marielodie.fr</a></p><p>📍 Paris, France</p>",
             "enable_follow_on_shop": false
           }
@@ -48,9 +48,9 @@
       "settings": {
         "show_social_media": false,
         "show_payment_icons": true,
-        "show_country_selector": true,
-        "show_country_flag": true,
-        "show_country_name": true,
+        "show_country_selector": false,
+        "show_country_flag": false,
+        "show_country_name": false,
         "show_locale_selector": true
       }
     }
