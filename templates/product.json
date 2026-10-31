@@ -378,9 +378,10 @@
     },
     "featured_collection_UbBHYA": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "Featured collection",
       "settings": {
-        "collection": "patchwork-d-hiver",
+        "collection": "vestes-matelassees",
         "products": [],
         "full_width": true,
         "stack_products": false,
