@@ -15,7 +15,6 @@
         "image_F7tnMG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/a30df136-de91-44d1-a676-b63203561591.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -58,7 +57,7 @@
         "image_eiQFhX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ff644c31-ca24-44c7-8a2d-82dfa0799258.png",
+            "image": "shopify://shop_images/fcc3f42d-95a8-4fa6-b1ce-f7cb283bf1d0.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
