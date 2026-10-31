@@ -344,7 +344,7 @@
       "type": "related-products",
       "name": "Related products",
       "settings": {
-        "recommendations_count": 6,
+        "recommendations_count": 10,
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -353,7 +353,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h4>Associez et économisez – 15 % de réduction</h4>",
+        "content": "<h4>Combinez et économisez – 15 % de réduction&nbsp;</h4>",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -374,6 +374,32 @@
         "background": "#f5f3ed",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "featured_collection_UbBHYA": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "patchwork-d-hiver",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 15,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "<h4>Combinez et économisez – 15 % de réduction&nbsp;<br/></h4>",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "26_4atn8y": {
@@ -1073,6 +1099,7 @@
     "slideshow_GRfPCa",
     "related_products_VLHTa6",
     "custom_liquid_Apdzet",
+    "featured_collection_UbBHYA",
     "26_4atn8y",
     "featured_collection_bKNqUk",
     "media_with_text_RUgUML",
