@@ -63,7 +63,7 @@
     "cart_show_free_shipping_threshold": true,
     "cart_free_shipping_threshold": "20",
     "social_facebook": "",
-    "favicon": "shopify://shop_images/ChatGPT_Image_Sep_17_2026_02_29_37_PM-modified.png",
+    "favicon": "shopify://shop_images/Minimalist_Burgundy_ME_Monogram_Badge-modified_1.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
@@ -77,6 +77,21 @@
         "type": "shopify://apps/seowill-trust-badges/blocks/trust_core/f42f2346-5d14-4b41-a8b9-4b6ee352262e",
         "disabled": false,
         "settings": {}
+      },
+      "12075128526103414267": {
+        "type": "shopify://apps/bundlex-bundles/blocks/volume-discount-embed/c017a4b2-071a-4809-a2c2-1c5768f46bb9",
+        "disabled": false,
+        "settings": {
+          "show_advanced": false,
+          "hide_quantity": false,
+          "custom_placement_selector": "",
+          "add_to_cart_button_selector": "",
+          "quantity_container_selector": "",
+          "quantity_input_selector": "",
+          "variants_container_selector": "",
+          "product_form_selector": "",
+          "custom_css": ""
+        }
       }
     }
   },
