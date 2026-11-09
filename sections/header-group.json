@@ -19,7 +19,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/f3196109-4c08-4d47-9670-4993be8b9fcc.png",
         "logo_max_width": 220,
         "logo_mobile_max_width": 135,
         "menu": "main-menu",
@@ -45,14 +44,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "NOUS DÉMÉNAGEONS – ÉCONOMISEZ JUSQU’À 70 %",
+            "text": "WIR WACHSEN – SPAREN SIE BIS ZU 70 %",
             "url": ""
           }
         },
         "message_hjBBBN": {
           "type": "message",
           "settings": {
-            "text": "15 % DE RÉDUCTION DÈS 2 ARTICLES ACHETÉS",
+            "text": "15 % RABATT AB 2 ARTIKELN",
             "url": ""
           }
         }
