@@ -165,6 +165,20 @@
                     {% endif %}
 
                   {%- when 'checkout_button' -%}
+
+  {%- if cart.item_count == 1 -%}
+    <p class="cart-upsell-message" style="text-align: center; font-weight: 600; margin-bottom: 12px;">
+      Füge einen weiteren hinzu, spare zusätzlich 15 %!
+    </p>
+  {%- elsif cart.item_count == 2 -%}
+    <p class="cart-upsell-message" style="text-align: center; font-weight: 600; margin-bottom: 12px;">
+      Füge einen weiteren hinzu, spare zusätzlich 20 %!
+    </p>
+  {%- elsif cart.item_count == 3 -%}
+    <p class="cart-upsell-message" style="text-align: center; font-weight: 600; margin-bottom: 12px;">
+      Füge einen weiteren hinzu, spare zusätzlich 25 %!
+    </p>
+  {%- endif -%}
                     {%- assign checkout_button = 'cart.general.checkout' | t -%}
                     {%- render 'button', type: 'submit', icon: 'picto-lock', content: checkout_button, size: 'xl', name: 'checkout', stretch: true, block: block -%}
                 {%- endcase -%}
