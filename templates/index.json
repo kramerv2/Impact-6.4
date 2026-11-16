@@ -419,7 +419,7 @@
         "heading_CNyHeT": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Foire aux questions</p>",
+            "heading": "<p><strong>Häufig gestellte Fragen (FAQ)</strong></p><p></p>",
             "heading_custom": true,
             "heading_font": "playfair_display_n5",
             "heading_size": 38,
