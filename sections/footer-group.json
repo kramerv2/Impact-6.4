@@ -17,15 +17,15 @@
         "text_nhchfD": {
           "type": "text",
           "settings": {
-            "title": "Service client",
-            "content": "<p><strong>Du lundi au vendredi : 09h00–17h00<br/>Samedi et dimanche : 12h00–16h00</strong></p><p>Chez Marie & Élodie, nous sommes à votre disposition tous les jours. Vous avez des questions ou besoin d’aide ? N’hésitez pas à nous contacter, notre équipe se fera un plaisir de vous aider.</p><p>📧 <a href=\"mailto:contact@marielodie.fr\">contact@marielodie.fr<br/></a>📍 Paris, France</p>",
+            "title": "Kundenservice",
+            "content": "<p><strong>Montag bis Freitag: 09:00–17:00 Uhr</strong><br/><strong>Samstag und Sonntag: 12:00–16:00 Uhr</strong></p><p>Bei <strong>Greta & Klara</strong> sind wir jeden Tag gerne für Sie da. Haben Sie Fragen oder benötigen Sie Unterstützung? Zögern Sie nicht, uns zu kontaktieren. Unser Team hilft Ihnen jederzeit gerne weiter.</p><p>📧 contact@gretaundklara.com<br/>📍 Wien, Österreich</p>",
             "enable_follow_on_shop": false
           }
         },
         "links_L4R9qx": {
           "type": "links",
           "settings": {
-            "menu": "politiques",
+            "menu": "",
             "show_menu_title": true,
             "menu_title": ""
           }
@@ -35,8 +35,8 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Recevez 100 € pour vos achats",
-            "content": "<p>Chaque mois, nous offrons un bon d’achat de 100 € à l’un de nos fidèles abonnés !</p>"
+            "title": "Sichern Sie sich einen 100 € Einkaufsgutschein!",
+            "content": "<p>Jeden Monat verlosen wir einen Einkaufsgutschein im Wert von 100 € unter unseren treuen Newsletter-Abonnenten!</p>"
           }
         }
       },
