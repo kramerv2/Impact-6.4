@@ -15,8 +15,6 @@
         "image_wYMMcR": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Copy_of_BANNER.webp",
-            "mobile_image": "shopify://shop_images/Copy_of_BANNER.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -140,7 +138,6 @@
         "image_YpMHh8": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/e5d769c8-0f08-479d-aa19-12cbf3ece5c2_optimized.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -289,8 +286,8 @@
         "border_color": "#000000",
         "margin_top": 16,
         "margin_bottom": 16,
-        "margin_horizontal": 4,
-        "margin_horizontal_mobile": 1.5,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
         "padding_top": 60,
         "padding_bottom": 60,
         "padding_horizontal": 6,
@@ -307,7 +304,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-return",
-            "custom_icon": "shopify://shop_images/cashback_1_small_7be20833-4fe2-4ab0-b753-d28e62da6767.webp",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
@@ -321,7 +317,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-truck",
-            "custom_icon": "shopify://shop_images/protected.webp",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
@@ -335,7 +330,6 @@
           "type": "item",
           "settings": {
             "icon": "picto-chat",
-            "custom_icon": "shopify://shop_images/chat.webp",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
