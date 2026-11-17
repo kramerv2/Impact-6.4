@@ -15,17 +15,18 @@
         "image_r8AiMA": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/53eaa53f-35d7-4da4-8b66-4b54eea76cc6.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "FLYTTESALG",
+            "subheading": "",
             "title": "Op til 70% Rabat – Begrænset Lager",
             "heading_tag": "h4",
             "button_text": "Køb nu",
             "button_link": "shopify://collections",
             "text_color": "#ffffff",
-            "button_background": "#02569B",
-            "button_text_color": "#FFFFFF",
+            "button_background": "#02569b",
+            "button_text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30,
             "background": "",
@@ -58,7 +59,7 @@
           "settings": {
             "text": "Velkommen til Ole & Kasper",
             "heading_tag": "h3",
-            "text_color": "#02569B",
+            "text_color": "#02569b",
             "gradient": ""
           }
         },
