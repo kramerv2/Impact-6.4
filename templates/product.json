@@ -403,13 +403,13 @@
         "product_card_text_color": ""
       }
     },
-    "26_4atn8y": {
+    "26_xCAUnw": {
       "type": "26",
       "blocks": {
-        "heading_afEy7R": {
+        "heading_d9i78T": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Foire aux questions</p>",
+            "heading": "<p>OFTE STILLEDE SPØRGSMÅL</p>",
             "heading_custom": true,
             "heading_font": "playfair_display_n5",
             "heading_size": 38,
@@ -422,41 +422,41 @@
             "heading_color": "#1a1a1a"
           }
         },
-        "item_HgmRrz": {
+        "item_eJTUdd": {
           "type": "item",
           "settings": {
-            "question": "Quel est le délai de livraison ?",
-            "answer": "<p>Les produits en stock sont généralement livrés sous 6 à 9 jours ouvrés.</p>"
+            "question": "Hvad er leveringstiden?",
+            "answer": "<p>Vi leverer normalt de varer, der er på lager, inden for&nbsp;<strong>6-9 dage</strong>.</p>"
           }
         },
-        "item_jCxRAP": {
+        "item_m7KEPy": {
           "type": "item",
           "settings": {
-            "question": "Comment puis-je effectuer un retour ?",
-            "answer": "<p>Si votre commande est éligible à un retour, vous pouvez nous envoyer un e-mail via la rubrique <strong>« Contact »</strong> de notre site internet.</p><p>Dans votre message, veuillez indiquer votre numéro de commande, le motif du retour, une photo du produit s’il est endommagé, ainsi que votre nom, votre prénom et votre adresse complète.</p><p>Nous vous contacterons ensuite pour vous communiquer l’adresse à laquelle retourner le produit.</p>"
+            "question": "Hvordan kan jeg spore min ordre?",
+            "answer": "<p>For at tjekke leveringsstatus på din ordre, skal du se den forsendelsesbekræftelse, du har modtaget på e-mail.<br/><br/>For hver pakke, der sendes, modtager du en e-mail med en bekræftelse, som indeholder et sporingslink.<br/><br/>Denne e-mail sendes, så snart din ordre er behandlet og afsendt. Brug sporingslinket til at følge din pakke i realtid.<br/><br/></p>"
           }
         },
-        "item_MJWVWx": {
+        "item_dLU3kJ": {
           "type": "item",
           "settings": {
-            "question": "Comment vais-je recevoir mon remboursement ?",
-            "answer": "<p>Le remboursement est toujours effectué via le même moyen de paiement que celui utilisé lors de l’achat. Si vous avez payé par carte bancaire, le montant des produits retournés sera directement recrédité sur cette même carte.</p>"
+            "question": "Hvordan anmoder jeg om en returnering?",
+            "answer": "<p>Hvis din ordre er berettiget til returnering, skal du gøre følgende for at starte processen:</p><p>- Send en e-mail via sektionen&nbsp;<strong>\"Contact\"</strong>&nbsp;på vores hjemmeside.<br/>- I denne e-mail skal du angive følgende oplysninger:<br/>- Ordrenummer<br/>- Årsag til returneringen<br/>- Billede af produktet (hvis der er skade)<br/>- Kundens for- og efternavn<br/>- Kundens adresse</p><p>Vi kontakter dig derefter for at give dig returadressen.</p>"
           }
         },
-        "item_PY3eiq": {
+        "item_KJfyMR": {
           "type": "item",
           "settings": {
-            "question": "Quels moyens de paiement sont acceptés ?",
-            "answer": "<p>Vous pouvez choisir parmi les moyens de paiement suivants : <strong>carte bancaire (Visa, Mastercard, AMEX), Google Pay, Apple Pay et Bancontact.</strong></p>"
+            "question": "Hvordan modtager jeg min tilbagebetaling?",
+            "answer": "<p>Tilbagebetalingen sker altid via den betalingsmetode, du har brugt.<br/><br/>Hvis du har betalt med kreditkort, bliver beløbet for de returnerede varer sat direkte tilbage på dit kreditkort.</p>"
           }
         }
       },
       "block_order": [
-        "heading_afEy7R",
-        "item_HgmRrz",
-        "item_jCxRAP",
-        "item_MJWVWx",
-        "item_PY3eiq"
+        "heading_d9i78T",
+        "item_eJTUdd",
+        "item_m7KEPy",
+        "item_dLU3kJ",
+        "item_KJfyMR"
       ],
       "name": "SS - FAQ #9",
       "settings": {
@@ -1101,7 +1101,7 @@
     "related_products_VLHTa6",
     "custom_liquid_Apdzet",
     "featured_collection_UbBHYA",
-    "26_4atn8y",
+    "26_xCAUnw",
     "featured_collection_bKNqUk",
     "media_with_text_RUgUML",
     "testimonials_keBKgy",
