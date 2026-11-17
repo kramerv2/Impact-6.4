@@ -10028,7 +10028,7 @@ split-lines {
 
 /* Custom: cart drawer discount badge color override - added [today's date] */
 line-item .badge {
-  background-color: #590C0C !important;
+  background-color: #2196F3 !important;
   color: #ffffff !important;
 }
 /* Size swatch: selected state only - red fill, gold ring, white text */
