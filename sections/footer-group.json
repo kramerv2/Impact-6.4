@@ -22,14 +22,6 @@
             "enable_follow_on_shop": false
           }
         },
-        "links_L4R9qx": {
-          "type": "links",
-          "settings": {
-            "menu": "",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
-        },
         "newsletter_TYgkAH": {
           "type": "newsletter",
           "settings": {
@@ -42,7 +34,6 @@
       },
       "block_order": [
         "text_nhchfD",
-        "links_L4R9qx",
         "newsletter_TYgkAH"
       ],
       "settings": {
