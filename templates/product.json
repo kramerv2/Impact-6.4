@@ -409,7 +409,7 @@
         "heading_afEy7R": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Foire aux questions</p>",
+            "heading": "<p>Häufig gestellte Fragen (FAQ)</p>",
             "heading_custom": true,
             "heading_font": "playfair_display_n5",
             "heading_size": 38,
@@ -425,29 +425,29 @@
         "item_HgmRrz": {
           "type": "item",
           "settings": {
-            "question": "Quel est le délai de livraison ?",
-            "answer": "<p>Les produits en stock sont généralement livrés sous 6 à 9 jours ouvrés.</p>"
+            "question": "Wie lange dauert die Lieferung?",
+            "answer": "<p>Vorrätige Artikel werden in der Regel innerhalb von 6 bis 9 Werktagen geliefert.</p>"
           }
         },
         "item_jCxRAP": {
           "type": "item",
           "settings": {
-            "question": "Comment puis-je effectuer un retour ?",
-            "answer": "<p>Si votre commande est éligible à un retour, vous pouvez nous envoyer un e-mail via la rubrique <strong>« Contact »</strong> de notre site internet.</p><p>Dans votre message, veuillez indiquer votre numéro de commande, le motif du retour, une photo du produit s’il est endommagé, ainsi que votre nom, votre prénom et votre adresse complète.</p><p>Nous vous contacterons ensuite pour vous communiquer l’adresse à laquelle retourner le produit.</p>"
+            "question": "Wie kann ich einen Artikel zurücksenden?",
+            "answer": "<p>Wenn Ihre Bestellung für eine Rücksendung infrage kommt, können Sie uns über den Bereich <strong>„Kontakt“</strong> auf unserer Website eine E-Mail senden.</p><p>Bitte geben Sie in Ihrer Nachricht Ihre Bestellnummer, den Grund für die Rücksendung, bei beschädigten Artikeln ein Foto des Produkts sowie Ihren Vor- und Nachnamen und Ihre vollständige Adresse an.</p><p>Anschließend melden wir uns bei Ihnen und teilen Ihnen die Rücksendeadresse mit.</p>"
           }
         },
         "item_MJWVWx": {
           "type": "item",
           "settings": {
-            "question": "Comment vais-je recevoir mon remboursement ?",
-            "answer": "<p>Le remboursement est toujours effectué via le même moyen de paiement que celui utilisé lors de l’achat. Si vous avez payé par carte bancaire, le montant des produits retournés sera directement recrédité sur cette même carte.</p>"
+            "question": "Wie erhalte ich meine Rückerstattung?",
+            "answer": "<p>Die Rückerstattung erfolgt immer über dieselbe Zahlungsmethode, die Sie bei Ihrer Bestellung verwendet haben.</p><p>Wenn Sie mit Kredit- oder Debitkarte bezahlt haben, wird der Betrag für die zurückgesendeten Artikel direkt auf dieselbe Karte zurückgebucht.</p>"
           }
         },
         "item_PY3eiq": {
           "type": "item",
           "settings": {
-            "question": "Quels moyens de paiement sont acceptés ?",
-            "answer": "<p>Vous pouvez choisir parmi les moyens de paiement suivants : <strong>carte bancaire (Visa, Mastercard, AMEX), Google Pay, Apple Pay et Bancontact.</strong></p>"
+            "question": "Welche Zahlungsmethoden werden akzeptiert?",
+            "answer": "<p>Sie können zwischen folgenden Zahlungsmethoden wählen: <strong>Kredit- und Debitkarte (Visa, Mastercard, American Express), Google Pay und Apple Pay.</strong></p>"
           }
         }
       },
