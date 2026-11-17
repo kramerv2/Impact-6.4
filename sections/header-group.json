@@ -44,14 +44,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "NOUS DÉMÉNAGEONS – ÉCONOMISEZ JUSQU’À 70 %",
+            "text": "VI FLYTTER – SPAR OP TIL 70 %",
             "url": ""
           }
         },
         "message_hjBBBN": {
           "type": "message",
           "settings": {
-            "text": "15 % DE RÉDUCTION DÈS 2 ARTICLES ACHETÉS",
+            "text": "15 % RABAT VED KØB AF 2 VARER",
             "url": ""
           }
         }
@@ -67,7 +67,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 15,
-        "background": "#02569B",
+        "background": "#02569b",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
