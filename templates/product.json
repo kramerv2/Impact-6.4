@@ -251,7 +251,7 @@
         "remove_vertical_spacing": true,
         "remove_horizontal_spacing": true,
         "liquid": "<style>\n  @media (max-width: 480px) {\n    .fa-tier-line {\n      font-size: 15px !important;\n      letter-spacing: 0.3px !important;\n    }\n  }\n</style>\n\n<div style=\"background-color:#1565C0; padding:34px 20px; text-align:center;\">\n  <p class=\"fa-tier-line\" style=\"margin:0 0 4px 0; font-family:'Montserrat', Arial, Helvetica, sans-serif; font-weight:700; font-size:19px; letter-spacing:0.5px; text-transform:uppercase; color:#ffffff;\">\n    KØB 2 VARER, OG FÅ <span style=\"color:#BBDEFB;\">15 % EKSTRA RABAT</span>\n  </p>\n  <p class=\"fa-tier-line\" style=\"margin:0 0 4px 0; font-family:'Montserrat', Arial, Helvetica, sans-serif; font-weight:700; font-size:19px; letter-spacing:0.5px; text-transform:uppercase; color:#ffffff;\">\n    KØB 3 VARER, OG FÅ <span style=\"color:#BBDEFB;\">20 % EKSTRA RABAT</span>\n  </p>\n  <p class=\"fa-tier-line\" style=\"margin:0; font-family:'Montserrat', Arial, Helvetica, sans-serif; font-weight:700; font-size:19px; letter-spacing:0.5px; text-transform:uppercase; color:#ffffff;\">\n    KØB 4 VARER, OG FÅ <span style=\"color:#BBDEFB;\">25 % EKSTRA RABAT</span>\n  </p>\n</div>",
-        "background": "#4a0e0e",
+        "background": "#02569B",
         "background_gradient": "",
         "text_color": ""
       }
