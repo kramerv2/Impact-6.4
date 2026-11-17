@@ -57,7 +57,8 @@
         "image_eiQFhX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/fcc3f42d-95a8-4fa6-b1ce-f7cb283bf1d0.png",
+            "image": "shopify://shop_images/greta-klara-umzugsverkauf_1.jpg",
+            "mobile_image": "shopify://shop_images/greta-klara-umzugsverkauf_1.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
