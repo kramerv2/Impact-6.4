@@ -15,6 +15,7 @@
         "image_r8AiMA": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/mentor-dress-v1_1512x_948cbb99-e7f4-44e8-af45-eff29ce77ecc.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
