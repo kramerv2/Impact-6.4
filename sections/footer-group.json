@@ -17,15 +17,15 @@
         "text_nhchfD": {
           "type": "text",
           "settings": {
-            "title": "Service client",
-            "content": "<p><strong>Du lundi au vendredi : 09h00–17h00<br/>Samedi et dimanche : 12h00–16h00</strong></p><p>Chez Marie & Élodie, nous sommes à votre disposition tous les jours. Vous avez des questions ou besoin d’aide ? N’hésitez pas à nous contacter, notre équipe se fera un plaisir de vous aider.</p><p>📧 <a href=\"mailto:contact@marielodie.fr\">contact@marielodie.fr<br/></a>📍 Paris, France</p>",
+            "title": "Kundeservice",
+            "content": "<p><strong>Mandag til fredag 09:00 - 17:00</strong><br/><strong>Lørdag & søndag 12:00 - 16:00</strong></p><p>Hos Freya & Anna er vi her for dig hver dag. Har du et spørgsmål eller brug for hjælp? Kontakt os når som helst, så hjælper vores team dig gerne.</p><p>📧 <a href=\"mailto:contact@freyanna.dk\">contact@olekasper.dk</a><br/>📍 København, Danmark</p>",
             "enable_follow_on_shop": false
           }
         },
         "links_L4R9qx": {
           "type": "links",
           "settings": {
-            "menu": "politiques",
+            "menu": "",
             "show_menu_title": true,
             "menu_title": ""
           }
@@ -35,8 +35,8 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Recevez 100 € pour vos achats",
-            "content": "<p>Chaque mois, nous offrons un bon d’achat de 100 € à l’un de nos fidèles abonnés !</p>"
+            "title": "Vind 700 Kr i butikskredit",
+            "content": "<p>Hver måned giver vi 700 Kr i butikskredit til en af vores loyale abonnenter!</p>"
           }
         }
       },
