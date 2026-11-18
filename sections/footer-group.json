@@ -22,6 +22,14 @@
             "enable_follow_on_shop": false
           }
         },
+        "links_4DNWVN": {
+          "type": "links",
+          "settings": {
+            "menu": "retningslinjer",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
         "newsletter_TYgkAH": {
           "type": "newsletter",
           "settings": {
@@ -34,6 +42,7 @@
       },
       "block_order": [
         "text_nhchfD",
+        "links_4DNWVN",
         "newsletter_TYgkAH"
       ],
       "settings": {
