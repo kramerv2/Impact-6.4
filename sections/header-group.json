@@ -20,7 +20,7 @@
         "enable_sticky": true,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/e6b40f36-fddc-419e-8af2-bc0b878f4023.png",
-        "logo_max_width": 300,
+        "logo_max_width": 215,
         "logo_mobile_max_width": 170,
         "menu": "main-menu",
         "sidebar_menu": "",
