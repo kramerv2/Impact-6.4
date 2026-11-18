@@ -91,7 +91,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "bottes-orthopediques",
+        "collection": "kuschelige-winterlooks",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -101,7 +101,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h2>Les bottes de la saison</h2>",
+        "content": "<h2>kuschelige-winterlooks</h2>",
         "link_url": "shopify://collections/de-kunst-van-de-jurk",
         "link_text": "Toute",
         "background": "rgba(0,0,0,0)",
