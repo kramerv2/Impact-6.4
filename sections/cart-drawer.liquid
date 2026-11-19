@@ -20,7 +20,22 @@
   {%- else -%}
     <div class="cart-drawer__inner">
       <div class="cart-drawer__top">
-        <div class="h-stack items-center justify-between ok-discount-header">
+
+        {%- comment -%} Original header: title + item counter + close button {%- endcomment -%}
+        <div class="h-stack items-center justify-between">
+          <div class="h-stack grow gap-2 sm:gap-2.5">
+            <p class="h5">{{- 'cart.general.title' | t -}}</p>
+            <cart-count class="count-bubble count-bubble--md">{{ cart.item_count }}</cart-count>
+          </div>
+
+          <button type="button" is="close-button" class="drawer__close-icon">
+            <span class="sr-only">{{ 'general.accessibility.close' | t }}</span>
+            {%- render 'icon' with 'close' -%}
+          </button>
+        </div>
+
+        {%- comment -%} Discount message (shown under the header) {%- endcomment -%}
+        <div class="ok-discount-header">
           <p class="ok-discount-message" aria-live="polite">
             {%- case cart.item_count -%}
               {%- when 1 -%}Tilføj én mere, spar 15 % ekstra!
@@ -29,11 +44,6 @@
               {%- else -%}Maksimal rabat på 25 %!
             {%- endcase -%}
           </p>
-
-          <button type="button" is="close-button" class="drawer__close-icon">
-            <span class="sr-only">{{ 'general.accessibility.close' | t }}</span>
-            {%- render 'icon' with 'close' -%}
-          </button>
         </div>
 
         <div class="ok-discount-progress" role="group" aria-label="Mængderabat">
@@ -197,15 +207,19 @@
     border-bottom: 1px solid #e5e5e5;
   }
   #cart-drawer .ok-discount-header {
-    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     min-height: 42px;
+    margin-top: 10px;
+    border-top: 1px solid #e5e5e5;
     border-bottom: 1px solid #e5e5e5;
     padding: 4px 0;
   }
   #cart-drawer .ok-discount-message {
     margin: 0;
     flex: 1;
-    padding-left: 28px;
+    padding: 0;
     color: {% if cart.item_count >= 4 %}#02569B{% else %}#343434{% endif %};
     font-size: 12px;
     font-weight: 500;
