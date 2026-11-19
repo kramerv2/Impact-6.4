@@ -60,7 +60,7 @@
     "cart_type": "drawer",
     "cart_icon": "tote_bag",
     "cart_empty_button_link": "",
-    "cart_show_free_shipping_threshold": true,
+    "cart_show_free_shipping_threshold": false,
     "cart_free_shipping_threshold": "20",
     "social_facebook": "",
     "favicon": "shopify://shop_images/cropped_circle_image_2.png",
