@@ -1,4 +1,3 @@
-
 <cart-drawer {% if request.design_mode %}handle-section-events{% endif %} class="cart-drawer drawer drawer--lg" id="cart-drawer">
 
   {%- if cart.item_count == 0 -%}
@@ -25,6 +24,11 @@
     <div class="cart-drawer__inner">
 
       <div class="cart-drawer__top">
+
+        {% comment %}
+        ===== TEMPORARILY HIDDEN: quantity discount bar =====
+        To re-enable: delete this opening comment tag, the "Fallback close button"
+        block below, and the closing endcomment tag further down.
 
         <div class="de-cart-discount-header">
 
@@ -87,6 +91,12 @@
           </div>
 
         </div>
+        {% endcomment %}
+
+        {%- comment -%} Fallback close button (delete when re-enabling the discount bar) {%- endcomment -%}
+        <button is="close-button" class="drawer__close-icon" aria-label="{{ 'general.accessibility.close' | t | escape }}" style="margin-left:auto;">
+          {%- render 'icon' with 'close' -%}
+        </button>
 
         {% comment %} {%- if settings.cart_show_free_shipping_threshold -%}
           {%- render 'free-shipping-bar' -%}
