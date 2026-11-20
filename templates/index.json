@@ -89,10 +89,9 @@
     },
     "featured_collection_3efJjq": {
       "type": "featured-collection",
-      "disabled": true,
       "name": "Featured collection",
       "settings": {
-        "collection": "bottes-orthopediques",
+        "collection": "bomberjakker",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -102,8 +101,8 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h2>Les bottes de la saison</h2>",
-        "link_url": "shopify://collections/de-kunst-van-de-jurk",
+        "content": "<h2>Bomberjakker -</h2>",
+        "link_url": "",
         "link_text": "Toute",
         "background": "rgba(0,0,0,0)",
         "background_gradient": "",
